@@ -28,12 +28,14 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I’m known for resilience,
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2022.09 - 2025.03*, M.S. in Mechanical Engineering, Northwestern University, IL, U.S. & Shanghai Jiao Tong University, Shanghai, China (Dual Degree). 
-- *2018.09 - 2022.06*, B.S. (Hons.) in Mechanical Engineering in Shanghai Jiao Tong University, Shanghai, China.
-- *2016.09 - 2022.06*, B.S. (Minor) in Business Administration in Shanghai Jiao Tong University, Shanghai, China. 
+- *2023.09 - present*, M.S. in Mechanical Engineering, Northwestern University, Evanston, U.S..
+- *2022.09 - present*, M.S. (Dual Degree) in Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China. 
+- *2018.09 - 2022.06*, B.S. (Hons.) in Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China.
+- *2016.09 - 2022.06*, B.S. (Minor) in Business Administration, Shanghai Jiao Tong University, Shanghai, China. 
 
 # 🔬 Research Experiences
-- *2022.01 - 2022.10*, Softward Development Engineer, Espressif, Shanghai, China.
+- *2023.09 - present*, Research Assistant (Advisor: Prof. John Rogers), Simpson Querrey Institute for Bioelectronics, Evanston, U.S..
+- *2023.09 - present*, Research Assistant (Advisor: Prof. John Rogers), Simpson Querrey Institute for Bioelectronics, Evanston, U.S..Shanghai, China.
 
 # 💻 Internships
 - *2022.01 - 2022.10*, Softward Development Engineer, Espressif, Shanghai, China.
