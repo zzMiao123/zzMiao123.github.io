@@ -17,18 +17,34 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Yuxuan (Ethan) Mao, an M.S. student in Mechanical Engineering at Northwestern University. Before this, I worked as an embedded development engineer at Espressif, known for its ESP32 platform. I earned my B.S. (Hons.) in Mechanical Engineering from Shanghai Jiao Tong University in 2022, where I received multiple honors for academic and research performance, including Excellent Bachelor's Thesis(top 1%) and the Shanghai Scholarship (1/206).
+Hi! I'm Yuxuan (Ethan) Mao, an M.S. student in Mechanical Engineering at Northwestern University. Before this, I worked as an embedded development engineer at Espressif, known for its ESP32 platform. I earned my B.S. (Hons.) in Mechanical Engineering from Shanghai Jiao Tong University in 2022, where I received multiple honors for academic and research performance, including Excellent Bachelor's Thesis (top 1%) and the Shanghai Scholarship (1/206).
 
 My research interests include actuator mechanisms, wearable robotics, and stretchable electronics. Currently, I’m conducting research at the Simpson Querrey Institute for Bioelectronics under the supervision of Prof. John A. Rogers, focusing on multi-modal actuators and soft robotics, particularly in the areas of haptics and organoid interfaces. Since 2020, I have led or contributed to seven papers published in top journals, including Nature and Science, and presented 2 oral reports at international conferences. My expertise spans a wide range of mechatronics skills, including rapid prototyping, micro-fabrication, and embedded programming.
 
 As an INTJ (Introverted-Intuitive-Thinking-Judging), I’m known for resilience, strategic thinking, and a passion for technology. Outside of academics, I enjoy playing and singing R&B on the ukulele, playing basketball, and exploring science fiction, mystery, and epic stories.
 
-
-
-
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📖 Educations
+- *2022.09 - 2025.03*, M.S. in Mechanical Engineering, Northwestern University, IL, U.S. & Shanghai Jiao Tong University, Shanghai, China (Dual Degree). 
+- *2018.09 - 2022.06*, B.S. (Hons.) in Mechanical Engineering in Shanghai Jiao Tong University, Shanghai, China.
+- *2016.09 - 2022.06*, B.S. (Minor) in Business Administration in Shanghai Jiao Tong University, Shanghai, China. 
+
+# 🔬 Research Experiences
+- *2022.01 - 2022.10*, Softward Development Engineer, Espressif, Shanghai, China.
+
+# 💻 Internships
+- *2022.01 - 2022.10*, Softward Development Engineer, Espressif, Shanghai, China.
+
+# ✒️ Outreach
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📝 Publications 
 
@@ -45,18 +61,3 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I’m known for resilience,
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
