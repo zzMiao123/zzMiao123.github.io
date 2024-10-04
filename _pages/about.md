@@ -94,12 +94,16 @@ images/sjtu.png
 <br/>
 # 💻 Internships
 - *2022.01 - 2022.10*, Software Development Engineer, Espressif, Shanghai, China.
+  - Developed a lightweight, modular 12-DOF quadruped robot with **all-stack** skills.
+  - Verified the compatibility of ESP32 platform with Micro-ROS to expand its applicability in robotics.
 
 <br/>
 <br/>
 # 🏫 Outreach
-- *2024.09 - present*, TA (Instructor: Prof. Kevin Lynch), ME449 Robotic Manipulation. 
+- *2024.09 - present*, TA (Instructor: Prof. Kevin Lynch), ME449 Robotic Manipulation.
+  - Assisted with course material preparation, grading, and leading office hour for a class of 80 students.
 - *2020.02 - 2020.12*, Peer Tutor, Top Scholars Club.
+  - Conducted weekly Q&A and review sessions for 2 students; recognized as an Outstanding Tutor.
 
 <br/>
 <br/>
