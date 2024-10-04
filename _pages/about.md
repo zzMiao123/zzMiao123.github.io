@@ -83,24 +83,24 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
   
 - *Efficient Tumor Localization During Respiration with Minimal Scanning Based on Recursive Deformable Diffusion Models*
 
-  <u>Y. Mao*</u>, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen, submission planned Dec. 2024
+  <u>Y. Mao</u>\*, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen, submission planned Dec. 2024
 
 ## Journals
 
 - *A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation*
 
-  D. Li\*, Y. Mao\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen, Computer Methods and Programs in Biomedicine, Jan. 2024
+  D. Li\*, <u>Y. Mao<u>\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen, Computer Methods and Programs in Biomedicine, Jan. 2024
 
 ## Conferences
 
 - *A Real-Time Respiratory Analysis System for PET-CT Based on Fiber-Optic Pressure Sensors*
 
-  Y. Mao, P. Tu, W. Liu, Z. Liu, X. Chen, Oral, China Biomedical Engineering Conference, May. 2023.
+  <u>Y. Mao</u>, P. Tu, W. Liu, Z. Liu, X. Chen, Oral, China Biomedical Engineering Conference, May. 2023.
 
 
 - *A Cable-Driven Hyper-Redundant Robot with Angular Sensing*
 
-  Y. Mao, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao, Oral, IEEE International Conference on Robotics and Biomimetics (ROBIO), Nov. 2021.
+  <u>Y. Mao</u>, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao, Oral, IEEE International Conference on Robotics and Biomimetics (ROBIO), Nov. 2021.
 
   (\* Equal Authorship)
 
