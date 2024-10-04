@@ -23,7 +23,7 @@ My research interests include actuator mechanisms, wearable robotics, and stretc
 
 As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strategic thinking, and a genuine passion for technology to my work. Outside of academics, I enjoy playing and singing R&B on the ukulele, playing basketball, and exploring science fiction, mystery, and epic stories.
 
-</div><img src='../images/DSC03648.JPG' alt="sym" width="100%"></div>
+<img src='../images/DSC03648.JPG' alt="sym" width="70%">
 
 
 # 🔥 News
@@ -63,16 +63,10 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Ongoing Works
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- *Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces*
+  K.-H. Ha*, J. Yoo*, S. Li*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers, **Science**(Under Review), Sep. 2024
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- *Bioelastic State Recovery for Haptic Sensory Substitution*
+  M. Flavin*, K.-H. Ha*, Z. Guo*, S. Li*, J.-T. Kim*, T. Saxena, D. Simatos, F. Al-Najjar, Y. Mao, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers, **Nature** (Conditionally Accepted), June 2024
