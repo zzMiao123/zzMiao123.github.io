@@ -27,11 +27,12 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: 🎉🎉 Our paper "A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation" has been accepted by *Computer Methods and Programs in Biomedicine*. 
+- *2023.10*: 🔬 completed my onboarding at the Simpson Querrey Institute for Bioelectronics.
+- *2023.09*: 💜🐈‍⬛ My journey at Northwestern University begins!
 
 # 📖 Educations
-- *2023.09 - present*, M.S. in Mechanical Engineering, Northwestern University, Evanston, U.S..
+- *2023.09 - present*, M.S. in Mechanical Engineering, Northwestern University, Evanston, U.S.
 - *2022.09 - present*, M.S. (Dual Degree) in Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China. 
 - *2018.09 - 2022.06*, B.S. (Hons.) in Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China.
 
@@ -88,8 +89,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 - *A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation*
 
-  D. Li\*, Y. Mao\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen, Computer Methods and Programs in
-Biomedicine, Jan. 2024
+  D. Li\*, Y. Mao\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen, Computer Methods and Programs in Biomedicine, Jan. 2024
 
 ## Conferences
 
