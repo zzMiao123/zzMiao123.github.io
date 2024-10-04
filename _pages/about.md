@@ -123,7 +123,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 </div>
 
 <br/>
-- [C2] **A Cable-Driven Hyper-Redundant Robot with Angular Sensing**
+- [C2] [**A Cable-Driven Hyper-Redundant Robot with Angular Sensing**](doi: 10.1109/ROBIO54168.2021.9739505)
 
   <u>Y. Mao</u>, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao. Oral, *IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Nov. 2021.
 
