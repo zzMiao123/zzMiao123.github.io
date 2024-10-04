@@ -23,7 +23,7 @@ My research interests include actuator mechanisms, wearable robotics, and stretc
 
 As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strategic thinking, and a genuine passion for technology to my work. Outside of academics, I enjoy playing and singing R&B on the ukulele, playing basketball, and exploring science fiction, mystery, and epic stories.
 
-<img src='../images/report.jpg' alt="sym" width="70%">
+<img src='../images/report-new.jpg' alt="sym" width="70%">
 
 
 # 🔥 News
