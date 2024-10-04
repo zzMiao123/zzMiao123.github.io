@@ -53,7 +53,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 - *2023* Agilent Scholarship (Top 0.6%, 5/773)
 - *2022* Excellent Bachelor Thesis of SJTU (Top 1%, 40/3928)
 - *2022* Outstanding Graduate of Shanghai (Top 2%)
-- *2019&2020&2021* Zhiyuan Honors Scholarship (Top 5%)
+- *2019,2020,2021* Zhiyuan Honors Scholarship (Top 5%)
 - *2021* Guanghua Scholarship
 - *2021* TYACHT Outstanding Student (Top 1%, 5/424)
 - *2021* Zhiyuan Outstanding Leader Scholarship
@@ -66,7 +66,9 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 ## Ongoing Works
 
 - *Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces*
+
   K.-H. Ha*, J. Yoo*, S. Li*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers, **Science**(Under Review), Sep. 2024
 
 - *Bioelastic State Recovery for Haptic Sensory Substitution*
-  M. Flavin*, K.-H. Ha*, Z. Guo*, S. Li*, J.-T. Kim*, T. Saxena, D. Simatos, F. Al-Najjar, Y. Mao, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers, **Nature** (Conditionally Accepted), June 2024
+
+  M. Flavin*, K.-H. Ha*, Z. Guo*, S. Li*, J.-T. Kim*, T. Saxena, D. Simatos, F. Al-Najjar, <u>Y. Mao</u>, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers, **Nature** (Conditionally Accepted), June 2024
