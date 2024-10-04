@@ -156,7 +156,19 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 </div>
 
 <br>
-- 跳跃机器人
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Screenshot 2024-10-04 144625.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cam-Powered Dual-Mode Mobile-Jumping Robot](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+Xin Xu, <u>Yuxuan Mao</u>, Haoyuan Bai, Zheyuan Mei, Mingyuan Xia, Xinjun Sheng*
+
+- mobile-periodic jump. Store energy by cam. adjust position in air through flywheel.
+- in charge of electrical and programming.
+</div>
+</div>
+
 <br>
 - 重物搬运省力机械
 
