@@ -44,7 +44,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 # 💻 Internships
 - *2022.01 - 2022.10*, Softward Development Engineer, Espressif, Shanghai, China.
 
-# ✒️ Outreach
+# 🏫 Outreach
 - *2024.09 - present*, TA (Instructor: Prof. Kevin Lynch), ME449 Robotic Manipulation. 
 - *2020.02 - 2020.12*, Peer Tutor, Top Scholars Club.
 
