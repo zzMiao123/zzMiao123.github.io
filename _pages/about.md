@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Yuxuan (Ethan) Mao, an M.S. student in Mechanical Engineering at Northwestern University. Before this, I worked as an embedded development engineer at Espressif, known for its ESP32 platform. I earned my B.S. (Hons.) in Mechanical Engineering from Shanghai Jiao Tong University in 2022, where I received multiple honors for academic and research performance, including Excellent Bachelor's Thesis (top 1%) and the Shanghai Scholarship (1/206).
+Hi! I'm Yuxuan (Ethan) Mao, an M.S. student in Mechanical Engineering at Northwestern University. Before this, I worked as an embedded development engineer at Espressif, known for its ESP32 platform. I earned my B.S. (Hons.) in Mechanical Engineering from Shanghai Jiao Tong University in 2022.
 
-My research interests include actuator mechanisms, wearable robotics, and stretchable electronics. Currently, I’m conducting research at the Simpson Querrey Institute for Bioelectronics under the supervision of Prof. John A. Rogers, focusing on multi-modal actuators and soft robotics, particularly in the areas of haptics and organoid interfaces. Since 2020, I have led or contributed to seven papers published in top journals, including Nature and Science, and presented 2 oral reports at international conferences. My expertise spans a wide range of mechatronics skills, including rapid prototyping, micro-fabrication, and embedded programming.
+My research interests include actuator mechanisms, wearable robotics, and stretchable electronics. Currently, I’m conducting research at the Simpson Querrey Institute for Bioelectronics under the supervision of Prof. John A. Rogers, focusing on multi-modal actuators and soft robotics, particularly in the areas of haptics and organoid interfaces. My expertise spans a wide range of mechatronics skills, including rapid prototyping, micro-fabrication, and embedded programming.
 
 As an INTJ (Introverted-Intuitive-Thinking-Judging), I’m known for resilience, strategic thinking, and a passion for technology. Outside of academics, I enjoy playing and singing R&B on the ukulele, playing basketball, and exploring science fiction, mystery, and epic stories.
 
@@ -31,22 +31,32 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I’m known for resilience,
 - *2023.09 - present*, M.S. in Mechanical Engineering, Northwestern University, Evanston, U.S..
 - *2022.09 - present*, M.S. (Dual Degree) in Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China. 
 - *2018.09 - 2022.06*, B.S. (Hons.) in Mechanical Engineering, Shanghai Jiao Tong University, Shanghai, China.
-- *2016.09 - 2022.06*, B.S. (Minor) in Business Administration, Shanghai Jiao Tong University, Shanghai, China. 
 
 # 🔬 Research Experiences
-- *2023.09 - present*, Research Assistant (Advisor: Prof. John Rogers), Simpson Querrey Institute for Bioelectronics, Evanston, U.S..
-- *2023.09 - present*, Research Assistant (Advisor: Prof. John Rogers), Simpson Querrey Institute for Bioelectronics, Evanston, U.S..Shanghai, China.
+- *2023.09 - present*, RA (Advisor: Prof. John Rogers), Simpson Querrey Institute for Bioelectronics, Evanston, U.S.
+- *2021.09 - 2023.09*, RA (Advisor: Prof. Xiaojun Chen), Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai, China.
+- *2021.06 - 2021.08*, UG RA (Advisor: Prof. Anzhu Gao), Institute of Medical Robotics, Shanghai, China.
+- *2020.02 - 2021.02*, UG RA (Advisor: Prof. Jianjun Meng), Institute of Robotics, Shanghai, China.
 
 # 💻 Internships
 - *2022.01 - 2022.10*, Softward Development Engineer, Espressif, Shanghai, China.
 
 # ✒️ Outreach
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.09 - present*, TA (Instructor: Prof. Kevin Lynch), ME449 Robotic Manipulation. 
+- *2020.02 - 2020.12*, Peer Tutor, Top Scholars Club.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2023* 1st Prize, Outstanding Paper of Young Scholar, BME2023(China)
+- *2023* Agilent Scholarship (Top 0.6%, 5/773)
+- *2022* Excellent Bachelor Thesis of SJTU (Top 1%, 40/3928)
+- *2022* Outstanding Graduate of Shanghai (Top 2%)
+- *2019&2020&2021* Zhiyuan Honors Scholarship (Top 5%)
+- *2021* Guanghua Scholarship
+- *2021* TYACHT Outstanding Student (Top 1%, 5/424)
+- *2021* Zhiyuan Outstanding Leader Scholarship
+- *2021* COSCO-shipping Scholarship
+- *2020* 1st Prize, Shanghai Mechanical Engineering Innovation Competition
+- *2019* Shanghai Scholarship (Top 1%, 1/206)
 
 # 📝 Publications 
 
