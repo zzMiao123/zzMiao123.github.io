@@ -65,16 +65,30 @@ images/sjtu.png
 <br/>
 # 🔬 Research Experiences
 - *2023.09 - present*, RA, Simpson Querrey Institute for Bioelectronics, Evanston, U.S.
+
   Advisor: Prof. John Rogers
+  
   - Led experimental study of electromagnetic multi-modal actuators for advanced haptic interfaces. Conducted characterization of skin and skin phantom, and psychophysical test of human perception.
   - Design and implemented a multi-channels pneumatic system, for precise control of mm-scale 3D organoid interface.
 <br>
-- *2021.09 - 2023.09*, RA (Advisor: Prof. Xiaojun Chen), Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai, China.
-<br>
-- *2021.06 - 2021.08*, UG RA (Advisor: Prof. Anzhu Gao), Institute of Medical Robotics, Shanghai, China.
+- *2021.09 - 2023.09*, RA, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai, China.
+
+  Advisor: Prof. Xiaojun Chen
+
+  - Designed and clinically verified a robot-assisted puncture system with optical navigation. Developed a novel recursive diffusion deformation model to generate 4D-CT from limited CT scans, significantly corrected localization error from respiration.
 
 <br>
-- *2020.02 - 2021.02*, UG RA (Advisor: Prof. Jianjun Meng), Institute of Robotics, Shanghai, China.
+- *2021.06 - 2021.08*, UG RA, Institute of Medical Robotics, Shanghai, China.
+
+  Advisor: Prof. Anzhu Gao
+
+  - Led the serpentine robot project. Designed and implemented optimal trajectory planning algorithm and a multi-sensor fusion controller for a redundant manipulator.
+<br>
+- *2020.02 - 2021.02*, UG RA, Institute of Robotics, Shanghai, China.
+
+  Advisor: Prof. Jianjun Meng
+  
+  - Participated in hardware building and data analysis. Conducted human subject research to analyze the relationship between bilateral vibration and motor imagery performance of the dominant hand.
 
 <br/>
 <br/>
