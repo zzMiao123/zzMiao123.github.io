@@ -23,6 +23,8 @@ My research interests include actuator mechanisms, wearable robotics, and stretc
 
 As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strategic thinking, and a genuine passion for technology to my work. Outside of academics, I enjoy playing and singing R&B on the ukulele, playing basketball, and exploring science fiction, mystery, and epic stories.
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
