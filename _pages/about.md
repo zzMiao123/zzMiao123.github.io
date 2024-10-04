@@ -84,7 +84,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
   <u>Y. Mao*</u>, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen, submission planned Dec. 2024
 
-## Publications
+## Journals
 
 - *A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation*
 
