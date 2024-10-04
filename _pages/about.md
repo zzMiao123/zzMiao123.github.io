@@ -280,8 +280,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang, Y. Gao*
 
 <u>Y. Mao</u>, F. Sun*
 
-- mobile-periodic jump. Store energy by cam. adjust position in air through flywheel.
-- in charge of electrical and programming.
+- Developed a program in LABView for real-time frequency domain analysis of captured audio using FFT, achieving 90% accuracy in decomposing guitar chords.
 </div>
 </div>
 
