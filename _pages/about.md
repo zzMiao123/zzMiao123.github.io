@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Yuxuan (Ethan) Mao, an M.S. student in Mechanical Engineering at Northwestern University. Before this, I worked as an embedded development engineer at Espressif, known for its ESP32 platform. I earned my B.S. (Hons.) in Mechanical Engineering from Shanghai Jiao Tong University in 2022.
+Hi! I'm Yuxuan, an M.S. student in Mechanical Engineering at Northwestern University. Before this, I worked as an embedded development engineer at Espressif, known for its ESP32 platform. I earned my B.S. (Hons.) in Mechanical Engineering from Shanghai Jiao Tong University in 2022.
 
 My research interests include actuator mechanisms, wearable robotics, and stretchable electronics. Currently, I’m conducting research at the Simpson Querrey Institute for Bioelectronics under the supervision of Prof. John A. Rogers, focusing on multi-modal actuators and soft robotics, particularly in the areas of haptics and organoid interfaces. My expertise spans a wide range of mechatronics skills, including rapid prototyping, micro-fabrication, and embedded programming.
 
@@ -48,7 +48,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 - *2024.09 - present*, TA (Instructor: Prof. Kevin Lynch), ME449 Robotic Manipulation. 
 - *2020.02 - 2020.12*, Peer Tutor, Top Scholars Club.
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - *2023* 1st Prize, Outstanding Paper of Young Scholar, BME2023(China)
 - *2023* Agilent Scholarship (Top 0.6%, 5/773)
 - *2022* Excellent Bachelor Thesis of SJTU (Top 1%, 40/3928)
@@ -79,7 +79,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
   
 - *Efficient Tumor Localization During Respiration with Minimal Scanning Based on Recursive Deformable Diffusion Models*
 
-  <u>Y. Mao\*</u>, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen, submission planned Dec. 2024
+  <u>Y. Mao*</u>, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen, submission planned Dec. 2024
 
 ## Publications
 
