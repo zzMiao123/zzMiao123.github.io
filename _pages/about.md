@@ -49,8 +49,8 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 </div>
 <br>
 
-images/sjtu.png
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1st Prize</div><img src='images/northwestern-university.svg' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1st Prize</div><img src='images/sjtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2022.09 - present*, M.S. (Dual Degree) in Mechanical Engineering,       *Shanghai Jiao Tong University*, Shanghai, China.
 <br>
