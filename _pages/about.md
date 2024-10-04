@@ -23,11 +23,13 @@ My research interests include actuator mechanisms, wearable robotics, and stretc
 
 As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strategic thinking, and a genuine passion for technology to my work. Outside of academics, I enjoy playing and singing R&B on the ukulele, playing basketball, and exploring science fiction, mystery, and epic stories.
 
-<img src='../images/report-new.jpg' alt="sym" width="85%">
+<div style="text-align: center;">
+    <img src='../images/report-new.jpg' alt="sym" width="70%">
+</div>
 
 
 # 🔥 News
-- *2024.01*: 🎉🎉 Our paper "A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation" has been accepted by *Computer Methods and Programs in Biomedicine*. 
+- *2024.01*: 🎉 Our paper "A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation" has been accepted by *Computer Methods and Programs in Biomedicine*. 
 - *2023.10*: 🔬 completed my onboarding at the Simpson Querrey Institute for Bioelectronics.
 - *2023.09*: 💜🐈‍⬛ My journey at Northwestern University begins!
 
@@ -83,13 +85,13 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
   
 - *Efficient Tumor Localization During Respiration with Minimal Scanning Based on Recursive Deformable Diffusion Models*
 
-  <u>Y. Mao</u>\*, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen. Submission planned Dec. 2024
+  <u>Y. Mao*</u>, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen. Submission planned Dec. 2024
 
 ## Journals
 
 - *A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation*
 
-  D. Li\*, <u>Y. Mao<u>\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. *Computer Methods and Programs in Biomedicine*, Jan. 2024
+  D. Li\*, <u>Y. Mao*<u>, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. *Computer Methods and Programs in Biomedicine*, Jan. 2024
 
 ## Conferences
 
@@ -105,5 +107,12 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
   (\* Equal Authorship)
 
 # 🤖 Class Projects
-- *2024.09 - present*, TA (Instructor: Prof. Kevin Lynch), ME449 Robotic Manipulation. 
-- *2020.02 - 2020.12*, Peer Tutor, Top Scholars Club.
+## Robots
+- R-R-R 手腕康复机器人
+- 跳跃机器人
+- 重物搬运省力机械
+
+## Programs
+- 机器人编队
+- 机器人强化学习
+- 和弦分解
