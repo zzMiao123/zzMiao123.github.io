@@ -82,40 +82,40 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 ## Ongoing Works
 
-- *Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces*
+- [1] **Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**
 
   K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science*** (Under Review), Sep. 2024
 
 <br/>
-- *Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces*
+- [2] **Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces**
 
   W. Maeng, Z. Lyu, K. Kim, K.-H. Ha, <u>Y. Mao</u>, S. Xu, L. Praba, Y. Hwang, J. A. Rogers. Submission planned Dec. 2024
 
 <br/>  
-- *Efficient Tumor Localization During Respiration with Minimal Scanning Based on Recursive Deformable Diffusion Models*
+- [3] **Efficient Tumor Localization During Respiration with Minimal Scanning Based on Recursive Deformable Diffusion Models**
 
   <u>Y. Mao</u>\*, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen. Submission planned Dec. 2024
 
 <br/>
 ## Journals
-- *Bioelastic State Recovery for Haptic Sensory Substitution*
+- [J1] **Bioelastic State Recovery for Haptic Sensory Substitution**
 
   M. Flavin\*, K.-H. Ha\*, Z. Guo\*, S. Li\*, J.-T. Kim\*, T. Saxena, D. Simatos, F. Al-Najjar, <u>Y. Mao</u>, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers. ***Nature*** (Accepted), Oct. 2024
   
 <br/>
-- *A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation*
+- [J2] **A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation**
 
   D. Li\*, <u>Y. Mao</u>\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. *Computer Methods and Programs in Biomedicine*, Jan. 2024
 
 <br/>
 ## Conferences
 
-- *A Real-Time Respiratory Analysis System for PET-CT Based on Fiber-Optic Pressure Sensors*
+- [C1] **A Real-Time Respiratory Analysis System for PET-CT Based on Fiber-Optic Pressure Sensors**
 
   <u>Y. Mao</u>, P. Tu, W. Liu, Z. Liu, X. Chen. Oral, *China Biomedical Engineering Conference*, May. 2023.
 
 <br/>
-- *A Cable-Driven Hyper-Redundant Robot with Angular Sensing*
+- [C2] **A Cable-Driven Hyper-Redundant Robot with Angular Sensing**
 
   <u>Y. Mao</u>, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao. Oral, *IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Nov. 2021.
 
