@@ -27,8 +27,8 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
     <img src='../images/report-new.jpg' alt="sym" width="70%">
 </div>
 
-<br/>
-<br/>
+<br>
+<br>
 # 🔥 News
 - *2024.01*: 🎉 Our paper "A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation" has been accepted by *Computer Methods and Programs in Biomedicine*. 
 - *2023.10*: 🔬 completed my onboarding at the Simpson Querrey Institute for Bioelectronics.
@@ -126,16 +126,16 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 # 🤖 Class Projects
 ## Robots
 - R-R-R 手腕康复机器人
-<br/>
+<br>
 - 跳跃机器人
-<br/>
+<br>
 - 重物搬运省力机械
 
-<br/>
+<br>
 
 ## Coding
 - 机器人编队
-<br/>
+<br>
 - 机器人强化学习
 <br/>
 - 和弦分解
