@@ -130,7 +130,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp-ezgif.com-video-to-gif-converter (1).gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Wrist Rehabilitation Assistive Device Based on 3-RRR Mechanism](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Wrist Rehabilitation Assistive Device Based on 3-RRR Mechanism
 
 <u>Yuxuan Mao</u>, Peijun Lin, Ruochen Liu, Bochen Liang, Andong Sun, Yihan Jin, Jinqiu Mo*
 
@@ -146,7 +146,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp1-ezgif.com-video-to-gif-converter.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Lightweight, modular 12-DOF quadruped robot based on ESP32](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Lightweight, modular 12-DOF quadruped robot based on ESP32
 
 <u>Yuxuan Mao</u>, Zhaocheng Zhang*
 
@@ -170,7 +170,17 @@ Xin Xu, <u>Yuxuan Mao</u>, Haoyuan Bai, Zheyuan Mei, Mingyuan Xia, Xinjun Sheng*
 </div>
 
 <br>
-- 重物搬运省力机械
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/image1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cam-Powered Dual-Mode Mobile-Jumping Robot](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+He Yan, <u>Yuxuan Mao</u>, Hongjiang Mao, Zekai Zhang, Yi Gao*
+
+- mobile-periodic jump. Store energy by cam. adjust position in air through flywheel.
+- in charge of electrical and programming.
+</div>
+</div>
 
 <br>
 
