@@ -139,7 +139,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 # 🤖 Projects
 ## Hardware and Robotics
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp-ezgif.com-video-to-gif-converter (1).gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp-ezgif.com-video-to-gif-converter (1).gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Wrist Rehabilitation Assistive Device Based on 3-RRR Mechanism**
@@ -155,7 +155,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp1-ezgif.com-video-to-gif-converter.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp1-ezgif.com-video-to-gif-converter.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Mini Pupper: A Lightweight, modular 12-DOF quadruped robot based on ESP32**
