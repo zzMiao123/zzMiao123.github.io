@@ -38,21 +38,18 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <br/>
 <br/>
 # 📖 Educations
-<div class="paper-box" style="display: flex; align-items: flex-start;">
-  <div class="paper-box-text" markdown="1" style="flex: 1;">
-    - *2023.09 - present*, M.S. in Mechanical Engineering, *Northwestern University*, Evanston, U.S.
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/northwestern-university.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+- *2023.09 - present*, M.S. in Mechanical Engineering, *Northwestern University*, Evanston, U.S.
     
-    GPA: 3.86/4.00
+  GPA: 3.86/4.00
     
-    Coursework: Bio-electronics, Surface Engineering, AI in Robotics, Vibrations and Acoustics
-  </div>
+  Coursework: Bio-electronics, Surface Engineering, AI in Robotics, Vibrations and Acoustics
   
-  <div class="paper-box-image" style="margin-left: 20px;">
-    <img src="images/northwestern-university.svg" alt="sym" width="150px">
-  </div>
 </div>
-<br>
-
+</div>
+<br/>
+<br/>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
