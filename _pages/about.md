@@ -126,6 +126,19 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <br/>
 # 🤖 Projects
 ## Hardware and Robotics
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Wrist Rehabilitation Assistive Device Based on 3-RRR Mechanism](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+<u>Yuxuan Mao</u>, Peijun Lin, Ruochen Liu, Bochen Liang, Andong Sun, Yihan Jin, Jinqiu Mo*
+
+- Utilizing an R-R-R spherical parallel mechanism, this device provides independent rotational movements in three degrees of freedom (DoF), covering the full range of wrist motion.
+- Through force sensors and IMU, it enables accurate trajectory reproduction with controlled resistance, allowing wrist-injured patients to train muscles across 3 DoF with adaptive damping.
+</div>
+</div>
+
 - R-R-R 手腕康复机器人
 <br>
 - Mini Pupper
