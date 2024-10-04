@@ -130,7 +130,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp-ezgif.com-video-to-gif-converter (1).gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Wrist Rehabilitation Assistive Device Based on 3-RRR Mechanism
+**Wrist Rehabilitation Assistive Device Based on 3-RRR Mechanism**
 
 <u>Yuxuan Mao</u>, Peijun Lin, Ruochen Liu, Bochen Liang, Andong Sun, Yihan Jin, Jinqiu Mo*
 
@@ -146,12 +146,13 @@ Wrist Rehabilitation Assistive Device Based on 3-RRR Mechanism
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp1-ezgif.com-video-to-gif-converter.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Lightweight, modular 12-DOF quadruped robot based on ESP32
+**Mini Pupper: A Lightweight, modular 12-DOF quadruped robot based on ESP32**
 
 <u>Yuxuan Mao</u>, Zhaocheng Zhang*
 
 - Developed a lightweight, modular 12-DOF quadruped robot with all-stack skills.
 - Verified the compatibility of ESP32 platform with Micro-ROS to expand its applicability in robotics.
+- Granted utility model patent(CN215904637U).
 </div>
 </div>
 
@@ -160,7 +161,7 @@ Lightweight, modular 12-DOF quadruped robot based on ESP32
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Screenshot 2024-10-04 144625.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cam-Powered Dual-Mode Mobile-Jumping Robot](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**Jumpiter: A Cam-Powered Dual-Mode Mobile-Jumping Robot**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 Xin Xu, <u>Yuxuan Mao</u>, Haoyuan Bai, Zheyuan Mei, Mingyuan Xia, Xinjun Sheng*
 
@@ -170,15 +171,16 @@ Xin Xu, <u>Yuxuan Mao</u>, Haoyuan Bai, Zheyuan Mei, Mingyuan Xia, Xinjun Sheng*
 </div>
 
 <br>
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/image1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1st Prize</div><img src='images/image1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cam-Powered Dual-Mode Mobile-Jumping Robot](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**A Curvature-Adaptive Roller Clamping Mechanism for Heavy Load Transportation on Staircases**
 
 He Yan, <u>Yuxuan Mao</u>, Hongjiang Mao, Zekai Zhang, Yi Gao*
 
-- mobile-periodic jump. Store energy by cam. adjust position in air through flywheel.
-- in charge of electrical and programming.
+- Adaptable roller system that conforms to various staircase shapes and smoothly navigates corners.
+- Integrated with a loading lever, enabling manual transportation of heavy loads with significantly reduced effort.
+- 1st Prize, Shanghai Mechanical Engineering Innovation Competition; 2nd Prize, National Mechanical Engineering Innovation Competition
 </div>
 </div>
 
