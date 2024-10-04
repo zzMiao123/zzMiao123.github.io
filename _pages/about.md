@@ -144,7 +144,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 **Wrist Rehabilitation Assistive Device Based on 3-RRR Mechanism**
 
-<u>Yuxuan Mao</u>, Peijun Lin, Ruochen Liu, Bochen Liang, Jinqiu Mo*
+<u>Y. Mao</u>, P. Lin, R. Liu, B. Liang, J. Mo*
 
 - Utilizing an R-R-R spherical parallel mechanism, this device provides independent rotational movements in three degrees of freedom (DoF), covering the full range of wrist motion.
 - Through force sensors and IMU, it enables accurate trajectory reproduction with controlled resistance, allowing wrist-injured patients to train muscles across 3 DoF with adaptive damping.
@@ -160,7 +160,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 **Mini Pupper: A Lightweight, modular 12-DOF quadruped robot based on ESP32**
 
-<u>Yuxuan Mao</u>, Zhaocheng Zhang*
+<u>Y. Mao</u>, Z. Zhang*
 
 - Developed a lightweight, modular 12-DOF quadruped robot with all-stack skills.
 - Verified the compatibility of ESP32 platform with Micro-ROS to expand its applicability in robotics.
@@ -175,7 +175,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 [**Jumpiter: A Cam-Powered Dual-Mode Mobile-Jumping Robot**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-Xin Xu, <u>Yuxuan Mao</u>, Haoyuan Bai, Zheyuan Mei, Mingyuan Xia, Xinjun Sheng*
+X. Xu, <u>Y. Mao</u>, H. Bai, Z. Mei, M. Xia, X. Sheng*
 
 - mobile-periodic jump. Store energy by cam. adjust position in air through flywheel.
 - in charge of electrical and programming.
@@ -188,7 +188,7 @@ Xin Xu, <u>Yuxuan Mao</u>, Haoyuan Bai, Zheyuan Mei, Mingyuan Xia, Xinjun Sheng*
 
 **A Curvature-Adaptive Roller Clamping Mechanism for Heavy Load Transportation on Staircases**
 
-He Yan, <u>Yuxuan Mao</u>, Hongjiang Mao, Zekai Zhang, Yi Gao*
+H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang, Y. Gao*
 
 - Adaptable roller system that conforms to various staircase shapes and smoothly navigates corners.
 - Integrated with a loading lever, enabling manual transportation of heavy loads with significantly reduced effort.
@@ -198,11 +198,58 @@ He Yan, <u>Yuxuan Mao</u>, Hongjiang Mao, Zekai Zhang, Yi Gao*
 
 <br>
 
-## Software, AI, and Signal Processing
-- 机器人编队
+## Software and AI
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp2-ezgif.com-speed.gif' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Swarm Robots Formation**
+
+<u>Y. Mao</u>, J. Yu, Z. Wang, F. Du, W. Dong*
+
+- MARL
+
+</div>
+</div>
+
 <br>
-- 机器人强化学习
-<br/>
-- 和弦分解
-<br/>
-- BCI
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp4-ezgif.com-video-to-gif-converter.gif' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Cooperation and Confrontation Multi-Agent Reinforcement Learning for RoboCup**
+
+<u>Y. Mao</u>, J. Liang, Z. Li, S. Chen, Y. Wang*
+
+- MARL
+
+</div>
+</div>
+
+<br>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp3-ezgif.com-video-to-gif-converter.gif' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Real-time Chord Decomposition on Guitar Playing**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+<u>Y. Mao</u>
+
+- mobile-periodic jump. Store energy by cam. adjust position in air through flywheel.
+- in charge of electrical and programming.
+</div>
+</div>
+
+<br>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1st Prize</div><img src='images/BCI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MI-BCI**
+
+Y. Wei, <u>Y. Mao</u>, J. Meng*
+
+- human test
+- signal processing
+</div>
+</div>
+
+<br>
