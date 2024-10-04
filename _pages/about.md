@@ -38,7 +38,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <br/>
 <br/>
 # 📖 Educations
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1st Prize</div><img src='images/northwestern-university.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/northwestern-university.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2023.09 - present*, M.S. in Mechanical Engineering,                     *Northwestern University*, Evanston, U.S.
 
@@ -51,7 +51,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 - *2022.09 - present*, M.S. (Dual Degree) in Mechanical Engineering,       *Shanghai Jiao Tong University*, Shanghai, China.
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1st Prize</div><img src='images/sjtu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2018.09 - 2022.06*, B.S. (Hons.) in Mechanical Engineering,             *Shanghai Jiao Tong University*, Shanghai, China.
 
