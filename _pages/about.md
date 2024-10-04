@@ -85,13 +85,13 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
   
 - *Efficient Tumor Localization During Respiration with Minimal Scanning Based on Recursive Deformable Diffusion Models*
 
-  <u>Y. Mao*</u>, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen. Submission planned Dec. 2024
+  <u>Y. Mao</u>\*, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen. Submission planned Dec. 2024
 
 ## Journals
 
 - *A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation*
 
-  D. Li\*, <u>Y. Mao*<u>, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. *Computer Methods and Programs in Biomedicine*, Jan. 2024
+  D. Li\*, <u>Y. Mao</u>\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. *Computer Methods and Programs in Biomedicine*, Jan. 2024
 
 ## Conferences
 
