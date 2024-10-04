@@ -124,9 +124,11 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 <br/>
 <br/>
-# 🤖 Class Projects
-## Robots
+# 🤖 Projects
+## Hardware and Robotics
 - R-R-R 手腕康复机器人
+<br>
+- Mini Pupper
 <br>
 - 跳跃机器人
 <br>
@@ -134,7 +136,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 <br>
 
-## Coding
+## Software, AI, and Signal Processing
 - 机器人编队
 <br>
 - 机器人强化学习
