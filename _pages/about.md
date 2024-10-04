@@ -143,15 +143,15 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp-ezgif.com-video-to-gif-converter (1).gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp1-ezgif.com-video-to-gif-converter.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Wrist Rehabilitation Assistive Device Based on 3-RRR Mechanism](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Lightweight, modular 12-DOF quadruped robot based on ESP32](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-<u>Yuxuan Mao</u>, Peijun Lin, Ruochen Liu, Bochen Liang, Andong Sun, Yihan Jin, Jinqiu Mo*
+<u>Yuxuan Mao</u>, Zhaocheng Zhang*
 
-- Utilizing an R-R-R spherical parallel mechanism, this device provides independent rotational movements in three degrees of freedom (DoF), covering the full range of wrist motion.
-- Through force sensors and IMU, it enables accurate trajectory reproduction with controlled resistance, allowing wrist-injured patients to train muscles across 3 DoF with adaptive damping.
+- Developed a lightweight, modular 12-DOF quadruped robot with all-stack skills.
+- Verified the compatibility of ESP32 platform with Micro-ROS to expand its applicability in robotics.
 </div>
 </div>
 
