@@ -52,8 +52,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
   </div>
 </div>
 <br>
-- *2022.09 - present*, M.S. (Dual Degree) in Mechanical Engineering,       *Shanghai Jiao Tong University*, Shanghai, China.
-<br>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -73,6 +72,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
   
   - Led experimental study of electromagnetic multi-modal actuators for advanced haptic interfaces. Conducted characterization of skin and skin phantom, and psychophysical test of human perception.
   - Design and implemented a multi-channels pneumatic system, for precise control of mm-scale 3D organoid interface.
+    
 <br>
 - *2021.09 - 2023.09*, RA, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai, China.
 
@@ -86,6 +86,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
   Advisor: Prof. Anzhu Gao
 
   - Led the serpentine robot project. Designed and implemented optimal trajectory planning algorithm and a multi-sensor fusion controller for a redundant manipulator.
+
 <br>
 - *2020.02 - 2021.02*, UG RA, Institute of Robotics, Shanghai, China.
 
@@ -105,6 +106,8 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 # 🏫 Outreach
 - *2024.09 - present*, TA (Instructor: Prof. Kevin Lynch), ME449 Robotic Manipulation.
   - Assisted with course material preparation, grading, and leading office hour for a class of 80 students.
+
+<br>
 - *2020.02 - 2020.12*, Peer Tutor, Top Scholars Club.
   - Conducted weekly Q&A and review sessions for 2 students; recognized as an Outstanding Tutor.
 
