@@ -223,7 +223,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Screenshot 2024-10-04 144625.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Jumpiter: A Cam-Powered Dual-Mode Mobile-Jumping Robot**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Jumpiter: A Cam-Powered Dual-Mode Mobile-Jumping Robot**
 
 X. Xu, <u>Y. Mao</u>, H. Bai, Z. Mei, M. Xia, X. Sheng*
 
