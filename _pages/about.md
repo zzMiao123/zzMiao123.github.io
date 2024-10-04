@@ -84,7 +84,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 - *Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces*
 
-  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. **Science** (Under Review), Sep. 2024
+  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science*** (Under Review), Sep. 2024
 
 <br/>
 - *Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces*
@@ -100,7 +100,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 ## Journals
 - *Bioelastic State Recovery for Haptic Sensory Substitution*
 
-  M. Flavin\*, K.-H. Ha\*, Z. Guo\*, S. Li\*, J.-T. Kim\*, T. Saxena, D. Simatos, F. Al-Najjar, <u>Y. Mao</u>, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers. **Nature** (Accepted), Oct. 2024
+  M. Flavin\*, K.-H. Ha\*, Z. Guo\*, S. Li\*, J.-T. Kim\*, T. Saxena, D. Simatos, F. Al-Najjar, <u>Y. Mao</u>, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers. ***Nature*** (Accepted), Oct. 2024
   
 <br/>
 - *A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation*
