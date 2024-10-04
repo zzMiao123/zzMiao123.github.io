@@ -209,7 +209,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 - Developed a lightweight, modular 12-DOF quadruped robot with all-stack skills.
 - Verified the compatibility of ESP32 platform with Micro-ROS to expand its applicability in robotics.
-- Granted utility model patent(CN215904637U).
+
 </div>
 </div>
 
@@ -222,8 +222,9 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 X. Xu, <u>Y. Mao</u>, H. Bai, Z. Mei, M. Xia, X. Sheng*
 
-- mobile-periodic jump. Store energy by cam. adjust position in air through flywheel.
-- in charge of electrical and programming.
+- The robot can perform mobile-periodic jumps reaching heights of up to 400 mm. It stores and releases energy through a cam and spring mechanism, while maintaining precise aerial control by sensing and adjusting its position mid-air using an IMU and flywheel.
+- I was responsible for the electrical systems, communication protocols, and implementing the closed-loop control system.
+- Granted utility model patent(CN215904637U).
 </div>
 </div>
 
@@ -248,11 +249,11 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang, Y. Gao*
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp2-ezgif.com-speed.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Swarm Robots Formation**
+**Dynamic Multi-Robot Swarm Formation Based on Distributed Control**
 
 <u>Y. Mao</u>, J. Yu, Z. Wang, F. Du, W. Dong*
 
-- MARL
+- Programmed a 5-robot swarm on the ROS using consensus algorithms to achieve distributed control, allowing dynamic formation adjustments based on obstacle detection
 
 </div>
 </div>
@@ -266,7 +267,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang, Y. Gao*
 
 <u>Y. Mao</u>, J. Liang, Z. Li, S. Chen, Y. Wang*
 
-- MARL
+- Implemented a 2v2 soccer simulation training in Unity 3D using the Multi-Agents Posthumous Credit Assignment (MA-POCA) model, where agents demonstrated intelligent coordination in both offense and defense.
 
 </div>
 </div>
@@ -275,9 +276,9 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang, Y. Gao*
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp3-ezgif.com-video-to-gif-converter.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Real-time Chord Decomposition on Guitar Playing**](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Real-time Chord Decomposition for Guitar Playing using FFT**
 
-<u>Y. Mao</u>
+<u>Y. Mao</u>, F. Sun*
 
 - mobile-periodic jump. Store energy by cam. adjust position in air through flywheel.
 - in charge of electrical and programming.
