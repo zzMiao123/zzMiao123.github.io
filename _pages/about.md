@@ -112,7 +112,8 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 - 跳跃机器人
 - 重物搬运省力机械
 
-## Programs
+## Coding
 - 机器人编队
 - 机器人强化学习
 - 和弦分解
+- BCI
