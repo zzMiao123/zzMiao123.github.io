@@ -39,7 +39,9 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <br/>
 # 📖 Educations
 - *2023.09 - present*, M.S. in Mechanical Engineering,                     Northwestern University, Evanston, U.S.
+
   GPA: 3.86/4.00
+
   Coursework: Bio-electronics, Surface Engineering, AI in Robotics, Vibrations and Acoustics
 <br>
 - *2022.09 - present*, M.S. (Dual Degree) in Mechanical Engineering,       Shanghai Jiao Tong University, Shanghai, China.
