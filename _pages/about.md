@@ -51,7 +51,10 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <br/>
 <br/>
 # 🔬 Research Experiences
-- *2023.09 - present*, RA (Advisor: Prof. John Rogers), Simpson Querrey Institute for Bioelectronics, Evanston, U.S.
+- *2023.09 - present*, RA, Simpson Querrey Institute for Bioelectronics, Evanston, U.S.
+  Advisor: Prof. John Rogers
+  - Led experimental study of electromagnetic multi-modal actuators for advanced haptic interfaces. Conducted characterization of skin and skin phantom, and psychophysical test of human perception.
+  - Design and implemented a multi-channels pneumatic system, for precise control of mm-scale 3D organoid interface.
 - *2021.09 - 2023.09*, RA (Advisor: Prof. Xiaojun Chen), Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai, China.
 - *2021.06 - 2021.08*, UG RA (Advisor: Prof. Anzhu Gao), Institute of Medical Robotics, Shanghai, China.
 - *2020.02 - 2021.02*, UG RA (Advisor: Prof. Jianjun Meng), Institute of Robotics, Shanghai, China.
