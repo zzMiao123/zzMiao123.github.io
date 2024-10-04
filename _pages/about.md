@@ -189,7 +189,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 **Wrist Rehabilitation Assistive Device Based on 3-RRR Mechanism**
 
-<u>Y. Mao</u>, P. Lin, R. Liu, B. Liang, J. Mo*
+<u>Y. Mao</u>, P. Lin, R. Liu, B. Liang
 
 - Utilizing an R-R-R spherical parallel mechanism, this device provides independent rotational movements in three degrees of freedom (DoF), covering the full range of wrist motion.
 - Through force sensors and IMU, it enables accurate trajectory reproduction with controlled resistance, allowing wrist-injured patients to train muscles across 3 DoF with adaptive damping.
@@ -205,7 +205,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 **Mini Pupper: A Lightweight, modular 12-DOF quadruped robot based on ESP32**
 
-<u>Y. Mao</u>, Z. Zhang*
+<u>Y. Mao</u>, Z. Zhang
 
 - Developed a lightweight, modular 12-DOF quadruped robot with all-stack skills.
 - Verified the compatibility of ESP32 platform with Micro-ROS to expand its applicability in robotics.
@@ -220,7 +220,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 **Jumpiter: A Cam-Powered Dual-Mode Mobile-Jumping Robot**
 
-X. Xu, <u>Y. Mao</u>, H. Bai, Z. Mei, M. Xia, X. Sheng*
+X. Xu, <u>Y. Mao</u>, H. Bai, Z. Mei, M. Xia
 
 - The robot can perform mobile-periodic jumps reaching heights of up to 400 mm. It stores and releases energy through a cam and spring mechanism, while maintaining precise aerial control by sensing and adjusting its position mid-air using an IMU and flywheel.
 - I was responsible for the electrical systems, communication protocols, and implementing the closed-loop control system.
@@ -234,7 +234,7 @@ X. Xu, <u>Y. Mao</u>, H. Bai, Z. Mei, M. Xia, X. Sheng*
 
 **A Curvature-Adaptive Roller Clamping Mechanism for Heavy Load Transportation on Staircases**
 
-H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang, Y. Gao*
+H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 - Adaptable roller system that conforms to various staircase shapes and smoothly navigates corners.
 - Integrated with a loading lever, enabling manual transportation of heavy loads with significantly reduced effort.
@@ -251,7 +251,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang, Y. Gao*
 
 **Dynamic Multi-Robot Swarm Formation Based on Distributed Control**
 
-<u>Y. Mao</u>, J. Yu, Z. Wang, F. Du, W. Dong*
+<u>Y. Mao</u>, J. Yu, Z. Wang, F. Du
 
 - Programmed a 5-robot swarm on the ROS using consensus algorithms to achieve distributed control, allowing dynamic formation adjustments based on obstacle detection
 
@@ -265,7 +265,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang, Y. Gao*
 
 **Cooperation and Confrontation Multi-Agent Reinforcement Learning for RoboCup**
 
-<u>Y. Mao</u>, J. Liang, Z. Li, S. Chen, Y. Wang*
+<u>Y. Mao</u>, J. Liang, Z. Li, S. Chen
 
 - Implemented a 2v2 soccer simulation training in Unity 3D using the Multi-Agents Posthumous Credit Assignment (MA-POCA) model, where agents demonstrated intelligent coordination in both offense and defense.
 
@@ -278,7 +278,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang, Y. Gao*
 
 **Real-time Chord Decomposition for Guitar Playing using FFT**
 
-<u>Y. Mao</u>, F. Sun*
+<u>Y. Mao</u>
 
 - Developed a program in LABView for real-time frequency domain analysis of captured audio using FFT, achieving 90% accuracy in decomposing guitar chords.
 </div>
