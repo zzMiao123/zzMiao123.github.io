@@ -102,6 +102,8 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
   Y. Mao, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao, Oral, IEEE International Conference on Robotics and Biomimetics (ROBIO), Nov. 2021.
 
+  (\* Equal Authorship)
+
 # 🤖 Class Projects
 - *2024.09 - present*, TA (Instructor: Prof. Kevin Lynch), ME449 Robotic Manipulation. 
 - *2020.02 - 2020.12*, Peer Tutor, Top Scholars Club.
