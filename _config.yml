@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuxuan (Ethan) Mao"
-description              : "“To ordain conscience for Heaven and Earth.    To secure life and fortune for the people.     To continue lost teachings for past sages.     To establish peace for all future generations.” --Zai Zhang"
+title                    : "Yuxuan Mao"
+description              : "25'@Northwestern 22'@SJTU"
 repository               : "zzMiao123/zzMiao123.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yuxuan Mao"
+  name             : "Yuxuan (Ethan) Mao"
   avatar           : "images/life.jpg"
-  bio              : "25'@Northwestern 22'@SJTU"
+  bio              : "Student in MechE, Robotics Engineer"
   location         : "Evanston, US"
-  employer         :
+  employer         : "Prof. John Rogers Group"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=EIWmxl8AAAAJ"
   email            : "yuxuanmao2024@u.northwestern.edu"
