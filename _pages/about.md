@@ -48,8 +48,6 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
   
 </div>
 </div>
-<br/>
-<br/>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
