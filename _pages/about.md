@@ -21,7 +21,7 @@ Hi! I'm Yuxuan (Ethan) Mao, an M.S. student in Mechanical Engineering at Northwe
 
 My research interests include actuator mechanisms, wearable robotics, and stretchable electronics. Currently, I’m conducting research at the Simpson Querrey Institute for Bioelectronics under the supervision of Prof. John A. Rogers, focusing on multi-modal actuators and soft robotics, particularly in the areas of haptics and organoid interfaces. My expertise spans a wide range of mechatronics skills, including rapid prototyping, micro-fabrication, and embedded programming.
 
-As an INTJ (Introverted-Intuitive-Thinking-Judging), I’m known for resilience, strategic thinking, and a passion for technology. Outside of academics, I enjoy playing and singing R&B on the ukulele, playing basketball, and exploring science fiction, mystery, and epic stories.
+As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strategic thinking, and a genuine passion for technology to my work. Outside of academics, I enjoy playing and singing R&B on the ukulele, playing basketball, and exploring science fiction, mystery, and epic stories.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
