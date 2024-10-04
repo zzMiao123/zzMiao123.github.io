@@ -24,8 +24,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Class Projects"
-    url: "/#-class-projects"
+  - title: "Projects"
+    url: "/#-projects"
+
+  - title: "Hobbies"
+    url: "/#-hobbies"
 
 
 
