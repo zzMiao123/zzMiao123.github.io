@@ -107,6 +107,10 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
   D. Li\*, <u>Y. Mao</u>\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. *Computer Methods and Programs in Biomedicine*, Jan. 2024
 
+<div style="text-align: center;">
+    <img src='../images/report-new.jpg' alt="sym" width="70%">
+</div>
+
 <br/>
 ## Conferences
 
@@ -114,10 +118,18 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
   <u>Y. Mao</u>, P. Tu, W. Liu, Z. Liu, X. Chen. Oral, *China Biomedical Engineering Conference*, May. 2023.
 
+<div style="text-align: center;">
+    <img src='../images/report-new.jpg' alt="sym" width="70%">
+</div>
+
 <br/>
 - [C2] **A Cable-Driven Hyper-Redundant Robot with Angular Sensing**
 
   <u>Y. Mao</u>, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao. Oral, *IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Nov. 2021.
+
+<div style="text-align: center;">
+    <img src='../images/report-new.jpg' alt="sym" width="70%">
+</div>
 
 <br/>
   (\* Equal Authorship)
