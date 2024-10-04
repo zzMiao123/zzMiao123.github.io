@@ -240,7 +240,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang, Y. Gao*
 </div>
 
 <br>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1st Prize</div><img src='images/BCI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/BCI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MI-BCI**
