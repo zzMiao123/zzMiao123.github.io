@@ -32,7 +32,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 # 🔥 News
 - *2024.10*: 🎉🎉 Our paper "Bioelastic state recovery for haptic sensory substitution" has been accepted by *Nature*! 
 - *2024.01*: 🎉 Our paper "A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation" has been accepted by *Computer Methods and Programs in Biomedicine*. 
-- *2023.10*: 🔬 Completed my onboarding at the Simpson Querrey Institute for Bioelectronics.
+- *2023.10*: 🔬 Complete my onboarding at the Simpson Querrey Institute for Bioelectronics.
 - *2023.09*: 💜🐈‍⬛ My journey at Northwestern University begins!
 
 <br/>
@@ -84,7 +84,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 - *Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces*
 
-  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. **Science**(Under Review), Sep. 2024
+  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. **Science** (Under Review), Sep. 2024
 
 <br/>
 - *Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces*
@@ -119,6 +119,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
   <u>Y. Mao</u>, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao. Oral, *IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Nov. 2021.
 
+<br/>
   (\* Equal Authorship)
 
 <br/>
