@@ -26,6 +26,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <div style="text-align: center;">
     <img src='../images/report-new.jpg' alt="sym" width="70%">
 </div>
+<center><i>Delivering an oral report at the Young Scholar Competition, Jiangsu, 2023</i></center>
 
 <br>
 <br>
@@ -93,16 +94,17 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 - *2020.09 - 2021.06*, Minister of Secretariat, Student Union of Zhiyuan College.
   - Organized and led activities for the student union and inter-communication with sister schools. Handled commercial outreach and led press releases.
 <div style="text-align: center;">
-    <img src='../images/union.jpg' alt="sym" width="70%">
+    <img src='../images/union.jpg' alt="sym" width="50%">
 </div>
+<center><i>Delivering the anual report of student union, Shanghai, 2020</i></center>
 
 
 <br>
-- *2020.07 - 2021.07*, Fellow, US-China ZhiXing Program.
+- *2020.07 - 2021.07*, Fellow, Zhixing China-US College Student Leadership Academy.
 <div style="text-align: center;">
-    <img src='../images/zhixing.jpg' alt="sym" width="70%">
+    <img src='../images/zhixing.jpg' alt="sym" width="50%">
 </div>
-
+<center><i>Participating in the Zhixing Roundtable on Sustainable Development, Hubei, 2020.</i></center>
 
 <br>
 - *2020.02 - 2020.12*, Peer Tutor, Top Scholars Club.
@@ -112,9 +114,9 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 - *2019.07 - 2019.08*, Volunteer Teacher, GreatWall Education Assistance Program.
   - Taught ~700 Grade-10 students at a remote school; ecognized as an Exemplary Individual for teaching excellence.
 <div style="text-align: center;">
-    <img src='../images/volunteer.jpg' alt="sym" width="70%">
+    <img src='../images/volunteer.jpg' alt="sym" width="50%">
 </div>
-
+<center><i>Teaching a class of middle school, Hunan, 2019</i></center>
 
 <br/>
 <br/>
@@ -132,6 +134,12 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 - *2019* Shanghai Scholarship (Top 1%, 1/206)
 
 <br/>
+<div style="text-align: center;">
+    <img src='../images/tingya.jpg' alt="sym" width="50%">
+</div>
+<center><i>Presenting in the 1st round of TYACHT outstanding student selection, Shanghai, 2021</i></center>
+
+<br>
 <br/>
 # 📝 Publications 
 
@@ -316,12 +324,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <center><i>With Jinda at SJTU Anual Running Festival, Shanghai, 2021</i></center>
 
 <br>
-<div style="text-align: center;">
-    <img src='../images/tingya.jpg' alt="sym" width="50%">
-</div>
-<center><i>Presenting in the 1st round of TYACHT outstanding student selection, Shanghai, 2021</i></center>
 
-<br>
 <div style="text-align: center;">
     <img src='../images/droneclub.jpg' alt="sym" width="50%">
 </div>
