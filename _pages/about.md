@@ -133,7 +133,6 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 - *2020* 1st Prize, Shanghai Mechanical Engineering Innovation Competition
 - *2019* Shanghai Scholarship (Top 1%, 1/206)
 
-<br/>
 <div style="text-align: center;">
     <img src='../images/tingya.jpg' alt="sym" width="50%">
 </div>
