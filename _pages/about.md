@@ -19,9 +19,9 @@ redirect_from:
 
 Hi! I'm Yuxuan, an M.S. student in Mechanical Engineering at Northwestern University. Before this, I worked as an embedded development engineer at Espressif, known for its ESP32 platform. I earned my B.S. (Hons.) in Mechanical Engineering from Shanghai Jiao Tong University in 2022.
 
-My research interests include **actuator mechanisms**, **wearable robotics**, and **stretchable electronics**. Currently, I’m conducting research at the Simpson Querrey Institute for Bioelectronics under the supervision of Prof. John A. Rogers, focusing on multi-modal actuators and soft robotics, particularly in the areas of haptics and organoid interfaces. My expertise spans a wide range of mechatronics skills, including rapid prototyping, micro-fabrication, and embedded programming.
+My research interests include **actuator mechanisms**, **wearable robotics**, and **stretchable electronics**. Currently, I’m conducting research at the Simpson Querrey Institute for Bioelectronics under the supervision of Prof. John A. Rogers, focusing on multi-modal actuators and soft robotics, particularly in the areas of haptics and organoid interfaces. My expertise spans a wide range of laboratory skills, such as rapid prototyping, micro-fabrication, embedded programming and machine learning.
 
-As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strategic thinking, and a genuine passion for technology to my work. Outside of academics, I enjoy playing and singing R&B on the ukulele, playing basketball, and exploring science fiction, mystery, and epic stories.
+As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strategic thinking, and a genuine passion for technology to my work. Outside of academics, I enjoy playing and singing R&B on the ukulele, playing basketball, and exploring science fiction, and epic stories.
 
 <div style="text-align: center;">
     <img src='../images/report-new.jpg' alt="sym" width="70%">
