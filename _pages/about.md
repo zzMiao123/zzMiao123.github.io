@@ -299,6 +299,16 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 # 🎸 Hobbies
 
 <div style="text-align: center;">
+    <img src='../images/prom.jpg' alt="sym" width="50%">
+</div>
+<center><i>won dancing couple in the graduation prom, shanghai, 2023</i>i></center>
+
+<div style="text-align: center;">
+    <img src='../images/rrrTeam.jpg' alt="sym" width="70%">
+</div>
+<center><i>With team members of RRR Robots, Shanghai, 2023</i></center>
+
+<div style="text-align: center;">
     <img src='../images/tingya.jpg' alt="sym" width="70%">
 </div>
 <center><i>In presentation of Tingya scholarship, Shanghai, 2021</i></center>
@@ -309,16 +319,16 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <center><i>With Jinda at Anual Running Festival, Shanghai, 2021</i>i></center>
 
 <div style="text-align: center;">
-    <img src='../images/prom.jpg' alt="sym" width="50%">
+    <img src='../images/drone.jpg' alt="sym" width="70%">
 </div>
-<center><i>won dancing couple in the graduation prom, shanghai, 2023</i>i></center>
+<center><i>First flight test of SJTU Drone Club, Shanghai, 2019</i></center>
 
-<!--
 <div style="text-align: center;">
-    <img src='../images/VEXleader.jpg' alt="sym" width="70%">
+    <img src='../images/VEXTeam.jpg' alt="sym" width="70%">
 </div>
-<center><i>Lead a team in VEX Competition, Shanghai, 2019</i> </center>
--->
+<center><i>With Team members after winning VEX Competition, Shanghai, 2019</i> </center>
+
+
 
 <!--
 <div style="text-align: center;">
@@ -334,11 +344,9 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <center><i>After winning ME design competition, Shanghai, 2020</i></center>
 -->
 
-## With colleagues/friends
-<div style="text-align: center;">
-    <img src='../images/rrrTeam.jpg' alt="sym" width="70%">
-</div>
-<center><i>Team of RRR Robots, Shanghai, 2023</i></center>
+
+
+
 
 <!--
 <div style="text-align: center;">
