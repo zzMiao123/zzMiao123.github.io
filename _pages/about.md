@@ -315,7 +315,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <br>
 
 # 🎸 Hobbies
-While working hard and efficiently, I also prioritize nurturing both my body and mind.
+While working diligently and efficiently, I also make it a priority to nurture both my body and mind.
 
 <br>
 <div style="text-align: center;">
