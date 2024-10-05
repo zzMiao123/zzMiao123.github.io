@@ -301,13 +301,13 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <div style="text-align: center;">
     <img src='../images/prom.jpg' alt="sym" width="30%">
 </div>
-<center><i>Dancing with Qianru in the graduation prom, shanghai, 2023</i></center>
+<center><i>Dancing with Qianru at the graduation prom, shanghai, 2023</i></center>
 
 <br>
 <div style="text-align: center;">
     <img src='../images/rrrTeam.jpg' alt="sym" width="50%">
 </div>
-<center><i>With team of RRR-Robot at dawn before final report, Shanghai, 2023</i></center>
+<center><i>With team of RRR-Robot at dawn before the final report, Shanghai, 2023</i></center>
 
 <br>
 <div style="text-align: center;">
@@ -319,7 +319,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <div style="text-align: center;">
     <img src='../images/tingya.jpg' alt="sym" width="50%">
 </div>
-<center><i>Presenting in the 1st round of Tingya scholarship selection, Shanghai, 2021</i></center>
+<center><i>Presenting in the 1st round of TYACHT outstanding student selection, Shanghai, 2021</i></center>
 
 <br>
 <div style="text-align: center;">
