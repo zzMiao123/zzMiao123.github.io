@@ -150,7 +150,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 # 📝 Publications 
 
 ## Ongoing Works
-To date, I've published 4 papers, with 3 more manuscripts in preparation, in leading journals such as Nature and Science. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
+To date, I've published 4 papers, with 3 more manuscripts in preparation, in leading journals such as Nature and Science. As a first author or lead co-author, I have gained extensive experience in all stages of the research process—from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
 
 - [1] **Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**
 
