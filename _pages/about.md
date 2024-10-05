@@ -299,39 +299,39 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 # 🎸 Hobbies
 
 <div style="text-align: center;">
-    <img src='../images/prom.jpg' alt="sym" width="40%">
+    <img src='../images/prom.jpg' alt="sym" width="30%">
 </div>
-<center><i>Dancing with Qianru in the graduation prom, shanghai, 2023</i>i></center>
+<center><i>Dancing with Qianru in the graduation prom, shanghai, 2023</i></center>
 
 <br>
 
 <div style="text-align: center;">
-    <img src='../images/rrrTeam.jpg' alt="sym" width="70%">
+    <img src='../images/rrrTeam.jpg' alt="sym" width="50%">
 </div>
-<center><i>With team members of RRR Robots at the night before final report, Shanghai, 2023</i></center>
+<center><i>With team of RRR-Robot at dawn before final report, Shanghai, 2023</i></center>
 
 <br>
 
 <div style="text-align: center;">
-    <img src='../images/tingya.jpg' alt="sym" width="70%">
+    <img src='../images/tingya.jpg' alt="sym" width="50%">
 </div>
 <center><i>Presenting in 1st round of Tingya scholarship selection, Shanghai, 2021</i></center>
 
 <br>
 <div style="text-align: center;">
-    <img src='../images/run.jpg' alt="sym" width="70%">
+    <img src='../images/run.jpg' alt="sym" width="50%">
 </div>
-<center><i>With Jinda at SJTU Anual Running Festival, Shanghai, 2021</i>i></center>
+<center><i>With Jinda at SJTU Anual Running Festival, Shanghai, 2021</i></center>
 
 <br>
 <div style="text-align: center;">
-    <img src='../images/droneclub.jpg' alt="sym" width="70%">
+    <img src='../images/droneclub.jpg' alt="sym" width="50%">
 </div>
 <center><i>Before first flight test of SJTU Drone Club, Shanghai, 2019</i></center>
 
 <br>
 <div style="text-align: center;">
-    <img src='../images/VEXTeam.jpg' alt="sym" width="70%">
+    <img src='../images/VEXTeam.jpg' alt="sym" width="50%">
 </div>
 <center><i>With Team members after winning VEX Competition, Shanghai, 2019</i> </center>
 
