@@ -173,7 +173,7 @@ To date, I've published 4 papers, with 3 more manuscripts in preparation, in lea
   M. Flavin\*, K.-H. Ha\*, Z. Guo\*, S. Li\*, J.-T. Kim\*, T. Saxena, D. Simatos, F. Al-Najjar, <u>Y. Mao</u>, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers. ***Nature*** (Accepted), Oct. 2024
   
 <br/>
-- [J2] **A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation**
+- [J2] [**A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation**](https://www.sciencedirect.com/science/article/abs/pii/S0169260723006612)
 
   D. Li\*, <u>Y. Mao</u>\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. *Computer Methods and Programs in Biomedicine*, Jan. 2024
 
