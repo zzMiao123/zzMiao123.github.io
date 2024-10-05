@@ -301,53 +301,61 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <div style="text-align: center;">
     <img src='../images/tingya.jpg' alt="sym" width="70%">
 </div>
-<center>*In presentation of Tingya scholarship*</center>
-
-<div style="text-align: center;">
-    <img src='../images/VEXleader.jpg' alt="sym" width="70%">
-</div>
-<center>*Lead a team in VEX Competition* </center>
+<center><i>In presentation of Tingya scholarship, Shanghai, 2021</i></center>
 
 <div style="text-align: center;">
     <img src='../images/run.jpg' alt="sym" width="70%">
 </div>
-<center>*With Jinda at Anual Running Festival*</center>
+<center><i>With Jinda at Anual Running Festival, Shanghai, 2021</i>i></center>
 
 <div style="text-align: center;">
     <img src='../images/prom.jpg' alt="sym" width="50%">
 </div>
-<center>*won dancing couple in the graduation prom*</center>
+<center><i>won dancing couple in the graduation prom, shanghai, 2023</i>i></center>
 
+<!--
+<div style="text-align: center;">
+    <img src='../images/VEXleader.jpg' alt="sym" width="70%">
+</div>
+<center><i>Lead a team in VEX Competition, Shanghai, 2019</i> </center>
+-->
+
+<!--
 <div style="text-align: center;">
     <img src='../images/game.jpg' alt="sym" width="70%">
 </div>
-<center>*cosplay of LOL MV *Rise**</center>
+<center><i>Cosplay with classmates of LOL MV Rise, Shanghai, 2019</i></center>
+-->
 
 <div style="text-align: center;">
     <img src='../images/me.jpg' alt="sym" width="70%">
 </div>
-<center>*after winning ME design competition*</center>
+<center><i>After winning ME design competition, Shanghai, 2020</i></center>
 
 ## With colleagues/friends
 <div style="text-align: center;">
     <img src='../images/rrrTeam.jpg' alt="sym" width="70%">
 </div>
-<center>*With colleagues of RRR Robots*</center>
+<center><i>Team of RRR Robots</i></center>
 
 <div style="text-align: center;">
     <img src='../images/salty.JPG' alt="sym" width="70%">
 </div>
-<center>*with friends at Salty Lake City*</center>
+<center><i>with friends at Salty Lake City</i></center>
 
+<!--
 <div style="text-align: center;">
     <img src='../images/unionMembers.jpg' alt="sym" width="70%">
 </div>
 <center>*With colleagues of student union*</center>
+-->
 
+<!--
 <div style="text-align: center;">
     <img src='../images/MEM.jpg' alt="sym" width="70%">
 </div>
 <center>*With Beichen and Ziyu after submitting paper to MEM*</center>
+-->
 
 <!--
 <div style="text-align: center;">
