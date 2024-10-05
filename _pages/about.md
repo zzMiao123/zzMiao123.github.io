@@ -335,7 +335,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <center>*With colleagues of RRR Robots*</center>
 
 <div style="text-align: center;">
-    <img src='../images/salty.jpg' alt="sym" width="70%">
+    <img src='../images/salty.JPG' alt="sym" width="70%">
 </div>
 <center>*with friends at Salty Lake City*</center>
 
