@@ -145,7 +145,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <div style="text-align: center;">
     <img src='../images/tingya.jpg' alt="sym" width="50%">
 </div>
-<center><i>Presenting in the 1st round of TYACHT outstanding student selection, Shanghai, 2021</i></center>
+<center><i>Presenting in TYACHT outstanding student selection, Shanghai, 2021</i></center>
 
 <br>
 <br/>
