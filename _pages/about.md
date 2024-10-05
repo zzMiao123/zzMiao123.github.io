@@ -41,7 +41,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <br/>
 <br/>
 # 📖 Educations
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/northwestern-university.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/northwestern-university.svg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2023.09 - present*, M.S. in MechE, <b>Northwestern University</b>.
     
@@ -52,7 +52,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/sjtu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/sjtu.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2018.09 - 2022.06*, B.S. (Hons.) in MechE, <b>Shanghai Jiao Tong University</b>.
 
