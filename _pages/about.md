@@ -327,21 +327,25 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <center><i>Cosplay with classmates of LOL MV Rise, Shanghai, 2019</i></center>
 -->
 
+<!--
 <div style="text-align: center;">
     <img src='../images/me.jpg' alt="sym" width="70%">
 </div>
 <center><i>After winning ME design competition, Shanghai, 2020</i></center>
+-->
 
 ## With colleagues/friends
 <div style="text-align: center;">
     <img src='../images/rrrTeam.jpg' alt="sym" width="70%">
 </div>
-<center><i>Team of RRR Robots</i></center>
+<center><i>Team of RRR Robots, Shanghai, 2023</i></center>
 
+<!--
 <div style="text-align: center;">
     <img src='../images/salty.JPG' alt="sym" width="70%">
 </div>
 <center><i>with friends at Salty Lake City</i></center>
+-->
 
 <!--
 <div style="text-align: center;">
