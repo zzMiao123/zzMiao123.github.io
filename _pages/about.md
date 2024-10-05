@@ -349,7 +349,9 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 </div>
 <center>*With Beichen and Ziyu after submitting paper to MEM*</center>
 
+<!--
 <div style="text-align: center;">
     <img src='../images/reading.jpg' alt="sym" width="70%">
 </div>
 <center>*holding a reading salon*</center>
+-->
