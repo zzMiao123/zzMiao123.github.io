@@ -330,6 +330,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 </div>
 <center><i>Dancing with Qianru at the graduation prom, shanghai, 2023</i></center>
 <br>
+
 <!--
 <br>
 <div style="text-align: center;">
@@ -338,9 +339,6 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <center><i>With team of RRR-Robot at dawn before the final report, Shanghai, 2023</i></center>
 -->
 
-
-
-
 <!--
 <br>
 <div style="text-align: center;">
@@ -348,8 +346,6 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 </div>
 <center><i>With Team members after winning VEX Competition, Shanghai, 2019</i> </center>
 -->
-
-
 
 <!--
 <div style="text-align: center;">
@@ -364,10 +360,6 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 </div>
 <center><i>After winning ME design competition, Shanghai, 2020</i></center>
 -->
-
-
-
-
 
 <!--
 <div style="text-align: center;">
