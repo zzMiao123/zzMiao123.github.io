@@ -31,7 +31,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <br>
 <br>
 # 🔥 News
-<!-- - *2024.10*: 🎉🎉 Our paper "Bioelastic state recovery for haptic sensory substitution" has been accepted by *Nature*!  -->
+- *2024.10*: 🎉🎉 Our paper "Bioelastic state recovery for haptic sensory substitution" has been accepted by **Nature**! 
 - *2024.01*: 🎉 Our paper "A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation" has been accepted by *Computer Methods and Programs in Biomedicine*. 
 - *2023.10*: 🔬 Complete my onboarding at the Simpson Querrey Institute for Bioelectronics.
 - *2023.09*: 💜🐈‍⬛ My journey at Northwestern University begins!
