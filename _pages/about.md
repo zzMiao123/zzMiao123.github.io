@@ -92,9 +92,17 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <br>
 - *2020.09 - 2021.06*, Minister of Secretariat, Student Union of Zhiyuan College.
   - Organized and led activities for the student union and inter-communication with sister schools. Handled commercial outreach and led press releases.
+<div style="text-align: center;">
+    <img src='../images/union.jpg' alt="sym" width="70%">
+</div>
+
 
 <br>
 - *2020.07 - 2021.07*, Fellow, US-China ZhiXing Program.
+<div style="text-align: center;">
+    <img src='../images/zhixing.jpg' alt="sym" width="70%">
+</div>
+
 
 <br>
 - *2020.02 - 2020.12*, Peer Tutor, Top Scholars Club.
@@ -103,6 +111,10 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <br>
 - *2019.07 - 2019.08*, Volunteer Teacher, GreatWall Education Assistance Program.
   - Taught ~700 Grade-10 students at a remote school; ecognized as an Exemplary Individual for teaching excellence.
+<div style="text-align: center;">
+    <img src='../images/volunteer.jpg' alt="sym" width="70%">
+</div>
+
 
 <br/>
 <br/>
@@ -286,7 +298,34 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 # 🎸 Hobbies
 <div style="text-align: center;">
+    <img src='../images/tingya.jpg' alt="sym" width="70%">
+</div>
+
+<div style="text-align: center;">
+    <img src='../images/VEXleader.jpg' alt="sym" width="70%">
+</div>
+
+<div style="text-align: center;">
     <img src='../images/run.jpg' alt="sym" width="70%">
 </div>
 
+<div style="text-align: center;">
+    <img src='../images/prom.jpg' alt="sym" width="70%">
+</div>
 
+<div style="text-align: center;">
+    <img src='../images/game.jpg' alt="sym" width="70%">
+</div>
+
+## With colleagues/friens
+<div style="text-align: center;">
+    <img src='../images/rrrTeam.jpg' alt="sym" width="70%">
+</div>
+
+<div style="text-align: center;">
+    <img src='../images/MEM.jpg' alt="sym" width="70%">
+</div>
+
+<div style="text-align: center;">
+    <img src='../images/reading.jpg' alt="sym" width="70%">
+</div>
