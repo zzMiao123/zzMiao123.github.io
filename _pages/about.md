@@ -314,16 +314,16 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 *With Jinda at Anual Running Festival*
 
 <div style="text-align: center;">
-    <img src='../images/prom.jpg' alt="sym" width="70%">
+    <img src='../images/prom.jpg' alt="sym" width="50%">
 </div>
-*won dancing couple in graduation prom*
+*won dancing couple in the graduation prom*
 
 <div style="text-align: center;">
     <img src='../images/game.jpg' alt="sym" width="70%">
 </div>
 *cosplay of LOL MV <Rise>*
 
-## With colleagues/friens
+## With colleagues/friends
 <div style="text-align: center;">
     <img src='../images/rrrTeam.jpg' alt="sym" width="70%">
 </div>
