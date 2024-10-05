@@ -198,7 +198,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/pupper.gif' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/pupper.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Mini Pupper: A Lightweight, modular 12-DOF quadruped robot based on ESP32**
