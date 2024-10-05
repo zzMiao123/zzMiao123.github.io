@@ -116,7 +116,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <div style="text-align: center;">
     <img src='../images/volunteer.jpg' alt="sym" width="50%">
 </div>
-<center><i>Teaching a class of middle school, Hunan, 2019</i></center>
+<center><i>Teaching a class at a rural middle school, Hunan, 2019</i></center>
 
 <br/>
 <br/>
