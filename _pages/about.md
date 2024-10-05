@@ -38,7 +38,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <br/>
 <br/>
 # 📖 Educations
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/northwestern-university.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/northwestern-university.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2023.09 - present*, M.S. in MechE, *Northwestern University*.
     
@@ -49,7 +49,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/sjtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2018.09 - 2022.06*, B.S. (Hons.) in MechE,             *Shanghai Jiao Tong University*.
 
@@ -182,7 +182,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 # 🤖 Projects
 ## Hardware and Robotics
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp-ezgif.com-video-to-gif-converter (1).gif' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/Clipchamp-ezgif.com-video-to-gif-converter (1).gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Wrist Rehabilitation Assistive Device Based on 3-RRR Mechanism**
@@ -213,7 +213,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Screenshot 2024-10-04 144625.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/Screenshot 2024-10-04 144625.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Jumpiter: A Cam-Powered Dual-Mode Mobile-Jumping Robot**
@@ -227,7 +227,7 @@ X. Xu, <u>Y. Mao</u>, H. Bai, Z. Mei, M. Xia
 </div>
 
 <br>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1st Prize</div><img src='images/image1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1st Prize</div><img src='../images/image1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Curvature-Adaptive Roller Clamping Mechanism for Heavy Load Transportation on Staircases**
@@ -244,7 +244,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 ## Software and AI
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp2-ezgif.com-speed.gif' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/Clipchamp2-ezgif.com-speed.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Dynamic Multi-Robot Swarm Formation Based on Distributed Control**
@@ -258,7 +258,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp4-ezgif.com-video-to-gif-converter.gif' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/Clipchamp4-ezgif.com-video-to-gif-converter.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Cooperation and Confrontation Multi-Agent Reinforcement Learning for RoboCup**
@@ -271,7 +271,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 </div>
 
 <br>
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/Clipchamp3-ezgif.com-video-to-gif-converter.gif' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='../images/Clipchamp3-ezgif.com-video-to-gif-converter.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Real-time Chord Decomposition for Guitar Playing using FFT**
