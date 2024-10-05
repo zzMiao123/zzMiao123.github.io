@@ -41,7 +41,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 # 📖 Educations
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/northwestern-university.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2023.09 - present*, M.S. in MechE, *Northwestern University*.
+- *2023.09 - present*, M.S. in MechE, <b>Northwestern University</b>.
     
   GPA: 3.86/4.00
     
@@ -52,9 +52,9 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/sjtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2018.09 - 2022.06*, B.S. (Hons.) in MechE,             *Shanghai Jiao Tong University*.
+- *2018.09 - 2022.06*, B.S. (Hons.) in MechE, <b>Shanghai Jiao Tong University</b>.
 
-  GPA: 3.65/4.00
+  GPA: 3.65/4.00 (Honors Program for top 5% students)
 
   Coursework: Mechatronics, Design&Manufacturing, Solid/Fluid Mechanics, Modern Control Theory
 </div>
@@ -62,36 +62,37 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <br/>
 <br/>
 # 🧑‍💻 Experiences
-- *2023.09 - present*, Research Assistant, Simpson Querrey Institute for Bioelectronics, Northwestern University.
+- *2023.09 - present*, <b>Research Assistant</b>, Simpson Querrey Institute for Bioelectronics, Evanston.
 
   Advisor: Prof. John Rogers
     
 <br>
-- *2021.09 - 2023.09*, RA, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai Jiao Tong University.
+- *2021.09 - 2023.09*, <b>Research Assistant</b>, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
 
   Advisor: Prof. Xiaojun Chen
 
 <br>
-- *2022.01 - 2022.10*, Software Development Intern, Espressif, Shanghai, China.
+- *2022.01 - 2022.10*, <b>Software Development Intern</b>, Espressif, Shanghai.
 
 <br>
-- *2021.06 - 2021.08*, UG RA, Institute of Medical Robotics, Shanghai Jiao Tong University.
+- *2021.06 - 2021.08*, <b>Undergraduate Research Assistant</b>, Institute of Medical Robotics, Shanghai.
 
   Advisor: Prof. Anzhu Gao
 
 <br>
-- *2020.02 - 2021.02*, UG RA, Institute of Robotics, Shanghai Jiao Tong University.
+- *2020.02 - 2021.02*, <b>Undergraduate Research Assistant</b>, Institute of Robotics, Shanghai.
 
   Advisor: Prof. Jianjun Meng
 
 <br/>
 <br/>
 # 🤝 Outreach
-- *2024.09 - present*, TA (Instructor: Prof. Kevin Lynch), ME449 Robotic Manipulation.
+- *2024.09 - present*, <b>Teaching Assistant</b>, ME449 Robotic Manipulation, Evanston.
+  Instructor: Prof. Kevin Lynch
   - Assisted with course material preparation, grading, and leading office hour for a class of 80 students.
 
 <br>
-- *2020.09 - 2021.06*, Minister of Secretariat, Student Union of Zhiyuan College.
+- *2020.09 - 2021.06*, <b>Minister of Secretariat</b>, Student Union of Zhiyuan College, Shanghai.
   - Organized and led activities for the student union and inter-communication with sister schools. Handled commercial outreach and led press releases.
 <div style="text-align: center;">
     <img src='../images/union.jpg' alt="sym" width="50%">
@@ -100,18 +101,18 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 
 <br>
-- *2020.07 - 2021.07*, Fellow, Zhixing China-US College Student Leadership Academy.
+- *2020.07 - 2021.07*, <b>Fellow</b>, Zhixing China-US College Student Leadership Academy, Hubei.
 <div style="text-align: center;">
     <img src='../images/zhixing.jpg' alt="sym" width="50%">
 </div>
 <center><i>Participating in the Zhixing Roundtable on Sustainable Development, Hubei, 2020.</i></center>
 
 <br>
-- *2020.02 - 2020.12*, Peer Tutor, Top Scholars Club.
+- *2020.02 - 2020.12*, <b>Peer Tutor</b>, Top Scholars Club, Shanghai.
   - Conducted weekly Q&A and review sessions for 2 students; recognized as an Outstanding Tutor.
 
 <br>
-- *2019.07 - 2019.08*, Volunteer Teacher, GreatWall Education Assistance Program.
+- *2019.07 - 2019.08*, <b>Volunteer Teacher</b>, GreatWall Education Assistance Program, Hunan.
   - Taught ~700 Grade-10 students at a remote school; ecognized as an Exemplary Individual for teaching excellence.
 <div style="text-align: center;">
     <img src='../images/volunteer.jpg' alt="sym" width="50%">
