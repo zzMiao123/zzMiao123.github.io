@@ -303,26 +303,33 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 </div>
 <center><i>Dancing with Qianru in the graduation prom, shanghai, 2023</i>i></center>
 
+<br>
+
 <div style="text-align: center;">
     <img src='../images/rrrTeam.jpg' alt="sym" width="70%">
 </div>
 <center><i>With team members of RRR Robots at the night before final report, Shanghai, 2023</i></center>
+
+<br>
 
 <div style="text-align: center;">
     <img src='../images/tingya.jpg' alt="sym" width="70%">
 </div>
 <center><i>Presenting in 1st round of Tingya scholarship selection, Shanghai, 2021</i></center>
 
+<br>
 <div style="text-align: center;">
     <img src='../images/run.jpg' alt="sym" width="70%">
 </div>
 <center><i>With Jinda at SJTU Anual Running Festival, Shanghai, 2021</i>i></center>
 
+<br>
 <div style="text-align: center;">
     <img src='../images/droneclub.jpg' alt="sym" width="70%">
 </div>
 <center><i>Before first flight test of SJTU Drone Club, Shanghai, 2019</i></center>
 
+<br>
 <div style="text-align: center;">
     <img src='../images/VEXTeam.jpg' alt="sym" width="70%">
 </div>
