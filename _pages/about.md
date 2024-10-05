@@ -40,7 +40,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 # 📖 Educations
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/northwestern-university.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2023.09 - present*, M.S. in Mechanical Engineering, *Northwestern University*, Evanston, U.S.
+- *2023.09 - present*, M.S. in MechE, *Northwestern University*.
     
   GPA: 3.86/4.00
     
@@ -51,7 +51,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2018.09 - 2022.06*, B.S. (Hons.) in Mechanical Engineering,             *Shanghai Jiao Tong University*, Shanghai, China.
+- *2018.09 - 2022.06*, B.S. (Hons.) in MechE,             *Shanghai Jiao Tong University*.
 
   GPA: 3.65/4.00
 
@@ -64,37 +64,26 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 - *2023.09 - present*, RA, Simpson Querrey Institute for Bioelectronics, Evanston, U.S.
 
   Advisor: Prof. John Rogers
-  
-  - Led experimental study of electromagnetic multi-modal actuators for advanced haptic interfaces. Conducted characterization of skin and skin phantom, and psychophysical test of human perception.
-  - Design and implemented a multi-channels pneumatic system, for precise control of mm-scale 3D organoid interface.
     
 <br>
 - *2021.09 - 2023.09*, RA, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai, China.
 
   Advisor: Prof. Xiaojun Chen
 
-  - Designed and clinically verified a robot-assisted puncture system with optical navigation. Developed a novel recursive diffusion deformation model to generate 4D-CT from limited CT scans, significantly corrected localization error from respiration.
-
 <br>
 - *2021.06 - 2021.08*, UG RA, Institute of Medical Robotics, Shanghai, China.
 
   Advisor: Prof. Anzhu Gao
 
-  - Led the serpentine robot project. Designed and implemented optimal trajectory planning algorithm and a multi-sensor fusion controller for a redundant manipulator.
-
 <br>
 - *2020.02 - 2021.02*, UG RA, Institute of Robotics, Shanghai, China.
 
   Advisor: Prof. Jianjun Meng
-  
-  - Participated in hardware building and data analysis. Conducted human subject research to analyze the relationship between bilateral vibration and motor imagery performance of the dominant hand.
 
 <br/>
 <br/>
 # 💻 Internships
 - *2022.01 - 2022.10*, Software Development Engineer, Espressif, Shanghai, China.
-  - Developed a lightweight, modular 12-DOF quadruped robot with **all-stack** skills.
-  - Verified the compatibility of ESP32 platform with Micro-ROS to expand its applicability in robotics.
 
 <br/>
 <br/>
