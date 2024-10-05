@@ -318,6 +318,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 </div>
 <center><i>With Jinda at SJTU Anual Running Festival, Shanghai, 2021</i></center>
 
+<br>
 <div style="text-align: center;">
     <img src='../images/prom.jpg' alt="sym" width="30%">
 </div>
@@ -339,7 +340,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
     <img src='../images/droneclub.jpg' alt="sym" width="50%">
 </div>
 <center><i>Before first flight test of SJTU Drone Club, Shanghai, 2019</i></center>
-
+<br>
 <!--
 <br>
 <div style="text-align: center;">
