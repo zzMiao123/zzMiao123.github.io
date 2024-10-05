@@ -66,12 +66,12 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 # 🧑‍💻 Experiences
 - *2023.09 - present*, <b>Research Assistant</b>, Simpson Querrey Institute for Bioelectronics, Evanston.
 
-  Advisor: Prof. [John Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate)
+  Advisor: Prof. [John Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate), contact info: jrogers@northwestern.edu
     
 <br>
 - *2021.09 - 2023.09*, <b>Research Assistant</b>, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
 
-  Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate)
+  Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate), contact info: xiaojunchen@sjtu.edu.cn
 
 <br>
 - *2022.01 - 2022.10*, <b>Software Development Intern</b>, [Espressif](https://www.espressif.com/), Shanghai.
@@ -79,7 +79,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <br>
 - *2021.06 - 2021.08*, <b>Undergraduate Research Assistant</b>, Institute of Medical Robotics, Shanghai.
 
-  Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html)
+  Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html), contact info: anzhu_gao@sjtu.edu.cn
 
 <br>
 - *2020.02 - 2021.02*, <b>Undergraduate Research Assistant</b>, Institute of Robotics, Shanghai.
