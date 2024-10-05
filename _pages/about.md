@@ -150,6 +150,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 # 📝 Publications 
 
 ## Ongoing Works
+To date, I've published 4 papers, with 3 more manuscripts in preparation, in leading journals such as Nature and Science. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
 
 - [1] **Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**
 
@@ -206,6 +207,9 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <br/>
 <br/>
 # 🤖 Projects
+
+Beyond research, I am passionate about designing innovative robots and AI models inspired by life and biology, translating concepts from textbooks into real-world technologies that enhance people's lives. My extensive hands-on experience has enabled me to grow into a full-stack engineer.
+
 ## Hardware and Robotics
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/Clipchamp-ezgif.com-video-to-gif-converter (1).gif' alt="sym" width="80%"></div></div>
@@ -311,6 +315,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <br>
 
 # 🎸 Hobbies
+While working hard and efficiently, I also prioritize nurturing both my body and mind.
 
 <br>
 <div style="text-align: center;">
