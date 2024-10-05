@@ -208,7 +208,7 @@ To date, I've published 4 papers, with 3 more manuscripts in preparation, in lea
 <br/>
 # 🤖 Projects
 
-Beyond research, I am passionate about designing innovative robots and AI models inspired by life and biology, translating concepts from textbooks into real-world technologies that enhance people's lives. My extensive hands-on experience has enabled me to grow into a full-stack engineer.
+Beyond research, I am passionate about designing innovative robots and AI models inspired by nature and daily life, translating concepts from textbooks into real-world technologies that enhance people's lives. My extensive hands-on experience has enabled me to grow into a full-stack engineer.
 
 ## Hardware and Robotics
 
