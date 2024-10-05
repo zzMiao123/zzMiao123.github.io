@@ -285,6 +285,16 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <br>
 
 # 🎸 Hobbies
- 
+ <div style="text-align: center;">
+    <img src='../images/MEM.jpg' alt="sym" width="70%">
+</div>
+
+<div style="text-align: center;">
+    <img src='../images/prom.jpg' alt="sym" width="70%">
+</div>
+
+<div style="text-align: center;">
+    <img src='../images/me.jpg' alt="sym" width="70%">
+</div>
 
 
