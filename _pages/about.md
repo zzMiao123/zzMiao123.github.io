@@ -94,18 +94,22 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 <br>
 - *2020.09 - 2021.06*, <b>Minister of Secretariat</b>, Student Union of Zhiyuan College, Shanghai.
   - Organized and led activities for the student union and inter-communication with sister schools. Handled commercial outreach and led press releases.
+<!--
 <div style="text-align: center;">
     <img src='../images/union.jpg' alt="sym" width="50%">
 </div>
 <center><i>Delivering the anual report of student union, Shanghai, 2020</i></center>
+-->
 
 
 <br>
 - *2020.07 - 2021.07*, <b>Fellow</b>, Zhixing China-US College Student Leadership Academy, Hubei.
+<!--
 <div style="text-align: center;">
     <img src='../images/zhixing.jpg' alt="sym" width="50%">
 </div>
 <center><i>Participating in the Zhixing Roundtable on Sustainable Development, Hubei, 2020.</i></center>
+-->
 
 <br>
 - *2020.02 - 2020.12*, <b>Peer Tutor</b>, Top Scholars Club, Shanghai.
@@ -306,22 +310,26 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 # 🎸 Hobbies
 
-<div style="text-align: center;">
-    <img src='../images/prom.jpg' alt="sym" width="30%">
-</div>
-<center><i>Dancing with Qianru at the graduation prom, shanghai, 2023</i></center>
-
-<br>
-<div style="text-align: center;">
-    <img src='../images/rrrTeam.jpg' alt="sym" width="50%">
-</div>
-<center><i>With team of RRR-Robot at dawn before the final report, Shanghai, 2023</i></center>
-
 <br>
 <div style="text-align: center;">
     <img src='../images/run.jpg' alt="sym" width="50%">
 </div>
 <center><i>With Jinda at SJTU Anual Running Festival, Shanghai, 2021</i></center>
+
+<div style="text-align: center;">
+    <img src='../images/prom.jpg' alt="sym" width="30%">
+</div>
+<center><i>Dancing with Qianru at the graduation prom, shanghai, 2023</i></center>
+
+<!--
+<br>
+<div style="text-align: center;">
+    <img src='../images/rrrTeam.jpg' alt="sym" width="50%">
+</div>
+<center><i>With team of RRR-Robot at dawn before the final report, Shanghai, 2023</i></center>
+-->
+
+
 
 <br>
 
@@ -330,11 +338,13 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 </div>
 <center><i>Before first flight test of SJTU Drone Club, Shanghai, 2019</i></center>
 
+<!--
 <br>
 <div style="text-align: center;">
     <img src='../images/VEXTeam.jpg' alt="sym" width="50%">
 </div>
 <center><i>With Team members after winning VEX Competition, Shanghai, 2019</i> </center>
+-->
 
 
 
