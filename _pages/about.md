@@ -301,27 +301,27 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <div style="text-align: center;">
     <img src='../images/prom.jpg' alt="sym" width="40%">
 </div>
-<center><i>won dancing couple in the graduation prom, shanghai, 2023</i>i></center>
+<center><i>Dancing with Qianru in the graduation prom, shanghai, 2023</i>i></center>
 
 <div style="text-align: center;">
     <img src='../images/rrrTeam.jpg' alt="sym" width="70%">
 </div>
-<center><i>With team members of RRR Robots, Shanghai, 2023</i></center>
+<center><i>With team members of RRR Robots at the night before final report, Shanghai, 2023</i></center>
 
 <div style="text-align: center;">
     <img src='../images/tingya.jpg' alt="sym" width="70%">
 </div>
-<center><i>In presentation of Tingya scholarship, Shanghai, 2021</i></center>
+<center><i>Presenting in 1st round of Tingya scholarship selection, Shanghai, 2021</i></center>
 
 <div style="text-align: center;">
     <img src='../images/run.jpg' alt="sym" width="70%">
 </div>
-<center><i>With Jinda at Anual Running Festival, Shanghai, 2021</i>i></center>
+<center><i>With Jinda at SJTU Anual Running Festival, Shanghai, 2021</i>i></center>
 
 <div style="text-align: center;">
     <img src='../images/droneclub.jpg' alt="sym" width="70%">
 </div>
-<center><i>First flight test of SJTU Drone Club, Shanghai, 2019</i></center>
+<center><i>Before first flight test of SJTU Drone Club, Shanghai, 2019</i></center>
 
 <div style="text-align: center;">
     <img src='../images/VEXTeam.jpg' alt="sym" width="70%">
