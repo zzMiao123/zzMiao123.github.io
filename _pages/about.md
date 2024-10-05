@@ -66,25 +66,25 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 # 🧑‍💻 Experiences
 - *2023.09 - present*, <b>Research Assistant</b>, Simpson Querrey Institute for Bioelectronics, Evanston.
 
-  Advisor: Prof. John Rogers
+  Advisor: Prof. [John Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate)
     
 <br>
 - *2021.09 - 2023.09*, <b>Research Assistant</b>, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
 
-  Advisor: Prof. Xiaojun Chen
+  Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate)
 
 <br>
-- *2022.01 - 2022.10*, <b>Software Development Intern</b>, Espressif, Shanghai.
+- *2022.01 - 2022.10*, <b>Software Development Intern</b>, [Espressif](https://www.espressif.com/), Shanghai.
 
 <br>
 - *2021.06 - 2021.08*, <b>Undergraduate Research Assistant</b>, Institute of Medical Robotics, Shanghai.
 
-  Advisor: Prof. Anzhu Gao
+  Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html)
 
 <br>
 - *2020.02 - 2021.02*, <b>Undergraduate Research Assistant</b>, Institute of Robotics, Shanghai.
 
-  Advisor: Prof. Jianjun Meng
+  Advisor: Prof. [Jianjun Meng](https://scholar.google.com/citations?hl=en&user=Ahr8ZzsAAAAJ)
 
 <br/>
 <br/>
@@ -106,7 +106,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 
 
 <br>
-- *2020.07 - 2021.07*, <b>Fellow</b>, Zhixing China-US College Student Leadership Academy, Hubei.
+- *2020.07 - 2021.07*, <b>Fellow</b>, Zhixing China-US University Student Leader Academy, Beijing.
 
 <!--
 <div style="text-align: center;">
