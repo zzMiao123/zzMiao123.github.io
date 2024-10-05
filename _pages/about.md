@@ -60,40 +60,49 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring resilience, strateg
 </div>
 <br/>
 <br/>
-# 🔬 Research Experiences
-- *2023.09 - present*, RA, Simpson Querrey Institute for Bioelectronics, Evanston, U.S.
+# 🧑‍💻 Experiences
+- *2023.09 - present*, Research Assistant, Simpson Querrey Institute for Bioelectronics, Northwestern University.
 
   Advisor: Prof. John Rogers
     
 <br>
-- *2021.09 - 2023.09*, RA, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai, China.
+- *2021.09 - 2023.09*, RA, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai Jiao Tong University.
 
   Advisor: Prof. Xiaojun Chen
 
 <br>
-- *2021.06 - 2021.08*, UG RA, Institute of Medical Robotics, Shanghai, China.
+- *2022.01 - 2022.10*, Software Development Intern, Espressif, Shanghai, China.
+
+<br>
+- *2021.06 - 2021.08*, UG RA, Institute of Medical Robotics, Shanghai Jiao Tong University.
 
   Advisor: Prof. Anzhu Gao
 
 <br>
-- *2020.02 - 2021.02*, UG RA, Institute of Robotics, Shanghai, China.
+- *2020.02 - 2021.02*, UG RA, Institute of Robotics, Shanghai Jiao Tong University.
 
   Advisor: Prof. Jianjun Meng
 
 <br/>
 <br/>
-# 💻 Internships
-- *2022.01 - 2022.10*, Software Development Engineer, Espressif, Shanghai, China.
-
-<br/>
-<br/>
-# 🏫 Outreach
+# 🤝 Outreach
 - *2024.09 - present*, TA (Instructor: Prof. Kevin Lynch), ME449 Robotic Manipulation.
   - Assisted with course material preparation, grading, and leading office hour for a class of 80 students.
 
 <br>
+- *2020.09 - 2021.06*, Minister of Secretariat, Student Union of Zhiyuan College.
+  - Organized and led activities for the student union and inter-communication with sister schools. Handled commercial outreach and led press releases.
+
+<br>
+- *2020.07 - 2021.07*, Fellow, US-China ZhiXing Program.
+
+<br>
 - *2020.02 - 2020.12*, Peer Tutor, Top Scholars Club.
   - Conducted weekly Q&A and review sessions for 2 students; recognized as an Outstanding Tutor.
+
+<br>
+- *2019.07 - 2019.08*, Volunteer Teacher, GreatWall Education Assistance Program.
+  - Taught ~700 Grade-10 students at a remote school; ecognized as an Exemplary Individual for teaching excellence.
 
 <br/>
 <br/>
@@ -274,5 +283,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 </div>
 
 <br>
+
+# 🎸 Hobbies
 
 
