@@ -253,7 +253,7 @@ X. Xu, <u>Y. Mao</u>, H. Bai, Z. Mei, M. Xia
 </div>
 
 <br>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1st Prize</div><img src='../images/dabashou.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1st Prize</div><img src='../images/dabashou.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A Curvature-Adaptive Roller Clamping Mechanism for Heavy Load Transportation on Staircases**
