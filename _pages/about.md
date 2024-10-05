@@ -301,50 +301,55 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <div style="text-align: center;">
     <img src='../images/tingya.jpg' alt="sym" width="70%">
 </div>
-*In presentation of Tingya scholarship*
+<center>*In presentation of Tingya scholarship*</center>
 
 <div style="text-align: center;">
     <img src='../images/VEXleader.jpg' alt="sym" width="70%">
 </div>
-*Lead a team in VEX Competition* 
+<center>*Lead a team in VEX Competition* </center>
 
 <div style="text-align: center;">
     <img src='../images/run.jpg' alt="sym" width="70%">
 </div>
-*With Jinda at Anual Running Festival*
+<center>*With Jinda at Anual Running Festival*</center>
 
 <div style="text-align: center;">
     <img src='../images/prom.jpg' alt="sym" width="50%">
 </div>
-*won dancing couple in the graduation prom*
+<center>*won dancing couple in the graduation prom*</center>
 
 <div style="text-align: center;">
     <img src='../images/game.jpg' alt="sym" width="70%">
 </div>
-*cosplay of LOL MV <Rise>*
+<center>*cosplay of LOL MV *Rise**</center>
+
+<div style="text-align: center;">
+    <img src='../images/me.jpg' alt="sym" width="70%">
+</div>
+<center>*after winning ME design competition*</center>
 
 ## With colleagues/friends
 <div style="text-align: center;">
     <img src='../images/rrrTeam.jpg' alt="sym" width="70%">
 </div>
-*With colleagues of RRR Robots*
+<center>*With colleagues of RRR Robots*</center>
 
 <div style="text-align: center;">
     <img src='../images/salty.jpg' alt="sym" width="70%">
 </div>
-*with friends at Salty Lake City*
+<center>*with friends at Salty Lake City*</center>
 
 <div style="text-align: center;">
     <img src='../images/unionMembers.jpg' alt="sym" width="70%">
 </div>
-*With colleagues of student union*
+<center>*With colleagues of student union*</center>
 
 <div style="text-align: center;">
     <img src='../images/MEM.jpg' alt="sym" width="70%">
 </div>
-*With Beichen and Ziyu after submitting paper to MEM*
+<center>*With Beichen and Ziyu after submitting paper to MEM*</center>
 
 <div style="text-align: center;">
     <img src='../images/reading.jpg' alt="sym" width="70%">
 </div>
-*holding a reading salon*
+<center>*holding a reading salon*</center>
