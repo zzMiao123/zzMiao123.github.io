@@ -9,8 +9,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Experiences"
-    url: "/#-experiences"
+  - title: "Research Experiences"
+    url: "/#-research-experiences"
+
+  - title: "Internships"
+    url: "/#-internships"
 
   - title: "Outreach"
     url: "/#-outreach"
@@ -23,9 +26,6 @@ main:
 
   - title: "Projects"
     url: "/#-projects"
-
-  - title: "Hobbies"
-    url: "/#-hobbies"
 
 
 
