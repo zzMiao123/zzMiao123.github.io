@@ -297,35 +297,54 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <br>
 
 # 🎸 Hobbies
+
 <div style="text-align: center;">
     <img src='../images/tingya.jpg' alt="sym" width="70%">
 </div>
+*In presentation of Tingya scholarship*
 
 <div style="text-align: center;">
     <img src='../images/VEXleader.jpg' alt="sym" width="70%">
 </div>
+*Lead a team in VEX Competition* 
 
 <div style="text-align: center;">
     <img src='../images/run.jpg' alt="sym" width="70%">
 </div>
+*With Jinda at Anual Running Festival*
 
 <div style="text-align: center;">
     <img src='../images/prom.jpg' alt="sym" width="70%">
 </div>
+*won dancing couple in graduation prom*
 
 <div style="text-align: center;">
     <img src='../images/game.jpg' alt="sym" width="70%">
 </div>
+*cosplay of LOL MV <Rise>*
 
 ## With colleagues/friens
 <div style="text-align: center;">
     <img src='../images/rrrTeam.jpg' alt="sym" width="70%">
 </div>
+*With colleagues of RRR Robots*
+
+<div style="text-align: center;">
+    <img src='../images/salty.jpg' alt="sym" width="70%">
+</div>
+*with friends at Salty Lake City*
+
+<div style="text-align: center;">
+    <img src='../images/unionMembers.jpg' alt="sym" width="70%">
+</div>
+*With colleagues of student union*
 
 <div style="text-align: center;">
     <img src='../images/MEM.jpg' alt="sym" width="70%">
 </div>
+*With Beichen and Ziyu after submitting paper to MEM*
 
 <div style="text-align: center;">
     <img src='../images/reading.jpg' alt="sym" width="70%">
 </div>
+*holding a reading salon*
