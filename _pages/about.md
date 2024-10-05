@@ -281,7 +281,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/Clipchamp4-ezgif.com-video-to-gif-converter.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Cooperation and Confrontation Multi-Agent Reinforcement Learning for RoboCup**
+**Cooperation and Confrontation in Multi-Agent Reinforcement Learning for RoboCup**
 
 <u>Y. Mao</u>, J. Liang, Z. Li, S. Chen
 
