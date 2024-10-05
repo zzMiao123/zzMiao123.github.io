@@ -245,7 +245,7 @@ Beyond research, I am passionate about designing innovative robots and AI models
 
 <br>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='../images/jumpiter.gif' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent Granted</div><img src='../images/jumpiter.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Jumpiter: A Cam-Powered Dual-Mode Mobile-Jumping Robot**
