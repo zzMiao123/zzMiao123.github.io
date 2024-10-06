@@ -23,7 +23,7 @@ Hi! I'm Yuxuan, an M.S. student in Mechanical Engineering at **Northwestern Univ
 My research interests include **actuator mechanisms**, **wearable robotics**, and **stretchable electronics**. Currently, I’m conducting research at the Simpson Querrey Institute for Bioelectronics under the supervision of Prof. John A. Rogers, focusing on multi-modal actuators and soft robotics, particularly in the areas of haptics and organoid interfaces. My expertise spans a wide range of bio-mechatronics skills, such as rapid prototyping, micro-fabrication, embedded programming and machine learning.
 
 <br>
-As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **strategic thinking**, and a genuine **passion for technology** to my work. Outside of academics, I enjoy playing and singing R&B on the ukulele, playing basketball, and exploring science fiction and epic stories.
+As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **strategic thinking**, and a genuine **passion for technology** to my work. Outside of academics, I enjoy playing and singing RNB on the ukulele, playing basketball, and exploring science fiction and epic stories.
 
 <div style="text-align: center;">
     <img src='../images/report-new.jpg' alt="sym" width="70%">
@@ -141,7 +141,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <br>
 <br/>
 # 📝 Publications 
-As a first author or lead co-author, I've gained extensive experience in all stages of research--from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
+As a first author or lead co-author, I've gained extensive experience in all stages of research ----from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
 
 ## Ongoing Works
 
