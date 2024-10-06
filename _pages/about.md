@@ -316,6 +316,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 <br>
 
+<!--
 # 🎸 Hobbies
 While working diligently and efficiently, I also make it a priority to nurture both my body and mind.
 
@@ -337,6 +338,7 @@ While working diligently and efficiently, I also make it a priority to nurture b
 </div>
 <center><i>Dancing with Qianru at the graduation prom, shanghai, 2023</i></center>
 <br>
+-->
 
 <!--
 <br>
