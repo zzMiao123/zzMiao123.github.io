@@ -54,7 +54,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <div class='paper-box-text' markdown="1">
 - *2018.09 - 2022.06*, B.S. (Hons.) in MechE, <b>Shanghai Jiao Tong University</b>.
   - GPA: 3.65/4.00 (Honors Program for top 5% students)
-  - Coursework: Mechatronics, Design&Manufacturing, Solid/Fluid Mechanics, Modern Control Theory
+  - Coursework: Mechatronics, Design/Manufacturing, Solid/Fluid Mechanics, Modern Control Theory
 </div>
 </div>
 <br/>
@@ -141,7 +141,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <br>
 <br/>
 # 📝 Publications 
-As a first author or lead co-author, I've gained extensive experience in all stages of research ----from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
+As a first author or lead co-author, I've gained extensive experience in all stages of research --from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
 
 ## Ongoing Works
 
