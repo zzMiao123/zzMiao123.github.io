@@ -81,7 +81,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <br/>
 # 🤝 Outreach
 - *2024.09 - present*, <b>Teaching Assistant</b>, ME449 Robotic Manipulation, Evanston.
-  - Instructor: Prof. Kevin Lynch
+  - Instructor: Prof. [Kevin Lynch](https://scholar.google.com/citations?user=yCpbkPAAAAAJ&hl=en)
   - Assisted with course material preparation, grading, and leading office hour for a class of 80 students.
 
 
