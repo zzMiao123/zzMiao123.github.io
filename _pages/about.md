@@ -44,10 +44,8 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/northwestern-university.svg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2023.09 - present*, M.S. in MechE, <b>Northwestern University</b>.
-    
-  GPA: 3.86/4.00
-    
-  Coursework: Bio-electronics, Surface Engineering, AI in Robotics, Vibrations and Acoustics
+  - GPA: 3.86/4.00
+  - Coursework: Bio-electronics, Surface Engineering, AI in Robotics, Vibrations and Acoustics
   
 </div>
 </div>
@@ -55,45 +53,38 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/sjtu.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2018.09 - 2022.06*, B.S. (Hons.) in MechE, <b>Shanghai Jiao Tong University</b>.
-
-  GPA: 3.65/4.00 (Honors Program for top 5% students)
-
-  Coursework: Mechatronics, Design&Manufacturing, Solid/Fluid Mechanics, Modern Control Theory
+  - GPA: 3.65/4.00 (Honors Program for top 5% students)
+  - Coursework: Mechatronics, Design&Manufacturing, Solid/Fluid Mechanics, Modern Control Theory
 </div>
 </div>
 <br/>
 <br/>
 # 🧑‍💻 Experiences
 - *2023.09 - present*, <b>Research Assistant</b>, Simpson Querrey Institute for Bioelectronics, Evanston.
-
-  Advisor: Prof. [John Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate), Email: jrogers@northwestern.edu
+  - Advisor: Prof. [John Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate), Email: jrogers@northwestern.edu
     
-<br>
+
 - *2021.09 - 2023.09*, <b>Research Assistant</b>, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
+  - Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate), Email: xiaojunchen@sjtu.edu.cn
 
-  Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate), Email: xiaojunchen@sjtu.edu.cn
 
-<br>
 - *2022.01 - 2022.10*, <b>Software Development Intern</b>, [Espressif](https://www.espressif.com/), Shanghai.
 
-<br>
+
 - *2021.06 - 2021.08*, <b>Undergraduate Research Assistant</b>, Institute of Medical Robotics, Shanghai.
+  - Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html), Email: anzhu_gao@sjtu.edu.cn
 
-  Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html), Email: anzhu_gao@sjtu.edu.cn
 
-<br>
 - *2020.02 - 2021.02*, <b>Undergraduate Research Assistant</b>, Institute of Robotics, Shanghai.
+  - Advisor: Prof. [Jianjun Meng](https://scholar.google.com/citations?hl=en&user=Ahr8ZzsAAAAJ)
 
-  Advisor: Prof. [Jianjun Meng](https://scholar.google.com/citations?hl=en&user=Ahr8ZzsAAAAJ)
-
-<br/>
 <br/>
 # 🤝 Outreach
 - *2024.09 - present*, <b>Teaching Assistant</b>, ME449 Robotic Manipulation, Evanston.
-  Instructor: Prof. Kevin Lynch
+  - Instructor: Prof. Kevin Lynch
   - Assisted with course material preparation, grading, and leading office hour for a class of 80 students.
 
-<br>
+
 - *2020.09 - 2021.06*, <b>Minister of Secretariat</b>, Student Union of Zhiyuan College, Shanghai.
   - Organized and led activities for the student union and inter-communication with sister schools. Handled commercial outreach and led press releases.
 
@@ -105,7 +96,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 -->
 
 
-<br>
+
 - *2020.07 - 2021.07*, <b>Fellow</b>, Zhixing China-US University Student Leader Academy, Beijing.
 
 <!--
@@ -115,11 +106,11 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <center><i>Participating in the Zhixing Roundtable on Sustainable Development, Hubei, 2020.</i></center>
 -->
 
-<br>
+
 - *2020.02 - 2020.12*, <b>Peer Tutor</b>, Top Scholars Club, Shanghai.
   - Conducted weekly Q&A and review sessions for 2 students; recognized as an Outstanding Tutor.
 
-<br>
+
 - *2019.07 - 2019.08*, <b>Volunteer Teacher</b>, GreatWall Education Assistance Program, Hunan.
   - Taught ~700 Grade-10 students at a remote school; ecognized as an Exemplary Individual for teaching excellence.
 <div style="text-align: center;">
