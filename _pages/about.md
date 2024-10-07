@@ -80,7 +80,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
   - Mentors: Zhaocheng Zhan, Li Zhou
   - Projects: Mini Pupper (colabrate with Mangdang)
 
-- *2021.06 - 2021.08*, <b>Undergraduate Research Assistant</b>, Institute of Medical Robotics, Shanghai.
+- *2021.06 - 2021.09*, <b>Undergraduate Research Assistant</b>, Institute of Medical Robotics, Shanghai.
   - Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html), Email: anzhu_gao@sjtu.edu.cn
   - Project: redundant robot design and manipulation
 
