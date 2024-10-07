@@ -28,7 +28,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <div style="text-align: center;">
     <img src='../images/report-new.jpg' alt="sym" width="70%">
 </div>
-<center><i>Delivering an oral report at the Young Scholar Competition, Jiangsu, 2023</i></center>
+<center><i>Delivering an oral report at the Young Scholar Competition, Suzhou, 2023</i></center>
 
 <br>
 <br>
@@ -127,7 +127,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <div style="text-align: center;">
     <img src='../images/volunteer.jpg' alt="sym" width="50%">
 </div>
-<center><i>Teaching a class at a rural middle school, Hunan, 2019</i></center>
+<center><i>Teaching a class at a rural middle school, Xinhuang, 2019</i></center>
 
 <br/>
 <br/>
