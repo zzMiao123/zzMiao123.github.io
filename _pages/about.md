@@ -123,7 +123,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 
 
 - *2019.07 - 2019.08*, <b>Volunteer Teacher</b>, GreatWall Education Assistance Program, Hunan.
-  - Taught ~700 Grade-10 students at a remote school; ecognized as an Exemplary Individual for teaching excellence.
+  - Taught ~700 Grade-10 students at a remote school; recognized as an Outstanding Individual for teaching excellence.
 <div style="text-align: center;">
     <img src='../images/volunteer.jpg' alt="sym" width="50%">
 </div>
