@@ -61,22 +61,29 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <br/>
 # 🧑‍💻 Experiences
 - *2023.09 - present*, <b>Research Assistant</b>, Simpson Querrey Institute for Bioelectronics, Evanston.
-  - Advisor: Prof. [John Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate), Email: jrogers@northwestern.edu
+  - Advisor: Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate), Email: jrogers@northwestern.edu
+  - Mentors: Dr. Kyoungho Ha, Prof. [Matthew T. Flavin](https://flavinlab.io/people/), Dr. Wooyoul Maeng
+  - Projects: Bioelastic haptic actuator, Multi-modal haptic actuator, soft robot for organoid interface
     
 
 - *2021.09 - 2023.09*, <b>Research Assistant</b>, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
   - Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate), Email: xiaojunchen@sjtu.edu.cn
+  - Projects: robot-assisted thoracic puncture system, fiber-optic respiration sensor, tumor localzation during respiration
 
 
 - *2022.01 - 2022.10*, <b>Software Development Intern</b>, [Espressif](https://www.espressif.com/), Shanghai.
+  - Mentors: Zhaocheng Zhan, Li Zhou
+  - Projects: Mini Pupper (colabrate with Mangdang) [Project](https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-robot-kit-for-dreamers) | [Video](https://youtu.be/KGVOi1Mrjb0?si=rhBAEWGgtXD9CqYx&t=138) 
 
 
 - *2021.06 - 2021.08*, <b>Undergraduate Research Assistant</b>, Institute of Medical Robotics, Shanghai.
   - Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html), Email: anzhu_gao@sjtu.edu.cn
+  - Project: redundant robot design and manipulation
 
 
 - *2020.02 - 2021.02*, <b>Undergraduate Research Assistant</b>, Institute of Robotics, Shanghai.
   - Advisor: Prof. [Jianjun Meng](https://scholar.google.com/citations?hl=en&user=Ahr8ZzsAAAAJ)
+  - Project: motor imagery (MI)-based brain-computer interface (BCI) 
 
 <br/>
 # 🤝 Outreach
@@ -225,6 +232,7 @@ Beyond research, I am passionate about designing innovative robots and AI models
 <div class='paper-box-text' markdown="1">
 
 **Mini Pupper: A Lightweight, modular 12-DOF quadruped robot based on ESP32**
+[Project](https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-robot-kit-for-dreamers) | [Video](https://youtu.be/KGVOi1Mrjb0?si=rhBAEWGgtXD9CqYx&t=138) 
 
 <u>Y. Mao</u>, Z. Zhang
 
