@@ -108,7 +108,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 
 
 - *2020.02 - 2020.12*, <b>Peer Tutor</b>, Top Scholars Club, Shanghai.
-  - Conducted weekly Q&A and review sessions for 2 students; recognized as an Outstanding Tutor.
+  - Conducted weekly Q-A and review sessions for 2 students; recognized as an Outstanding Tutor.
 
 
 - *2019.07 - 2019.08*, <b>Volunteer Teacher</b>, GreatWall Education Assistance Program, Hunan.
