@@ -203,7 +203,7 @@ As a first author or lead co-author, I've gained extensive experience in all sta
 
 Beyond research, I am passionate about designing innovative robots and AI models inspired by nature and daily life, translating concepts from textbooks into real-world technologies that enhance people's lives. My extensive hands-on experience has enabled me to grow into a full-stack engineer.
 
-## Hardware and Robotics
+## Robots and Mechanisms
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/Clipchamp-ezgif.com-video-to-gif-converter (1).gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -265,7 +265,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 <br>
 
-## Software and AI
+## Artificial Intelligence
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/Clipchamp2-ezgif.com-speed.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
