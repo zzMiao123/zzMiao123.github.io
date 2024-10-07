@@ -64,7 +64,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
   - Advisor: Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate), Email: jrogers@northwestern.edu
   - Mentors: Dr. Kyoungho Ha, Prof. [Matthew T. Flavin](https://flavinlab.io/people/), Dr. Wooyoul Maeng
   - Projects: Bioelastic haptic actuator, Multi-modal haptic actuator, soft robot for organoid interface
-    
+  
 
 - *2021.09 - 2023.09*, <b>Research Assistant</b>, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
   - Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate), Email: xiaojunchen@sjtu.edu.cn
