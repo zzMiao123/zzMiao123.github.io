@@ -308,28 +308,28 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <br>
 
 # 🔧 Skills
-- Mechanical:
-    - CAD (Solidworks, AutoCAD, FreeCAD, iSight), Simulation (Abaqus, Adams)
+- **Mechanical**:
+    - CAD (*Solidworks*, *AutoCAD*, *FreeCAD*, *iSight*), Simulation (*Abaqus*, *Adams*)
     - Rapid Prototyping (3D Printing (FDM and SLA), Laser Cutting)
     - Simulation
     - Mechatronics Implementation (Motors (DC, Step, Servo))
     - Pneumatic Implementation (Valves (Solenoid, Proportional))
-- Electrical:
+- **Electrical**:
     - (Micro)Soldering, wiring
-    - Embedded System Development (Arduino, STM32, ESP32)
+    - Embedded System Development (*Arduino*, *STM32*, *ESP32*)
     - Signal Processing
-- Programming:
-    - MATLAB/Simulink, LabVIEW
+- **Programming**:
+    - *MATLAB/Simulink*, *LabVIEW*
     - C/C++, Python, Swift
-- Robotics:
+- **Robotics**:
     - ROS/ROS2/MicroROS, V-REP/CoppeliaSim, Gazebo
     - Protocols (UART, I2C, SPI, CAN)
-- Equipments:
+- **Equipments**:
     - Tensile/Compression Tester, Dynamic Fatigue Tester
     - Vital Signs Monitor (SPO2, HR, Resp), EEG Caps
-    - NDI Optical/Electromagnetic Tracker
+    - *NDI* Optical/Electromagnetic Tracker
     - ...
-- Others:
+- **Others**:
     - Thin-film Coating Processes
     - Digital Image Correlation (DIC)
     - Statistical/Machine Learning
