@@ -327,7 +327,6 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
     - Tensile/Compression Tester, Dynamic Fatigue Tester
     - Vital Signs Monitor (SPO2, HR, Resp), EEG Cap
     - *NDI* Optical/Electromagnetic Tracker
-    - ...
 - **Others**:
     - Micro-Fabrication, Thin-film Coating Processes
     - Digital Image Correlation (DIC)
