@@ -221,7 +221,7 @@ Beyond research, I am passionate about designing innovative robots and AI models
 
 **Wrist Rehabilitation Assistive Device Based on 3-RRR Mechanism**
 
-<u>Y. Mao</u>, P. Lin, R. Liu, B. Liang
+<u>Y. Mao</u>, P. Lin, R. Liu, B. Liang, A. Sun, Y. Jin
 
 - Utilizing an R-R-R spherical parallel mechanism, this device provides independent rotational movements in three degrees of freedom (DoF), covering the full range of wrist motion.
 - Through force sensors and IMU, it enables accurate trajectory reproduction with controlled resistance, allowing wrist-injured patients to train muscles across 3 DoF with adaptive damping.
