@@ -73,8 +73,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 
 - *2022.01 - 2022.10*, <b>Software Development Intern</b>, [Espressif](https://www.espressif.com/), Shanghai.
   - Mentors: Zhaocheng Zhan, Li Zhou
-  - Projects: Mini Pupper (colabrate with Mangdang) [Project](https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-robot-kit-for-dreamers) | [Video](https://youtu.be/KGVOi1Mrjb0?si=rhBAEWGgtXD9CqYx&t=138) 
-
+  - Projects: Mini Pupper (colabrate with Mangdang)
 
 - *2021.06 - 2021.08*, <b>Undergraduate Research Assistant</b>, Institute of Medical Robotics, Shanghai.
   - Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html), Email: anzhu_gao@sjtu.edu.cn
