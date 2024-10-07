@@ -309,31 +309,30 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 # 🔧 Skills
 - Mechanical:
-    - CAD, 3D Rapid Prototyping, Machining,
-    - Mechatronics Implementation,
-    - Pneumatic Implementation;
+    - CAD (Solidworks, AutoCAD, FreeCAD, iSight), Simulation (Abaqus, Adams)
+    - Rapid Prototyping (3D Printing (FDM and SLA), Laser Cutting)
+    - Simulation
+    - Mechatronics Implementation (Motors (DC, Step, Servo))
+    - Pneumatic Implementation (Valves (Solenoid, Proportional))
 - Electrical:
-    - (Micro)Soldering,
-    - Embedded System Development (Arduino, STM32, ESP32),
-    - Signal Processing,
-    - Sensors;
+    - (Micro)Soldering
+    - Embedded System Development (Arduino, STM32, ESP32)
+    - Signal Processing
 - Programming:
-    - MATLAB/Simulink,
-    - LabVIEW,
-    - C/C++, Python, Swift;
+    - MATLAB/Simulink, LabVIEW
+    - C/C++, Python, Swift
 - Robotics:
-    - ROS/ROS2/MicroROS,
-    - Protocols (UART, I2C, SPI, CAN);
+    - ROS/ROS2/MicroROS, V-REP/CoppeliaSim, Gazebo
+    - Protocols (UART, I2C, SPI, CAN)
 - Equipments:
-    - Tensile/Compression Tester, Dynamic Fatigue Tester,
-    - Vital Signs Monitor (SPO2, HR, Resp),
-    - EEG Cap,
-    - Optical/Electromagnetic NDI Tracker;
+    - Tensile/Compression Tester, Dynamic Fatigue Tester
+    - Vital Signs Monitor (SPO2, HR, Resp), EEG Caps
+    - NDI Optical/Electromagnetic Tracker
+    - ...
 - Others:
-    - Thin-film Coating Processes,
-    - Digital Image Correlation (DIC),
-    - Statistical/Machine Learning.
-
+    - Thin-film Coating Processes
+    - Digital Image Correlation (DIC)
+    - Statistical/Machine Learning
 
 <!--
 # 🎸 Hobbies
