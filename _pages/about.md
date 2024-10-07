@@ -151,7 +151,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <br>
 <br/>
 # 📝 Publications 
-As a first author or lead co-author, I've gained extensive experience in all stages of research --from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
+As the first author or lead co-author, I'm well-trained, and gained extensive experience across all stages of research --from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
 
 ## Ongoing Works
 
