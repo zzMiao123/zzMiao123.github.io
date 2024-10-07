@@ -134,9 +134,9 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 - *2019* Shanghai Scholarship (Top 1%, 1/206)
 
 <div style="text-align: center;">
-    <img src='../images/tingya.jpg' alt="sym" width="50%">
+    <img src='../images/droneclub.jpg' alt="sym" width="50%">
 </div>
-<center><i>Presenting in TYACHT outstanding student selection, Shanghai, 2021</i></center>
+<center><i>Before first flight test of SJTU Drone Club, Shanghai, 2019</i></center>
 
 <br>
 <br/>
@@ -345,10 +345,7 @@ While working diligently and efficiently, I also make it a priority to nurture b
 <center><i>With Jinda at SJTU Anual Running Festival, Shanghai, 2021</i></center>
 <br>
 
-<div style="text-align: center;">
-    <img src='../images/droneclub.jpg' alt="sym" width="50%">
-</div>
-<center><i>Before first flight test of SJTU Drone Club, Shanghai, 2019</i></center>
+
 
 <br>
 <div style="text-align: center;">
@@ -356,6 +353,13 @@ While working diligently and efficiently, I also make it a priority to nurture b
 </div>
 <center><i>Dancing with Qianru at the graduation prom, shanghai, 2023</i></center>
 <br>
+-->
+
+<!--
+<div style="text-align: center;">
+    <img src='../images/tingya.jpg' alt="sym" width="50%">
+</div>
+<center><i>Presenting in TYACHT outstanding student selection, Shanghai, 2021</i></center>
 -->
 
 <!--
