@@ -309,16 +309,16 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 # 🔧 Skills
 - **Mechanical**:
-    - CAD (*Solidworks*, *AutoCAD*, *FreeCAD*, *iSight*), Simulation (*Abaqus*, *Adams*)
+    - CAD (Solidworks, AutoCAD, FreeCAD, iSight), Simulation (Abaqus, Adams)
     - Rapid Prototyping (3D Printing (FDM and SLA), Laser Cutting)
     - Mechatronics Implementation (Motors (DC, Step, Servo))
     - Pneumatic Implementation (Valves (Solenoid, Proportional))
 - **Electrical**:
     - (Micro)Soldering, wiring
-    - Embedded System Development (*Arduino*, *STM32*, *ESP32*)
+    - Embedded System Development (Arduino, STM32, ESP32)
     - Signal Processing
 - **Programming**:
-    - *MATLAB/Simulink*, *LabVIEW*
+    - MATLAB/Simulink, LabVIEW
     - C/C++, Python, Swift
 - **Robotics**:
     - ROS/ROS2/MicroROS, V-REP/CoppeliaSim, Gazebo
