@@ -238,7 +238,7 @@ Beyond research, I am passionate about designing innovative robots and AI models
 **Mini Pupper: A Lightweight, modular 12-DOF quadruped robot based on ESP32**
 [Project](https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-robot-kit-for-dreamers) | [Video](https://youtu.be/KGVOi1Mrjb0?si=rhBAEWGgtXD9CqYx&t=138) 
 
-<u>Y. Mao</u>, Z. Zhang
+MangDang Tech, <u>Y. Mao</u>, Z. Zhang
 
 - Developed a lightweight, modular 12-DOF quadruped robot with all-stack skills.
 - Verified the compatibility of ESP32 platform with Micro-ROS to expand its applicability in robotics.
