@@ -311,7 +311,6 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 - **Mechanical**:
     - CAD (*Solidworks*, *AutoCAD*, *FreeCAD*, *iSight*), Simulation (*Abaqus*, *Adams*)
     - Rapid Prototyping (3D Printing (FDM and SLA), Laser Cutting)
-    - Simulation
     - Mechatronics Implementation (Motors (DC, Step, Servo))
     - Pneumatic Implementation (Valves (Solenoid, Proportional))
 - **Electrical**:
@@ -326,13 +325,14 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
     - Protocols (UART, I2C, SPI, CAN)
 - **Equipments**:
     - Tensile/Compression Tester, Dynamic Fatigue Tester
-    - Vital Signs Monitor (SPO2, HR, Resp), EEG Caps
+    - Vital Signs Monitor (SPO2, HR, Resp), EEG Cap
     - *NDI* Optical/Electromagnetic Tracker
     - ...
 - **Others**:
-    - Thin-film Coating Processes
+    - Micro-Fabrication, Thin-film Coating Processes
     - Digital Image Correlation (DIC)
     - Statistical/Machine Learning
+    - ...
 
 <!--
 # 🎸 Hobbies
