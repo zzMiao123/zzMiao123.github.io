@@ -307,6 +307,34 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 <br>
 
+# 🔧 Skills
+- Mechanical:
+    - CAD, 3D Rapid Prototyping, Machining,
+    - Mechatronics Implementation,
+    - Pneumatic Implementation;
+- Electrical:
+    - (Micro)Soldering,
+    - Embedded System Development (Arduino, STM32, ESP32),
+    - Signal Processing,
+    - Sensors;
+- Programming:
+    - MATLAB/Simulink,
+    - LabVIEW,
+    - C/C++, Python, Swift;
+- Robotics:
+    - ROS/ROS2/MicroROS,
+    - Protocols (UART, I2C, SPI, CAN);
+- Equipments:
+    - Tensile/Compression Tester, Dynamic Fatigue Tester,
+    - Vital Signs Monitor (SPO2, HR, Resp),
+    - EEG Cap,
+    - Optical/Electromagnetic NDI Tracker;
+- Others:
+    - Thin-film Coating Processes,
+    - Digital Image Correlation (DIC),
+    - Statistical/Machine Learning.
+
+
 <!--
 # 🎸 Hobbies
 While working diligently and efficiently, I also make it a priority to nurture both my body and mind.
