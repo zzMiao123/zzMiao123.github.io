@@ -315,7 +315,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
     - Mechatronics Implementation (Motors (DC, Step, Servo))
     - Pneumatic Implementation (Valves (Solenoid, Proportional))
 - Electrical:
-    - (Micro)Soldering
+    - (Micro)Soldering, wiring
     - Embedded System Development (Arduino, STM32, ESP32)
     - Signal Processing
 - Programming:
