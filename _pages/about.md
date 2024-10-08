@@ -46,7 +46,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 # 📖 Educations
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/northwestern-university.svg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2023.09 - present*, M.S. in MechE, <b>Northwestern University</b>.
+- *2023.09 - present*, M.S. in MechE, <b>Northwestern University</b>
   - GPA: 3.86/4.00
   - Coursework: Bio-electronics, Surface Engineering, AI in Robotics, Vibrations and Acoustics
   
@@ -57,7 +57,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <div class='paper-box-text' markdown="1">
 - *2018.09 - 2022.06*, B.S. (Hons.) in MechE, <b>Shanghai Jiao Tong University</b> 
   
-  ([#2](https://www.usnews.com/education/best-global-universities/mechanical-engineering) best global school for MechE).
+  ([#2](https://www.usnews.com/education/best-global-universities/mechanical-engineering) best global school for MechE)
   - GPA: 3.65/4.00 (Zhiyuan Honors Program for top 5% students)
   - Coursework: Mechatronics, Design/Manufacturing, Solid/Fluid Mechanics, Modern Control Theory
 </div>
@@ -109,6 +109,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 
 
 - *2020.07 - 2021.07*, <b>Fellow</b>, Zhixing China-US University Student Leader Academy, Beijing.
+  - Participated in the U.S.-China Youth Leader Dialogue, conducting field research on sustainable development and technology through visits to Jingzhou.
 
 <!--
 <div style="text-align: center;">
