@@ -57,7 +57,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <div class='paper-box-text' markdown="1">
 - *2018.09 - 2022.06*, B.S. (Hons.) in MechE, <b>Shanghai Jiao Tong University</b> 
   
-  ([#2](https://www.usnews.com/education/best-global-universities/mechanical-engineering) best global school for MechE)
+  ([#2](https://www.usnews.com/education/best-global-universities/mechanical-engineering) in best global school for MechE)
   - GPA: 3.65/4.00 (Zhiyuan Honors Program for top 5% students)
   - Coursework: Mechatronics, Design/Manufacturing, Solid/Fluid Mechanics, Modern Control Theory
 </div>
