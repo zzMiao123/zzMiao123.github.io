@@ -97,7 +97,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 
 
 - *2020.09 - 2021.06*, <b>Minister of Secretariat</b>, Student Union of Zhiyuan College, Shanghai.
-  - Organized and led activities for the student union and inter-communication with sister schools. Handled commercial outreach and led press releases.
+  - Led activities for the student union and interactions with sister schools. Handled commercial outreach and led press releases.
 
 <!--
 <div style="text-align: center;">
