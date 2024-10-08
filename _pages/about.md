@@ -109,7 +109,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 
 
 - *2020.07 - 2021.07*, <b>Fellow</b>, Zhixing China-US University Student Leader Academy, Beijing.
-  - Participated in the U.S.-China Youth Leader Dialogue, conducting field research on sustainable development and technology through visits to Jingzhou.
+  - Participated in the Youth Leader Dialogue, conducting field research on sustainable technology through visits to Jingzhou.
 
 <!--
 <div style="text-align: center;">
