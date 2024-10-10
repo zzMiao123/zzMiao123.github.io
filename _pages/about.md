@@ -131,7 +131,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <br/>
 <br/>
 # 🏆 Honors and Awards
-- *2023* 1st Prize, Outstanding Paper of Young Scholar, BME2023(China)
+- *2023* **1st Prize**, Outstanding Paper of Young Scholar, BME2023(China)
 - *2023* Agilent Scholarship (**Top 0.6%**, 5/773)
 - *2022* Excellent Bachelor Thesis of SJTU (**Top 1%**, 40/3928)
 - *2022* Outstanding Graduate of Shanghai (**Top 2%**)
@@ -140,7 +140,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 - *2021* TYACHT Outstanding Student (**Top 1%**, 5/424)
 - *2021* Zhiyuan Outstanding Leader Scholarship
 - *2021* COSCO-shipping Scholarship
-- *2020* 1st Prize, Shanghai Mechanical Engineering Innovation Competition
+- *2020* **1st Prize**, Shanghai Mechanical Engineering Innovation Competition
 - *2019* Shanghai Scholarship (**Top 1%**, 1/206)
 
 <div style="text-align: center;">
