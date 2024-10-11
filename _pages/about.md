@@ -324,8 +324,7 @@ As a researcher and engineer, I have developed comprehensive full-stack skills i
 - **Mechanical**:
     - CAD (Solidworks, AutoCAD, FreeCAD, iSight), Simulation (Abaqus, Adams)
     - Rapid Prototyping (3D Printing (FDM and SLA), Laser Cutting)
-    - Mechatronics Implementation (Motors (DC, Step, Servo))
-    - Pneumatic Implementation (Valves (Solenoid, Proportional))
+    - Motor control (DC, Step, Servo), Valve control (Solenoid, Proportional)
 - **Electrical**:
     - (Micro)Soldering, wiring
     - Embedded System Development (Arduino, STM32, ESP32)
