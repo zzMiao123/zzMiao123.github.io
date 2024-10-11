@@ -39,7 +39,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 - *2023.09*: 💜🐈‍⬛ My journey at Northwestern University begins! -->
 - *2023.05*: 🏆 Awarded 1st prize for Outstanding Young Scholar Paper at BME2023, Suzhou, China.
 - *2023.01*: 🏆 Awarded the Agilent Scholarship for Excellence in Life Science. Grateful to Agilent for their support!
-- *2022.06*: 🏆 Graduated from SJTU with highest honors (Best Thesis, Honor Degree, and Outstanding Graduate of Shanghai)!
+- *2022.06*: 🏆 Graduated from SJTU with highest honors (Best Thesis, Honor Degree, and Outstanding Graduate of Shanghai) ----an achievement earned by only the top 0.1% (3 out of 3,928) of students!
 
 <br/>
 <br/>
@@ -151,7 +151,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <br>
 <br/>
 # 📝 Publications 
-As the first author or lead co-author, I'm well-trained, and gained extensive experience across all stages of research --from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
+As the first author or lead co-author, I'm well-trained, and gained extensive experience across all stages of research ----from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
 
 ## Ongoing Works
 
