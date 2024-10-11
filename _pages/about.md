@@ -37,7 +37,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 - *2024.01*: 🎉 Our paper "A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation" has been accepted by *Computer Methods and Programs in Biomedicine*. 
 - *2023.05*: 🏆 Awarded 1st prize for Outstanding Young Scholar Paper at BME2023, Suzhou, China.
 - *2023.01*: 🏆 Awarded the Agilent Scholarship for Excellence in Life Science. Grateful to Agilent for their support!
-- *2022.06*: 🏆 Graduated from SJTU with highest honors (Best Thesis, Honor Degree, and Outstanding Graduate of Shanghai)! ---an achievement earned by only the **top 0.1%** (3/3,928) of students
+- *2022.06*: 🏆 Graduated from SJTU with highest honors (Best Thesis, Honor Degree, and Outstanding Graduate of Shanghai)!
 
 <br/>
 <br/>
@@ -130,16 +130,16 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <br/>
 # 🏆 Honors and Awards
 - *2023* **1st Prize**, Outstanding Paper of Young Scholar, BME2023(China)
-- *2023* Agilent Scholarship (**Top 0.6%**, 5/773)
-- *2022* Excellent Bachelor Thesis of SJTU (**Top 1%**, 40/3,928)
-- *2022* Outstanding Graduate of Shanghai (**Top 2%**)
-- *2019,2020,2021* Zhiyuan Honors Scholarship (**Top 5%**)
+- *2023* Agilent Scholarship (Top 0.6%, 5/773)
+- *2022* Excellent Bachelor Thesis of SJTU (Top 1%, 40/3,928)
+- *2022* Outstanding Graduate of Shanghai (Top 2%)
+- *2019,2020,2021* Zhiyuan Honors Scholarship (Top 5%)
 - *2021* Guanghua Scholarship
-- *2021* TYACHT Outstanding Student (**Top 1%**, 5/424)
+- *2021* TYACHT Outstanding Student (Top 1%, 5/424)
 - *2021* Zhiyuan Outstanding Leader Scholarship
 - *2021* COSCO-shipping Scholarship
 - *2020* **1st Prize**, Shanghai Mechanical Engineering Innovation Competition
-- *2019* Shanghai Scholarship (**Top 1%**, 1/206)
+- *2019* Shanghai Scholarship (Top 1%, 1/206)
 
 <div style="text-align: center;">
     <img src='../images/droneclub.jpg' alt="sym" width="50%">
