@@ -35,11 +35,9 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 # 🔥 News
 - *2024.10*: 🎉🎉 Our paper "Bioelastic state recovery for haptic sensory substitution" has been accepted by ***Nature***! 
 - *2024.01*: 🎉 Our paper "A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation" has been accepted by *Computer Methods and Programs in Biomedicine*. 
-<!-- - *2023.10*: 🔬 Completed my onboarding at the Simpson Querrey Institute for Bioelectronics.
-- *2023.09*: 💜🐈‍⬛ My journey at Northwestern University begins! -->
 - *2023.05*: 🏆 Awarded 1st prize for Outstanding Young Scholar Paper at BME2023, Suzhou, China.
 - *2023.01*: 🏆 Awarded the Agilent Scholarship for Excellence in Life Science. Grateful to Agilent for their support!
-- *2022.06*: 🏆 Graduated from SJTU with highest honors (Best Thesis, Honor Degree, and Outstanding Graduate of Shanghai) ----an achievement earned by only the top 0.1% (3 out of 3,928) of students!
+- *2022.06*: 🏆 Graduated from SJTU with highest honors (Best Thesis, Honor Degree, and Outstanding Graduate of Shanghai)! ---an achievement earned by only the **top 0.1%** (3/3,928) of students
 
 <br/>
 <br/>
@@ -133,7 +131,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 # 🏆 Honors and Awards
 - *2023* **1st Prize**, Outstanding Paper of Young Scholar, BME2023(China)
 - *2023* Agilent Scholarship (**Top 0.6%**, 5/773)
-- *2022* Excellent Bachelor Thesis of SJTU (**Top 1%**, 40/3928)
+- *2022* Excellent Bachelor Thesis of SJTU (**Top 1%**, 40/3,928)
 - *2022* Outstanding Graduate of Shanghai (**Top 2%**)
 - *2019,2020,2021* Zhiyuan Honors Scholarship (**Top 5%**)
 - *2021* Guanghua Scholarship
@@ -151,7 +149,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
 <br>
 <br/>
 # 📝 Publications 
-As the first author or lead co-author, I'm well-trained, and gained extensive experience across all stages of research ----from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
+As the first author or lead co-author, I'm well-trained, and gained extensive experience across all stages of research ---from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
 
 ## Ongoing Works
 
