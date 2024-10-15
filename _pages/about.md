@@ -23,7 +23,7 @@ Hi! I'm Yuxuan, an M.S. student in Mechanical Engineering at **Northwestern Univ
 My research interests include **actuator mechanisms**, **wearable robotics**, and **stretchable electronics**. Currently, I’m conducting research at the Simpson Querrey Institute for Bioelectronics under the supervision of Prof. John A. Rogers, focusing on multi-modal actuators and soft robotics, particularly in the areas of haptics and organoid interfaces. My expertise spans a wide range of bio-mechatronics skills, such as rapid prototyping, micro-fabrication, embedded programming and machine learning.
 
 <br>
-As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **strategic thinking**, and a genuine **passion for technology** to my work. Outside of academics, I enjoy playing and singing RNB on the ukulele, playing basketball, and exploring science fiction and epic stories.
+As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **critical thinking**, and a genuine **passion for technology** to my work. Outside of academics, I enjoy playing and singing RNB on the ukulele, playing basketball, and exploring science fiction and epic stories.
 
 <div style="text-align: center;">
     <img src='../images/report-new.jpg' alt="sym" width="70%">
@@ -67,7 +67,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **s
   - Projects: Bioelastic haptic actuator, Multi-modal haptic actuator, soft robot for organoid interface
   
 
-- *2021.09 - 2023.09*, <b>Research Assistant</b>, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
+- *2021.09 - 2023.09*, <b>Research Assistant</b>, National Key Laboratory of Mechanical System and Vibration, Shanghai.
   - Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate), Email: xiaojunchen@sjtu.edu.cn
   - Projects: robot-assisted thoracic puncture system, fiber-optic respiration sensor, temporal medical image generation
 
