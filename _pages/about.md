@@ -44,7 +44,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **c
 # 📖 Educations
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/northwestern-university.svg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2023.09 - present*, M.S. in MechE, <b>Northwestern University</b>
+- *2023.09 - present*, M.S. in MechE, Northwestern University
   - GPA: 3.86/4.00
   - Coursework: Bio-electronics, Surface Engineering, AI in Robotics, Vibrations and Acoustics
   
@@ -53,7 +53,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **c
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/sjtu.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
-- *2018.09 - 2022.06*, B.S. (Hons.) in MechE, <b>Shanghai Jiao Tong University</b> 
+- *2018.09 - 2022.06*, B.S. (<b>Hons.</b>) in MechE, Shanghai Jiao Tong University 
   - GPA: 3.65/4.00 (Zhiyuan Honors Program for top 5% students)
   - Coursework: Mechatronics, Design/Manufacturing, Solid/Fluid Mechanics, Modern Control Theory
 </div>
@@ -130,16 +130,16 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **c
 <br/>
 # 🏆 Honors and Awards
 - *2023* **1st Prize**, Outstanding Paper of Young Scholar, BME2023(China)
-- *2023* Agilent Scholarship (Top 0.6%, 5/773)
-- *2022* Excellent Bachelor Thesis of SJTU (Top 1%, 40/3,928)
-- *2022* Outstanding Graduate of Shanghai (Top 2%)
+- *2023* Agilent Scholarship (**Top 0.6%**, 5/773)
+- *2022* Excellent Bachelor Thesis of SJTU (**Top 1%**, 40/3,928)
+- *2022* Outstanding Graduate of Shanghai (**Top 2%**)
 - *2019,2020,2021* Zhiyuan Honors Scholarship (Top 5%)
 - *2021* Guanghua Scholarship
-- *2021* TYACHT Outstanding Student (Top 1%, 5/424)
+- *2021* TYACHT Outstanding Student (**Top 1%**, 5/424)
 - *2021* Zhiyuan Outstanding Leader Scholarship
 - *2021* COSCO-shipping Scholarship
 - *2020* **1st Prize**, Shanghai Mechanical Engineering Innovation Competition
-- *2019* Shanghai Scholarship (Top 1%, 1/206)
+- *2019* Shanghai Scholarship (**Top 1%**, 1/206)
 
 <div style="text-align: center;">
     <img src='../images/droneclub.jpg' alt="sym" width="50%">
@@ -222,7 +222,7 @@ Beyond research, I am passionate about designing innovative robots and AI models
 
 - Utilizing an R-R-R spherical parallel mechanism, this device provides independent rotational movements in three degrees of freedom (DoF), covering the full range of wrist motion.
 - Through force sensors and IMU, it enables accurate trajectory reproduction with controlled resistance, allowing wrist-injured patients to train muscles across 3 DoF with adaptive damping.
-- Excellence in Technology Award, 2023 Mechatronics Fair, School of Mechanical Engineering.
+- **Excellence in Technology Award**, 2023 Mechatronics Fair, School of Mechanical Engineering.
 
 </div>
 </div>
@@ -268,7 +268,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 - Adaptable roller system that conforms to various staircase shapes and smoothly navigates corners.
 - Integrated with a loading lever, enabling manual transportation of heavy loads with significantly reduced effort.
-- 1st Prize, Shanghai Mechanical Engineering Innovation Competition; 2nd Prize, National Mechanical Engineering Innovation Competition
+- **1st Prize**, Shanghai Mechanical Engineering Innovation Competition; 2nd Prize, National Mechanical Engineering Innovation Competition
 </div>
 </div>
 
