@@ -252,7 +252,7 @@ MangDang Tech, <u>Y. Mao</u>, Z. Zhang
 
 X. Xu, <u>Y. Mao</u>, H. Bai, Z. Mei, M. Xia
 
-- The robot can perform mobile-periodic jumps reaching heights of up to 400 mm. It stores and releases energy through a cam and spring mechanism, while maintaining precise aerial control by sensing and adjusting its position mid-air using an IMU and flywheel.
+- The robot can perform both mobile motion and periodic jump reaching heights of up to 400 mm. It stores and releases energy through a cam and spring mechanism, while maintaining in-air orientation by sensing and adjusting its position mid-air using an IMU and flywheel.
 - I was responsible for the electrical systems, communication protocols, and implementing the closed-loop control system.
 - Granted utility model patent(CN215904637U).
 </div>
