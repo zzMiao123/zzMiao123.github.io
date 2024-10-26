@@ -65,21 +65,22 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **c
   - Advisor: Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate), Email: jrogers@northwestern.edu
   - Mentors: Dr. Kyoungho Ha, Prof. [Matthew T. Flavin](https://flavinlab.io/people/), Dr. Wooyoul Maeng
   - Projects: Bioelastic haptic actuator, Multi-modal haptic actuator, soft robot for organoid interface
-  <br/>
+   
 
 - *2021.09 - 2023.09*, <b>Research Assistant</b>, National Key Laboratory of Mechanical System and Vibration, Shanghai.
   - Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate), Email: xiaojunchen@sjtu.edu.cn
   - Projects: robot-assisted thoracic puncture system, fiber-optic respiration sensor, temporal medical image generation
-<br/>
+ 
 
 - *2022.01 - 2022.10*, <b>Software Development Intern</b>, [Espressif](https://www.espressif.com/), Shanghai.
   - Mentors: Zhaocheng Zhan, Li Zhou
   - Project: Mini Pupper (colabrate with Mangdang)
-<br/>
+ 
+ 
 - *2021.06 - 2021.09*, <b>Undergraduate Research Assistant</b>, Institute of Medical Robotics, Shanghai.
   - Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html), Email: anzhu_gao@sjtu.edu.cn
   - Project: redundant robot design and manipulation
-<br/>
+ 
 
 - *2020.02 - 2021.02*, <b>Undergraduate Research Assistant</b>, Institute of Robotics, Shanghai.
   - Advisor: Prof. [Jianjun Meng](https://scholar.google.com/citations?hl=en&user=Ahr8ZzsAAAAJ)
@@ -95,6 +96,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **c
 - *2020.09 - 2021.06*, <b>Minister of Secretariat</b>, Student Union of Zhiyuan College, Shanghai.
   - Led activities for the student union and interactions with sister schools. Handled commercial outreach and led press releases.
 <br/>
+
 <!--
 <div style="text-align: center;">
     <img src='../images/union.jpg' alt="sym" width="50%">
@@ -107,6 +109,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **c
 - *2020.07 - 2021.07*, <b>Fellow</b>, Zhixing China-US University Student Leader Academy, Beijing.
   - Participated in the Youth Leader Dialogue, conducting field research on sustainable technology through visits to Jingzhou.
 <br/>
+
 <!--
 <div style="text-align: center;">
     <img src='../images/zhixing.jpg' alt="sym" width="50%">
