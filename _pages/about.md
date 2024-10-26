@@ -65,21 +65,21 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **c
   - Advisor: Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate), Email: jrogers@northwestern.edu
   - Mentors: Dr. Kyoungho Ha, Prof. [Matthew T. Flavin](https://flavinlab.io/people/), Dr. Wooyoul Maeng
   - Projects: Bioelastic haptic actuator, Multi-modal haptic actuator, soft robot for organoid interface
-  
+  <br/>
 
 - *2021.09 - 2023.09*, <b>Research Assistant</b>, National Key Laboratory of Mechanical System and Vibration, Shanghai.
   - Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate), Email: xiaojunchen@sjtu.edu.cn
   - Projects: robot-assisted thoracic puncture system, fiber-optic respiration sensor, temporal medical image generation
-
+<br/>
 
 - *2022.01 - 2022.10*, <b>Software Development Intern</b>, [Espressif](https://www.espressif.com/), Shanghai.
   - Mentors: Zhaocheng Zhan, Li Zhou
   - Project: Mini Pupper (colabrate with Mangdang)
-
+<br/>
 - *2021.06 - 2021.09*, <b>Undergraduate Research Assistant</b>, Institute of Medical Robotics, Shanghai.
   - Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html), Email: anzhu_gao@sjtu.edu.cn
   - Project: redundant robot design and manipulation
-
+<br/>
 
 - *2020.02 - 2021.02*, <b>Undergraduate Research Assistant</b>, Institute of Robotics, Shanghai.
   - Advisor: Prof. [Jianjun Meng](https://scholar.google.com/citations?hl=en&user=Ahr8ZzsAAAAJ)
@@ -90,11 +90,11 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **c
 - *2024.09 - present*, <b>Teaching Assistant</b>, ME449 Robotic Manipulation, Evanston.
   - Instructor: Prof. [Kevin Lynch](https://scholar.google.com/citations?user=yCpbkPAAAAAJ&hl=en)
   - Assisted with course material preparation, grading, and holding office hour for a class of 80 students.
-
+<br/>
 
 - *2020.09 - 2021.06*, <b>Minister of Secretariat</b>, Student Union of Zhiyuan College, Shanghai.
   - Led activities for the student union and interactions with sister schools. Handled commercial outreach and led press releases.
-
+<br/>
 <!--
 <div style="text-align: center;">
     <img src='../images/union.jpg' alt="sym" width="50%">
@@ -106,7 +106,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **c
 
 - *2020.07 - 2021.07*, <b>Fellow</b>, Zhixing China-US University Student Leader Academy, Beijing.
   - Participated in the Youth Leader Dialogue, conducting field research on sustainable technology through visits to Jingzhou.
-
+<br/>
 <!--
 <div style="text-align: center;">
     <img src='../images/zhixing.jpg' alt="sym" width="50%">
@@ -118,7 +118,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **c
 - *2020.02 - 2020.12*, <b>Peer Tutor</b>, Top Scholars Club, Shanghai.
   - Conducted weekly Q-A and review sessions for 2 students; recognized as an Outstanding Tutor.
 
-
+<br/>
 - *2019.07 - 2019.08*, <b>Volunteer Teacher</b>, GreatWall Education Assistance Program, Hunan.
   - Taught ~700 Grade-10 students at a remote school; recognized as an Outstanding Individual for teaching excellence.
 <div style="text-align: center;">
@@ -149,7 +149,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **c
 <br>
 <br/>
 # 📝 Publications 
-As the first author or lead co-author, I'm well-trained, and gained extensive experience across all stages of research ---from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on the diverse interactions between robots/actuators and the human body, with applications in rehabilitation, assistive technologies, and extended reality systems.
+As the first author or lead co-author, I'm <b>well-trained</b>, and gained extensive experience across all stages of research ---from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on <b> Medical Robots</b> and <b> Multi-modal Actuators</b>, with applications in rehabilitation, assistive technologies, and extended reality systems.
 
 ## Ongoing Works
 
