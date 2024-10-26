@@ -67,7 +67,7 @@ As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **c
   - Projects: Bioelastic haptic actuator, Multi-modal haptic actuator, soft robot for organoid interface
    
 
-- *2021.09 - 2023.09*, <b>Research Assistant</b>, National Key Laboratory of Mechanical System and Vibration, Shanghai.
+- *2021.09 - 2023.09*, <b>Research Assistant</b>, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
   - Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate), Email: xiaojunchen@sjtu.edu.cn
   - Projects: robot-assisted thoracic puncture system, fiber-optic respiration sensor, temporal medical image generation
  
