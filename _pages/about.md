@@ -346,8 +346,8 @@ As a researcher and engineer, I have developed comprehensive full-stack skills i
     - Statistical/Machine Learning
     - ...
 
-<!--
-# 🎸 Hobbies
+
+# 📷 Album
 While working diligently and efficiently, I also make it a priority to nurture both my body and mind.
 
 <br>
@@ -365,30 +365,30 @@ While working diligently and efficiently, I also make it a priority to nurture b
 </div>
 <center><i>Dancing with Qianru at the graduation prom, shanghai, 2023</i></center>
 <br>
--->
 
-<!--
+
+
 <div style="text-align: center;">
     <img src='../images/tingya.jpg' alt="sym" width="50%">
 </div>
 <center><i>Presenting in TYACHT outstanding student selection, Shanghai, 2021</i></center>
--->
 
-<!--
+
+
 <br>
 <div style="text-align: center;">
     <img src='../images/rrrTeam.jpg' alt="sym" width="50%">
 </div>
 <center><i>With team of RRR-Robot at dawn before the final report, Shanghai, 2023</i></center>
--->
 
-<!--
+
+
 <br>
 <div style="text-align: center;">
     <img src='../images/VEXTeam.jpg' alt="sym" width="50%">
 </div>
 <center><i>With Team members after winning VEX Competition, Shanghai, 2019</i> </center>
--->
+
 
 <!--
 <div style="text-align: center;">
@@ -397,12 +397,12 @@ While working diligently and efficiently, I also make it a priority to nurture b
 <center><i>Cosplay with classmates of LOL MV Rise, Shanghai, 2019</i></center>
 -->
 
-<!--
+
 <div style="text-align: center;">
     <img src='../images/me.jpg' alt="sym" width="70%">
 </div>
 <center><i>After winning ME design competition, Shanghai, 2020</i></center>
--->
+
 
 <!--
 <div style="text-align: center;">
@@ -411,23 +411,23 @@ While working diligently and efficiently, I also make it a priority to nurture b
 <center><i>with friends at Salty Lake City</i></center>
 -->
 
-<!--
+
 <div style="text-align: center;">
     <img src='../images/unionMembers.jpg' alt="sym" width="70%">
 </div>
 <center>*With colleagues of student union*</center>
--->
 
-<!--
+
+
 <div style="text-align: center;">
     <img src='../images/MEM.jpg' alt="sym" width="70%">
 </div>
 <center>*With Beichen and Ziyu after submitting paper to MEM*</center>
--->
 
-<!--
+
+
 <div style="text-align: center;">
     <img src='../images/reading.jpg' alt="sym" width="70%">
 </div>
 <center>*holding a reading salon*</center>
--->
+
