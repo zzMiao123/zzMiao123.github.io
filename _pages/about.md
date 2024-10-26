@@ -268,7 +268,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 - Adaptable roller system that conforms to various staircase shapes and smoothly navigates corners.
 - Integrated with a loading lever, enabling manual transportation of heavy loads with significantly reduced effort.
-- **1st Prize**, Shanghai Mechanical Engineering Innovation Competition; 2nd Prize, National Mechanical Engineering Innovation Competition
+- **1st Prize**, Shanghai Mechanical Engineering Innovation Competition; **2nd Prize**, National Mechanical Engineering Innovation Competition
 </div>
 </div>
 
