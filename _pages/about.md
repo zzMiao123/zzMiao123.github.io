@@ -320,7 +320,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 <br>
 
 # 🔧 Skills
-As a researcher and engineer, I have developed comprehensive full-stack skills in bio-mechatronics, which I have further refined through hands-on experience in various projects.
+As a researcher and engineer, I have developed comprehensive **full-stack** skills in bio-mechatronics, which I have further refined through hands-on experience in various projects.
 
 - **Mechanical**:
     - CAD (Solidworks, AutoCAD, FreeCAD, iSight), Simulation (Abaqus, Adams)
