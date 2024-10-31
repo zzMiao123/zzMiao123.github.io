@@ -1,15 +1,14 @@
 ---
+layout: archive
+title: "Bio"
 permalink: /bio/
-title: ""
-excerpt: ""
-author_profile: false
-redirect_from: 
-  - /bio/
-  - /bio.html
+author_profile: true
 ---
 
 
+<!--
 <span class='anchor' id='about-me'></span>
+-->
 
 # 📖 Educations
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/northwestern-university.svg' alt="sym" width="70%"></div></div>
