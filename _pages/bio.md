@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /research/
+permalink: /bio/
 author_profile: false
 redirect_from: 
 ---
