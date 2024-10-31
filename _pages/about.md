@@ -408,19 +408,19 @@ While working diligently and efficiently, I also make it a priority to nurture b
 <div style="text-align: center;">
     <img src='../images/unionMembers.jpg' alt="sym" width="70%">
 </div>
-<center>*With colleagues of student union*</center>
+<center><i>With colleagues of student union, Shanghai, 2020</i></center>
 
 
 
 <div style="text-align: center;">
     <img src='../images/MEM.jpg' alt="sym" width="70%">
 </div>
-<center>*With Beichen and Ziyu after submitting paper to MEM*</center>
+<center><i>With Beichen and Ziyu after submitting paper to MEM, Shanghai, 2020</i></center>
 
 
 
 <div style="text-align: center;">
     <img src='../images/reading.jpg' alt="sym" width="70%">
 </div>
-<center>*holding a reading salon*</center>
+<center><i>holding a reading salon in the honors class, Shanghai, 2019</center>
 
