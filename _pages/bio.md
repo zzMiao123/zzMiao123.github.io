@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Bio"
-permalink: /bio/
-author_profile: true
+permalink: /research/
+author_profile: false
+redirect_from: 
 ---
 
 
