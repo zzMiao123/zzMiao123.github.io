@@ -54,7 +54,7 @@ Beyond research, I am passionate about transforming concepts from textbooks into
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/sjtu.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2018.09 - 2022.06*, B.S. (<b>Hons.</b>) in MechE, Shanghai Jiao Tong University 
-  - GPA: 3.65/4.00 (Zhiyuan Honors Program for top 5% students)
+  - GPA: 3.65/4.30 (Zhiyuan Honors Program for top 5% students)
   - Coursework: Mechatronics, Design/Manufacturing, Solid/Fluid Mechanics, Modern Control Theory
 </div>
 </div>
@@ -158,7 +158,7 @@ As the first author or lead co-author, I'm <b>well-trained</b>, and gained exten
 
 - [1] **Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**
 
-  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science*** (Under Review), Sep. 2024
+  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science*** (Under Revion), Nov. 2024
 
 <br/>
 - [2] **Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces**
@@ -172,9 +172,12 @@ As the first author or lead co-author, I'm <b>well-trained</b>, and gained exten
 
 <br/>
 ## Journals
-- [J1] **Bioelastic State Recovery for Haptic Sensory Substitution**
+- [J1] [**Bioelastic State Recovery for Haptic Sensory Substitution**](https://www.nature.com/articles/s41586-024-08155-9)
 
-  M. Flavin\*, K.-H. Ha\*, Z. Guo\*, S. Li\*, J.-T. Kim\*, T. Saxena, D. Simatos, F. Al-Najjar, <u>Y. Mao</u>, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers. ***Nature*** (Accepted), Oct. 2024
+  M. Flavin\*, K.-H. Ha\*, Z. Guo\*, S. Li\*, J.-T. Kim\*, T. Saxena, D. Simatos, F. Al-Najjar, <u>Y. Mao</u>, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers. ***Nature***, Nov. 2024
+  <div style="text-align: center;">
+    <img src='../images/cmpb.png' alt="sym" width="70%">
+</div>
   
 <br/>
 - [J2] [**A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation**](https://www.sciencedirect.com/science/article/abs/pii/S0169260723006612)
