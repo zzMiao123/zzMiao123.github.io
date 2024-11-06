@@ -175,7 +175,7 @@ As the first author or lead co-author, I'm <b>well-trained</b>, and gained exten
 - [J1] [**Bioelastic State Recovery for Haptic Sensory Substitution**](https://www.nature.com/articles/s41586-024-08155-9)
 
   M. Flavin\*, K.-H. Ha\*, Z. Guo\*, S. Li\*, J.-T. Kim\*, T. Saxena, D. Simatos, F. Al-Najjar, <u>Y. Mao</u>, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers. ***Nature***, Nov. 2024
-  <div style="text-align: center;">
+<div style="text-align: center;">
     <img src='../images/Screenshot 2024-11-06 115717.png' alt="sym" width="70%">
 </div>
   
