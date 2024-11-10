@@ -18,12 +18,17 @@ My research interests include **actuator mechanisms**, **wearable robotics**, an
 
 <br>
 As an INTJ (Introverted-Intuitive-Thinking-Judging), I bring **resilience**, **critical thinking**, and a genuine **passion for technology** to my work. Outside of academics, I enjoy playing and singing RNB on the ukulele, playing basketball, and exploring science fiction and epic stories.
--->
 Hi! I'm Yuxuan, an M.S. student in Mechanical Engineering at Northwestern University with a GPA of 3.86/4.0. I earned my B.S. (Hons.) in Mechanical Engineering from Shanghai Jiao Tong University in 2022, graduating with all highest honors for undergraduates, including Best Thesis, Honors Degree, and Outstanding Graduate of Shanghai.
 
 My research interests lie in actuator mechanisms, wearable robotics, and stretchable electronics. Currently, I am conducting research at the Simpson Querrey Institute for Bioelectronics under the guidance of Prof. John A. Rogers, focusing on multi-modal actuators and soft robotics, particularly in the fields of haptics and organoid studies. I have 5 years experiences in reseach, including working as RA in National Key lab of Mechanical Systems and Vibiration (MSV), Institude of Medical Robots (IMR) in SJTU. To date, I have contributed to seven papers as a lead or core author, published in journals including Nature and Science.
 
 Beyond research, I am passionate about transforming concepts from textbooks into real-world technologies inspired by nature and everyday life. My extensive hands-on projects in novel robots and AI models have helped me develop into a full-stack engineer, with skills spanning a wide range of bio-mechatronics domains such as rapid prototyping, microfabrication, embedded programming, and machine learning.
+-->
+
+Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale robots. 
+* 5yr of research experiences on robotics, lead/core author of 7 papers including Nature and Science. 
+* A wide skillset ranging from rapid prototyping (MechE), mechatronics system, machine learning(ECE) and bio-signal monitoring (MedE) etc. 
+* Creative challenger with a strong motivation to advance the field.
 
 <div style="text-align: center;">
     <img src='../images/report-new.jpg' alt="sym" width="70%">
