@@ -26,9 +26,9 @@ Beyond research, I am passionate about transforming concepts from textbooks into
 -->
 
 Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale robots. 
+* A creative challenger with a strong motivation to advance the field.
 * 5yr of research experiences on robotics, lead/core author of 7 papers including *Nature* and *Science*. 
 * A wide skillset ranging from rapid prototyping (MechE), mechatronics system, machine learning(ECE) and bio-signal monitoring (MedE) ... 
-* Creative challenger with a strong motivation to advance the field.
 
 <div style="text-align: center;">
     <img src='../images/report-new.jpg' alt="sym" width="70%">
