@@ -43,7 +43,7 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 - *2024.01*: 🎉 Our paper "A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation" has been accepted by *Computer Methods and Programs in Biomedicine*. 
 - *2023.05*: 🏆 Awarded 1st prize for Outstanding Young Scholar Paper at BME2023, Suzhou, China.
 - *2023.01*: 🏆 Awarded the Agilent Scholarship for Excellence in Life Science. Grateful to Agilent for their support!
-- *2022.06*: 🏆 Graduated from SJTU with highest honors (Best Thesis, Honor Degree, and Outstanding Graduate of Shanghai)!
+- *2022.06*: 🎓 Graduated from SJTU with highest honors (Best Thesis, Honor Degree, and Outstanding Graduate of Shanghai)!
 
 <br/>
 <br/>
