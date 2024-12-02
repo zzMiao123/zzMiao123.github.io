@@ -38,7 +38,7 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 <br>
 <br>
 # 🔥 News
-- *2024.12*: 🎓 I've passed the Master's dissertation defense, titled "Full Freedom-of-Motion Haptic Actuator for Efficient Information Transfer in XR". Many thanks to my advisor，Prof. John Rogers, committee member, Prof. Edward Colgate, and best mentor ever, Dr. Kyoungho Ha! 
+- *2024.12*: 🎓 I've passed the Master's dissertation defense, titled "Full Freedom-of-Motion Haptic Actuator for Efficient Information Transfer in XR". Many thanks to my advisor, Prof. John Rogers, committee member, Prof. Edward Colgate, and best mentor ever, Dr. Kyoungho Ha! 
 - *2024.10*: 🎉🎉 Our paper "Bioelastic state recovery for haptic sensory substitution" has been accepted by ***Nature***! 
 - *2024.01*: 🎉 Our paper "A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation" has been accepted by *Computer Methods and Programs in Biomedicine*. 
 - *2023.05*: 🏆 Awarded 1st prize for Outstanding Young Scholar Paper at BME2023, Suzhou, China.
