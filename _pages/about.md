@@ -38,7 +38,7 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 <br>
 <br>
 # 🔥 News
-- *2024.12*: 🎓 I've successfully passed the Master's dissertation defense. Many thanks to my advisor， Prof. John Rogers, committee member, Prof. Edward Colgate, and best mentor ever, Dr. Kyoungho Ha! 
+- *2024.12*: 🎓 I've successfully passed the Master's dissertation defense at Northwestern University. Many thanks to my advisor， Prof. John Rogers, committee member, Prof. Edward Colgate, and best mentor ever, Dr. Kyoungho Ha! 
 - *2024.10*: 🎉🎉 Our paper "Bioelastic state recovery for haptic sensory substitution" has been accepted by ***Nature***! 
 - *2024.01*: 🎉 Our paper "A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation" has been accepted by *Computer Methods and Programs in Biomedicine*. 
 - *2023.05*: 🏆 Awarded 1st prize for Outstanding Young Scholar Paper at BME2023, Suzhou, China.
@@ -358,6 +358,14 @@ As a researcher and engineer, I have developed comprehensive **full-stack** skil
 
 # 📷 Album
 While working diligently and efficiently, I also make it a priority to nurture both my body and mind.
+
+
+<br>
+<div style="text-align: center;">
+    <img src='../images/defense.jpg' alt="sym" width="50%">
+</div>
+<center><i>With Master's Defense Committee, Evanston, IL, 2024</i></center>
+<br>
 
 <br>
 <div style="text-align: center;">
