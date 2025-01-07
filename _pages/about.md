@@ -164,17 +164,17 @@ As the first author or lead co-author, I'm <b>well-trained</b>, and gained exten
 
 - [1] **Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**
 
-  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science*** (Under Revion), Nov. 2024
+  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science*** (Under Revision), 2025
 
 <br/>
 - [2] **Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces**
 
-  W. Maeng, Z. Lyu, K. Kim, K.-H. Ha, <u>Y. Mao</u>, S. Xu, L. Praba, Y. Hwang, J. A. Rogers. Submission planned Dec. 2024
+  W. Maeng, Z. Lyu, K. Kim, K.-H. Ha, <u>Y. Mao</u>, S. Xu, L. Praba, Y. Hwang, J. A. Rogers. Submission planned Feb. 2025
 
 <br/>  
 - [3] **Efficient Tumor Localization During Respiration with Minimal Scanning Based on Recursive Deformable Diffusion Models**
 
-  <u>Y. Mao</u>\*, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen. Submission planned Dec. 2024
+  <u>Y. Mao</u>\*, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen. Submission planned Feb. 2025
 
 <br/>
 ## Journals
@@ -375,13 +375,14 @@ While working diligently and efficiently, I also make it a priority to nurture b
 <br>
 
 
-
+<!--
 <br>
 <div style="text-align: center;">
     <img src='../images/prom.jpg' alt="sym" width="30%">
 </div>
 <center><i>Dancing with Qianru at the graduation prom, shanghai, 2023</i></center>
 <br>
+-->
 
 
 
