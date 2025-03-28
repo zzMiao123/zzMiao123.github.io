@@ -60,13 +60,13 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 
 <br/>
 # 🧑‍💻 Experiences
-- *2023.09 - 2025.03*, <b>Research Assistant</b>, Simpson Querrey Institute for Bioelectronics, Evanston.
+- *2023.09 - 2025.03*, RA, Simpson Querrey Institute for Bioelectronics, Evanston.
   - Advisor: Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate)
 <!--   - Mentors: Dr. Kyoungho Ha, Prof. [Matthew T. Flavin](https://flavinlab.io/people/), Dr. Wooyoul Maeng -->
   - Projects: Bioelastic haptic actuator, Multi-modal haptic actuator, soft robot for organoid interface
    
 
-- *2021.09 - 2023.09*, <b>Research Assistant</b>, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
+- *2021.09 - 2023.09*, RA, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
   - Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate)
   - Projects: robot-assisted thoracic puncture system, fiber-optic respiration sensor, temporal medical image generation
  
@@ -76,12 +76,12 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
   - Project: Mini Pupper (colabrate with Mangdang)
  
  
-- *2021.06 - 2021.09*, <b>Undergraduate Research Assistant</b>, Institute of Medical Robotics, Shanghai.
+- *2021.06 - 2021.09*, RA, Institute of Medical Robotics, Shanghai.
   - Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html)
   - Project: redundant robot design and manipulation
  
 
-- *2020.02 - 2021.02*, <b>Undergraduate Research Assistant</b>, Institute of Robotics, Shanghai.
+- *2020.02 - 2021.02*, RA, Institute of Robotics, Shanghai.
   - Advisor: Prof. [Jianjun Meng](https://scholar.google.com/citations?hl=en&user=Ahr8ZzsAAAAJ)
   - Project: motor imagery (MI)-based brain-computer interface (BCI) 
 
