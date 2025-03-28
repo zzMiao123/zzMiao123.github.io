@@ -180,7 +180,7 @@ As the first author or lead co-author, I'm <b>well-trained</b>, and gained exten
 - [J1] [**Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**](https://www.science.org/doi/10.1126/science.adt2481)
 
   K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science***, Mar. 2025
-  <div style="text-align: center;">
+<div style="text-align: center;">
     <img src='../images/science.adt2481-f1.jpg' alt="sym" width="70%">
 </div>
 
