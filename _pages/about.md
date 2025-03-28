@@ -165,11 +165,7 @@ As the first author or lead co-author, I'm <b>well-trained</b>, and gained exten
 
 ## Ongoing Works
 
-- [1] **Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**
 
-  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science*** (Under Revision), 2025
-
-<br/>
 - [2] **Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces**
 
   W. Maeng, Z. Lyu, K. Kim, K.-H. Ha, <u>Y. Mao</u>, S. Xu, L. Praba, Y. Hwang, J. A. Rogers. Submission planned Feb. 2025
@@ -181,7 +177,16 @@ As the first author or lead co-author, I'm <b>well-trained</b>, and gained exten
 
 <br/>
 ## Journals
-- [J1] [**Bioelastic State Recovery for Haptic Sensory Substitution**](https://www.nature.com/articles/s41586-024-08155-9)
+- [J1] [**Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**](https://www.science.org/doi/10.1126/science.adt2481)
+
+  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science***, Mar. 2025
+  <div style="text-align: center;">
+    <img src='../images/Screenshot 2024-11-06 115717.png' alt="sym" width="70%">
+</div>
+
+<br/>
+
+- [J2] [**Bioelastic State Recovery for Haptic Sensory Substitution**](https://www.nature.com/articles/s41586-024-08155-9)
 
   M. Flavin\*, K.-H. Ha\*, Z. Guo\*, S. Li\*, J.-T. Kim\*, T. Saxena, D. Simatos, F. Al-Najjar, <u>Y. Mao</u>, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers. ***Nature***, Nov. 2024
 <div style="text-align: center;">
@@ -189,7 +194,7 @@ As the first author or lead co-author, I'm <b>well-trained</b>, and gained exten
 </div>
   
 <br/>
-- [J2] [**A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation**](https://www.sciencedirect.com/science/article/abs/pii/S0169260723006612)
+- [J3] [**A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation**](https://www.sciencedirect.com/science/article/abs/pii/S0169260723006612)
 
   D. Li\*, <u>Y. Mao</u>\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. *Computer Methods and Programs in Biomedicine*, Jan. 2024
 
