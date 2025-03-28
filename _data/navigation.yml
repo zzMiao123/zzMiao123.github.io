@@ -6,32 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Experiences"
-    url: "/#-experiences"
-
-  - title: "Outreach"
-    url: "/#-outreach"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Projects"
     url: "/#-projects"
-
-  - title: "Skills"
-    url: "/#-skills"
-
-
-
-
-
-
-
-
-
