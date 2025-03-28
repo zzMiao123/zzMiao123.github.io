@@ -57,8 +57,6 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/northwestern-university.svg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2023.09 - present*, M.S. in MechE, Northwestern University
-<!--   - GPA: 3.86/4.00
-  - Coursework: Bio-electronics, Surface Engineering, AI in Robotics, Vibrations and Acoustics -->
   
 </div>
 </div>
@@ -66,8 +64,7 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/sjtu.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2018.09 - 2022.06*, B.S. (<b>Hons.</b>) in MechE, Shanghai Jiao Tong University 
-<!--   - GPA: 3.65/4.30 (Zhiyuan Honors Program for top 5% students)
-  - Coursework: Mechatronics, Design/Manufacturing, Solid/Fluid Mechanics, Modern Control Theory -->
+
 </div>
 </div>
 <br/>
@@ -101,8 +98,7 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 <br/>
 # 🤝 Outreach
 - *2024.09 - 2024.12*, <b>Teaching Assistant</b>, ME449 Robotic Manipulation, Evanston.
-<!--  - Instructor: Prof. [Kevin Lynch](https://scholar.google.com/citations?user=yCpbkPAAAAAJ&hl=en)
-  - Assisted with course material preparation, grading, and holding office hour for a class of 80 students.-->
+
 <br/>
 
 - *2020.09 - 2021.06*, <b>Minister of Secretariat</b>, Student Union of Zhiyuan College, Shanghai.
