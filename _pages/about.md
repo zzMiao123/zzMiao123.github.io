@@ -164,16 +164,14 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 As the first author or lead co-author, I'm <b>well-trained</b>, and gained extensive experience across all stages of research ---from conceptualization to characterization, formal analysis, and manuscript preparation. My work continuously focuses on <b> Medical Robots</b> and <b> Multi-modal Actuators</b>, with applications in rehabilitation, assistive technologies, and extended reality systems.
 
 ## Ongoing Works
+- [1] **Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces**
 
-
-- [2] **Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces**
-
-  W. Maeng, Z. Lyu, K. Kim, K.-H. Ha, <u>Y. Mao</u>, S. Xu, L. Praba, Y. Hwang, J. A. Rogers. Submission planned Feb. 2025
+  W. Maeng, Z. Lyu, K. Kim, K.-H. Ha, <u>Y. Mao</u>, S. Xu, L. Praba, Y. Hwang, J. A. Rogers. Submission planned Apr. 2025
 
 <br/>  
-- [3] **Efficient Tumor Localization During Respiration with Minimal Scanning Based on Recursive Deformable Diffusion Models**
+- [2] **Efficient Tumor Localization During Respiration with Minimal Scanning Based on Recursive Deformable Diffusion Models**
 
-  <u>Y. Mao</u>\*, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen. Submission planned Feb. 2025
+  <u>Y. Mao</u>\*, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen. Submitted Feb. 2025
 
 <br/>
 ## Journals
@@ -181,7 +179,7 @@ As the first author or lead co-author, I'm <b>well-trained</b>, and gained exten
 
   K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science***, Mar. 2025
   <div style="text-align: center;">
-    <img src='../images/Screenshot 2024-11-06 115717.png' alt="sym" width="70%">
+    <img src='../images/science.adt2481-f1.jpg' alt="sym" width="70%">
 </div>
 
 <br/>
