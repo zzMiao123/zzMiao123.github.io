@@ -52,12 +52,12 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 - *2022.06*: 🎓 Graduated from SJTU with highest honors (Best Thesis, Honor Degree, and Outstanding Graduate of Shanghai)!
 
 <br/>
+<br/>
 # 📖 Educations
 
 - *2022.09 - 2025.03*, M.S. in MechE, Northwestern University & Shanghai Jiao Tong University (Dual Degree)
 - *2018.09 - 2022.06*, B.S. (<b>Hons.</b>) in MechE, Shanghai Jiao Tong University 
 
-<br/>
 <br/>
 # 🧑‍💻 Experiences
 - *2023.09 - 2025.03*, <b>Research Assistant</b>, Simpson Querrey Institute for Bioelectronics, Evanston.
@@ -85,6 +85,8 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
   - Advisor: Prof. [Jianjun Meng](https://scholar.google.com/citations?hl=en&user=Ahr8ZzsAAAAJ)
   - Project: motor imagery (MI)-based brain-computer interface (BCI) 
 
+<br/>
+<br/>
 # 📝 Publications 
 
 ## Ongoing Works
