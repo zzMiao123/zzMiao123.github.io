@@ -24,7 +24,7 @@ My research interests lie in actuator mechanisms, wearable robotics, and stretch
 
 Beyond research, I am passionate about transforming concepts from textbooks into real-world technologies inspired by nature and everyday life. My extensive hands-on projects in novel robots and AI models have helped me develop into a full-stack engineer, with skills spanning a wide range of bio-mechatronics domains such as rapid prototyping, microfabrication, embedded programming, and machine learning.
 -->
-*I will be joining in Prof. Siyi Xu's Group at UIUC in the coming fall, working on wearable HRI*
+*I will be joining in Prof. [Siyi Xu](https://scholar.harvard.edu/siyixu/home)'s Group at UIUC in the coming fall, working on wearable HRI*
 
 Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale robots. 
 * A constant motivation to advance human-centered robotics, with career plan in academia.
