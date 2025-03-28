@@ -142,6 +142,7 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 <br/>
 <br/>
 # 🏆 Honors and Awards
+- *2025* Excellent Master Dissertation of School of ME (Top 10%)
 - *2023* **1st Prize**, Outstanding Paper of Young Scholar, BME2023(China)
 - *2023* Agilent Scholarship (**Top 0.6%**, 5/773)
 - *2022* Excellent Bachelor Thesis of SJTU (**Top 1%**, 40/3,928)
