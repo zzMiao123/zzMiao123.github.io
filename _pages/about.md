@@ -71,7 +71,7 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
   - Projects: robot-assisted thoracic puncture system, fiber-optic respiration sensor, temporal medical image generation
  
 
-- *2022.01 - 2022.10*, <b>Software Development Intern</b>, [Espressif](https://www.espressif.com/), Shanghai.
+- *2022.01 - 2022.10*, Embedded Development Intern, [Espressif](https://www.espressif.com/), Shanghai.
   - Mentors: Zhaocheng Zhan, Li Zhou
   - Project: Mini Pupper (colabrate with Mangdang)
  
