@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxuan Mao"
-description              : "25'@Northwestern 22'@SJTU"
+description              : "25'@Northwestern 22'@Shanghai JiaoTong Univ."
 repository               : "zzMiao123/zzMiao123.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuxuan (Ethan) Mao"
   avatar           : "images/life.jpg"
-  bio              : "Student in MechE, Robotics Engineer"
-  location         : "Evanston, US"
+  bio              : "MechE Student, Robotics Engineer"
+  location         : "Shanghai, CN"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=EIWmxl8AAAAJ"
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : "yuxuan-mao-580b31291/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0005-1468-7696"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
