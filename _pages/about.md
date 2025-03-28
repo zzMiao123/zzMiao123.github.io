@@ -57,8 +57,8 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/northwestern-university.svg' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2023.09 - present*, M.S. in MechE, Northwestern University
-  - GPA: 3.86/4.00
-  - Coursework: Bio-electronics, Surface Engineering, AI in Robotics, Vibrations and Acoustics
+<!--   - GPA: 3.86/4.00
+  - Coursework: Bio-electronics, Surface Engineering, AI in Robotics, Vibrations and Acoustics -->
   
 </div>
 </div>
@@ -66,21 +66,21 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 <div class='paper-box'><div class='paper-box-image'><div><img src='../images/sjtu.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 - *2018.09 - 2022.06*, B.S. (<b>Hons.</b>) in MechE, Shanghai Jiao Tong University 
-  - GPA: 3.65/4.30 (Zhiyuan Honors Program for top 5% students)
-  - Coursework: Mechatronics, Design/Manufacturing, Solid/Fluid Mechanics, Modern Control Theory
+<!--   - GPA: 3.65/4.30 (Zhiyuan Honors Program for top 5% students)
+  - Coursework: Mechatronics, Design/Manufacturing, Solid/Fluid Mechanics, Modern Control Theory -->
 </div>
 </div>
 <br/>
 <br/>
 # 🧑‍💻 Experiences
-- *2023.09 - present*, <b>Research Assistant</b>, Simpson Querrey Institute for Bioelectronics, Evanston.
-  - Advisor: Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate), Email: jrogers@northwestern.edu
-  - Mentors: Dr. Kyoungho Ha, Prof. [Matthew T. Flavin](https://flavinlab.io/people/), Dr. Wooyoul Maeng
+- *2023.09 - 2025.03*, <b>Research Assistant</b>, Simpson Querrey Institute for Bioelectronics, Evanston.
+  - Advisor: Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate)
+<!--   - Mentors: Dr. Kyoungho Ha, Prof. [Matthew T. Flavin](https://flavinlab.io/people/), Dr. Wooyoul Maeng -->
   - Projects: Bioelastic haptic actuator, Multi-modal haptic actuator, soft robot for organoid interface
    
 
 - *2021.09 - 2023.09*, <b>Research Assistant</b>, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
-  - Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate), Email: xiaojunchen@sjtu.edu.cn
+  - Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate)
   - Projects: robot-assisted thoracic puncture system, fiber-optic respiration sensor, temporal medical image generation
  
 
@@ -90,7 +90,7 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
  
  
 - *2021.06 - 2021.09*, <b>Undergraduate Research Assistant</b>, Institute of Medical Robotics, Shanghai.
-  - Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html), Email: anzhu_gao@sjtu.edu.cn
+  - Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html)
   - Project: redundant robot design and manipulation
  
 
@@ -100,13 +100,13 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 
 <br/>
 # 🤝 Outreach
-- *2024.09 - present*, <b>Teaching Assistant</b>, ME449 Robotic Manipulation, Evanston.
-  - Instructor: Prof. [Kevin Lynch](https://scholar.google.com/citations?user=yCpbkPAAAAAJ&hl=en)
-  - Assisted with course material preparation, grading, and holding office hour for a class of 80 students.
+- *2024.09 - 2024.12*, <b>Teaching Assistant</b>, ME449 Robotic Manipulation, Evanston.
+<!--  - Instructor: Prof. [Kevin Lynch](https://scholar.google.com/citations?user=yCpbkPAAAAAJ&hl=en)
+  - Assisted with course material preparation, grading, and holding office hour for a class of 80 students.-->
 <br/>
 
 - *2020.09 - 2021.06*, <b>Minister of Secretariat</b>, Student Union of Zhiyuan College, Shanghai.
-  - Led activities for the student union and interactions with sister schools. Handled commercial outreach and led press releases.
+<!--  - Led activities for the student union and interactions with sister schools. Handled commercial outreach and led press releases.-->
 <br/>
 
 <!--
@@ -119,7 +119,7 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 
 
 - *2020.07 - 2021.07*, <b>Fellow</b>, Zhixing China-US University Student Leader Academy, Beijing.
-  - Participated in the Youth Leader Dialogue, conducting field research on sustainable technology through visits to Jingzhou.
+<!--  - Participated in the Youth Leader Dialogue, conducting field research on sustainable technology through visits to Jingzhou.-->
 <br/>
 
 <!--
@@ -130,12 +130,12 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 -->
 
 
-- *2020.02 - 2020.12*, <b>Peer Tutor</b>, Top Scholars Club, Shanghai.
-  - Conducted weekly Q-A and review sessions for 2 students; recognized as an Outstanding Tutor.
+- *2020.02 - 2020.12*, <b>Peer Tutor</b>, Academic Aid Center, Shanghai.
+<!--  - Conducted weekly Q-A and review sessions for 2 students; recognized as an Outstanding Tutor.-->
 
 <br/>
 - *2019.07 - 2019.08*, <b>Volunteer Teacher</b>, GreatWall Education Assistance Program, Hunan.
-  - Taught ~700 Grade-10 students at a remote school; recognized as an Outstanding Individual for teaching excellence.
+<!--  - Taught ~700 Grade-10 students at a remote school; recognized as an Outstanding Individual for teaching excellence.-->
 <div style="text-align: center;">
     <img src='../images/volunteer.jpg' alt="sym" width="50%">
 </div>
@@ -146,16 +146,16 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 # 🏆 Honors and Awards
 - *2025* Excellent Master Dissertation of School of ME (Top 10%)
 - *2023* **1st Prize**, Outstanding Paper of Young Scholar, BME2023(China)
-- *2023* Agilent Scholarship (**Top 0.6%**, 5/773)
-- *2022* Excellent Bachelor Thesis of SJTU (**Top 1%**, 40/3,928)
+- *2023* Agilent Scholarship (**Top 0.6%**)
+- *2022* Excellent Bachelor Thesis of SJTU (**Top 1%**)
 - *2022* Outstanding Graduate of Shanghai (**Top 2%**)
 - *2019,2020,2021* Zhiyuan Honors Scholarship (Top 5%)
 - *2021* Guanghua Scholarship
-- *2021* TYACHT Outstanding Student (**Top 1%**, 5/424)
+- *2021* TYACHT Outstanding Student (**Top 1%**)
 - *2021* Zhiyuan Outstanding Leader Scholarship
 - *2021* COSCO-shipping Scholarship
 - *2020* **1st Prize**, Shanghai Mechanical Engineering Innovation Competition
-- *2019* Shanghai Scholarship (**Top 1%**, 1/206)
+- *2019* Shanghai Scholarship (**Top 1%**)
 
 <div style="text-align: center;">
     <img src='../images/droneclub.jpg' alt="sym" width="50%">
