@@ -29,7 +29,7 @@ Beyond research, I am passionate about transforming concepts from textbooks into
 <br>
 
 
-Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale robots. 
+Research Interests: Haptics, Soft Robotics, Surgical Robotics. 
 * A constant motivation to advance human-centered robotics, with career plan in academia.
 * 5yrs of research experiences on robotics, lead/core author of 7 papers including ***Nature*** and ***Science***. 
 * A wide skillset ranging from rapid prototyping (MechE), mechatronics system, machine learning(ECE) and bio-signal monitoring (MedE) ...
