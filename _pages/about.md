@@ -55,6 +55,7 @@ Research Interests: wearable robotics, actuator/sensor mechanism, multi-scale ro
 <br/>
 # 📖 Educations
 
+- *2025.08 - present*, Ph.D. in MechE, University of Illinois Urbana-Champaign
 - *2022.09 - 2025.03*, M.S. in MechE, Northwestern University & Shanghai Jiao Tong University (Dual Degree)
 - *2018.09 - 2022.06*, B.S. (<b>Hons.</b>) in MechE, Shanghai Jiao Tong University 
 
