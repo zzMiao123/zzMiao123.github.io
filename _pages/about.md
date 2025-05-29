@@ -24,7 +24,7 @@ My research interests lie in actuator mechanisms, wearable robotics, and stretch
 
 Beyond research, I am passionate about transforming concepts from textbooks into real-world technologies inspired by nature and everyday life. My extensive hands-on projects in novel robots and AI models have helped me develop into a full-stack engineer, with skills spanning a wide range of bio-mechatronics domains such as rapid prototyping, microfabrication, embedded programming, and machine learning.
 -->
-*I will be joining Prof. [Siyi Xu](https://publish.illinois.edu/wiserlaboratory/people/)'s Group at UIUC in the 2025 fall, working on wearable HRI.*
+*I will be joining Prof. [Siyi Xu's Group](https://publish.illinois.edu/wiserlaboratory/) at UIUC in the 2025 fall, working on wearable HRI.*
 
 <br>
 
