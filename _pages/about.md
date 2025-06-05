@@ -30,9 +30,9 @@ Beyond research, I am passionate about transforming concepts from textbooks into
 
 
 Research Interests: Haptics, Soft Robotics, Surgical Robotics. 
-* A constant motivation to advance human-centered robotics, with career plan in academia.
-* 5yrs of research experiences on robotics, lead/core author of 7 papers including ***Nature*** and ***Science***. 
-* A wide skillset ranging from rapid prototyping (MechE), mechatronics system, machine learning(ECE) and bio-signal monitoring (MedE) ...
+* 5+ yrs of research experiences on robotics
+* lead/core author of 7 papers including ***Nature*** and ***Science***. 
+* Skillset ranging from rapid prototyping, mechatronics system, machine learning and bio-signal monitoring...
 
 <div style="text-align: center;">
     <img src='../images/report-new.jpg' alt="sym" width="70%">
