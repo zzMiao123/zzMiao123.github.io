@@ -64,12 +64,18 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 - *2023.09 - 2025.03*, RA, Simpson Querrey Institute for Bioelectronics, Evanston.
   - Advisor: Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate)
 <!--   - Mentors: Dr. Kyoungho Ha, Prof. [Matthew T. Flavin](https://flavinlab.io/people/), Dr. Wooyoul Maeng -->
-  - Projects: Bioelastic haptic actuator, Multi-modal haptic actuator, soft robot for organoid interface
+  - Projects
+    - Bioelastic haptic actuator
+    - Multi-modal haptic actuator
+    - Soft robot for organoid interface
    
 
 - *2021.09 - 2023.09*, RA, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
   - Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate)
-  - Projects: robot-assisted thoracic puncture system, fiber-optic respiration sensor, temporal medical image generation
+  - Projects
+      - Robot-assisted thoracic puncture system
+      - Fiber-optic respiration sensor
+      - Temporal medical image generation
  
 
 - *2022.01 - 2022.10*, Embedded Development Intern, [Espressif](https://www.espressif.com/), Shanghai.
@@ -88,7 +94,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 
 <br/>
 <br/>
-# 📝 Publications 
+# Publications 
 
 ## Ongoing Works
 - [1] **Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces**
@@ -152,7 +158,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 
 <br/>
 <br/>
-# 🤖 Projects
+# Projects
 
 Beyond research, I am passionate about designing innovative robots and AI models inspired by nature and daily life, translating concepts from textbooks into real-world technologies that enhance people's lives.
 
@@ -259,6 +265,20 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 </div>
 
 <br>
+
+# Awards
+2023 1st Prize, Young Excellent Paper Competition, BME2023 (China)
+2022 Agilent Scholarship (5/773)
+2022 Excellent Bachelor Thesis of SJTU (Top 1%)
+2022 Outstanding Graduate of Shanghai (Top 2%)
+2019-2021 Zhiyuan Honors Scholarship (Top 5%)
+2021 Guanghua Scholarship
+2021 TYACHT Outstanding Student (5/424)
+2021 Zhiyuan Outstanding Leader Scholarship
+2021 COSCO-shipping Scholarship
+2020 1st Prize, Shanghai Mechanical Engineering Innovation Competition
+2020 2nd Prize, National Mechanical Design Competition
+2019 Shanghai Scholarship (1/206)
 
 <!--
 # 🔧 Skills
