@@ -65,9 +65,9 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
   - Advisor: Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate)
 <!--   - Mentors: Dr. Kyoungho Ha, Prof. [Matthew T. Flavin](https://flavinlab.io/people/), Dr. Wooyoul Maeng -->
   - Projects
-    - Bioelastic haptic actuator
-    - Multi-modal haptic actuator
-    - Soft robot for organoid interface
+      - Bioelastic haptic actuator
+      - Multi-modal haptic actuator
+      - Soft robot for organoid interface
    
 
 - *2021.09 - 2023.09*, RA, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
