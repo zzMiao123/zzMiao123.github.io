@@ -56,7 +56,9 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 # 📖 Educations
 
 - *2025.08 - present*, Ph.D. in MechE, University of Illinois Urbana-Champaign
+<br/>  
 - *2022.09 - 2025.03*, M.S. in MechE, Northwestern University & Shanghai Jiao Tong University (Dual Degree)
+<br/>  
 - *2018.09 - 2022.06*, B.S. (<b>Hons.</b>) in MechE, Shanghai Jiao Tong University 
 
 <br/>
@@ -68,7 +70,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
       - Bioelastic haptic actuator
       - Multi-modal haptic actuator
       - Soft robot for organoid interface
-   
+<br/>     
 
 - *2021.09 - 2023.09*, RA, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
   - Advisor: Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate)
@@ -76,17 +78,17 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
       - Robot-assisted thoracic puncture system
       - Fiber-optic respiration sensor
       - Temporal medical image generation
- 
+<br/>   
 
 - *2022.01 - 2022.10*, Embedded Development Intern, [Espressif](https://www.espressif.com/), Shanghai.
   - Mentors: Zhaocheng Zhan, Li Zhou
   - Project: Mini Pupper (colabrate with Mangdang)
- 
+<br/>   
  
 - *2021.06 - 2021.09*, RA, Institute of Medical Robotics, Shanghai.
   - Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html)
   - Project: redundant robot design and manipulation
- 
+<br/>   
 
 - *2020.02 - 2021.02*, RA, Institute of Robotics, Shanghai.
   - Advisor: Prof. [Jianjun Meng](https://scholar.google.com/citations?hl=en&user=Ahr8ZzsAAAAJ)
