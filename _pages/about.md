@@ -42,6 +42,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br>
 <br>
 # 🔥 News
+- *2025.06*: 🎉 Our paper "*DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking*" has been accepted by IROS2025! 
 - *2025.03*: 🎉🎉 Our paper "*[Full freedom-of-motion actuators as advanced haptic interfaces](https://www.science.org/doi/10.1126/science.adt2481)*" has been published by ***Science***! 
 - *2025.01*: Awarded "Excellent Master Dissertation of School".
 - *2024.12*: 🎓 Successfully passed the Master's dissertation defense, titled "*Full Freedom-of-Motion Haptic Actuator for Efficient Information Transfer in XR*". Many thanks to my advisor, Prof. John Rogers, committee member, Prof. Edward Colgate, and best mentor ever, Dr. Kyoungho Ha! 
@@ -55,7 +56,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br/>
 # 📖 Educations
 
-- *2025.08 - present*, Ph.D. in MechE, University of Illinois Urbana-Champaign
+- *2025.08 - present*, Ph.D. in MechE, University of Illinois at Urbana-Champaign
 <br/>  
 - *2022.09 - 2025.03*, M.S. in MechE, Northwestern University & Shanghai Jiao Tong University (Dual Degree)
 <br/>  
@@ -104,11 +105,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
   W. Maeng, Z. Lyu, K. Kim, K.-H. Ha, <u>Y. Mao</u>, S. Xu, L. Praba, Y. Hwang, J. A. Rogers. Submission planned Apr. 2025
 
 <br/>  
-- [2] **Efficient Tumor Localization During Respiration with Minimal Scanning Based on Recursive Deformable Diffusion Models**
 
-  <u>Y. Mao</u>\*, D. Li\*, W. Sun, D. Zhao, C. Chen, X. Chen. Submitted Feb. 2025
-
-<br/>
 ## Journals
 - [J1] [**Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**](https://www.science.org/doi/10.1126/science.adt2481)
 
@@ -137,8 +134,11 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 
 <br/>
 ## Conferences
+- [C1] **DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking**
 
-- [C1] **A Real-Time Respiratory Analysis System for PET-CT Based on Fiber-Optic Pressure Sensors**
+ <u>D. Li, Y. Shan, <u>Y. Mao</u>, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen*. IEEE IROS, Oct. 2025.
+
+- [C2] **A Real-Time Respiratory Analysis System for PET-CT Based on Fiber-Optic Pressure Sensors**
 
   <u>Y. Mao</u>, P. Tu, W. Liu, Z. Liu, X. Chen. Oral, *China Biomedical Engineering Conference*, May. 2023.
 
@@ -147,7 +147,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 </div>
 
 <br/>
-- [C2] [**A Cable-Driven Hyper-Redundant Robot with Angular Sensing**](https://ieeexplore.ieee.org/document/9739505)
+- [C3] [**A Cable-Driven Hyper-Redundant Robot with Angular Sensing**](https://ieeexplore.ieee.org/document/9739505)
 
   <u>Y. Mao</u>, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao. Oral, *IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Nov. 2021.
 
@@ -268,6 +268,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 
 <br>
 
+<!--
 # Awards
 2023 1st Prize, Young Excellent Paper Competition, BME2023 (China)
 2022 Agilent Scholarship (5/773)
@@ -281,6 +282,7 @@ H. Yan, <u>Y. Mao</u>, H. Mao, Z. Zhang
 2020 1st Prize, Shanghai Mechanical Engineering Innovation Competition
 2020 2nd Prize, National Mechanical Design Competition
 2019 Shanghai Scholarship (1/206)
+--!>
 
 <!--
 # 🔧 Skills
