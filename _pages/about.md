@@ -43,7 +43,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br>
 # 🔥 News
 - *2025.08*: Excited to begin my PhD journey at UIUC.
-- *2025.06*: 🎉 Our paper "*DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking*" has been accepted by IROS2025! 
+- *2025.06*: 🎉 Our paper "*DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking*" has been accepted by IROS 2025! 
 - *2025.03*: 🎉🎉 Our paper "*[Full freedom-of-motion actuators as advanced haptic interfaces](https://www.science.org/doi/10.1126/science.adt2481)*" has been published by ***Science***! 
 - *2025.01*: Awarded "Excellent Master Dissertation of School".
 - *2024.12*: 🎓 Successfully passed the Master's dissertation defense, titled "*Full Freedom-of-Motion Haptic Actuator for Efficient Information Transfer in XR*". Many thanks to my advisor, Prof. John Rogers, committee member, Prof. Edward Colgate, and best mentor ever, Dr. Kyoungho Ha! 
