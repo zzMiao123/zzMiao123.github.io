@@ -137,7 +137,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 ## Conferences
 - [C1] **DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking**
 
- <u>D. Li, Y. Shan, <u>Y. Mao</u>, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen*. IEEE IROS, Oct. 2025.
+ D. Li, Y. Shan, <u>Y. Mao</u>, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen. IEEE IROS, Oct. 2025.
 
 - [C2] **A Real-Time Respiratory Analysis System for PET-CT Based on Fiber-Optic Pressure Sensors**
 
