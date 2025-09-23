@@ -43,12 +43,12 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br>
 # 🔥 News
 - *2025.08*: Excited to begin my PhD journey at UIUC.
-- *2025.06*: 🎉 Our paper "*DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking*" has been accepted by IROS 2025! 
+- *2025.06*: 🎉 Our paper "*DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking*" has been accepted by *IROS 2025*! 
 - *2025.03*: 🎉🎉 Our paper "*[Full freedom-of-motion actuators as advanced haptic interfaces](https://www.science.org/doi/10.1126/science.adt2481)*" has been published by ***Science***! 
 - *2025.01*: Awarded "Excellent Master Dissertation of School".
 - *2024.12*: 🎓 Successfully passed the Master's dissertation defense, titled "*Full Freedom-of-Motion Haptic Actuator for Efficient Information Transfer in XR*". Many thanks to my advisor, Prof. John Rogers, committee member, Prof. Edward Colgate, and best mentor ever, Dr. Kyoungho Ha! 
 - *2024.10*: 🎉🎉 Our paper "*[Bioelastic state recovery for haptic sensory substitution](https://www.nature.com/articles/s41586-024-08155-9)*" has been accepted by ***Nature***! 
-- *2024.01*: 🎉 Our paper "*A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation*" has been accepted by *Computer Methods and Programs in Biomedicine*. 
+- *2024.01*: 🎉 Our paper "*[A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation](https://www.sciencedirect.com/science/article/pii/S0169260723006612)*" has been accepted by *Computer Methods and Programs in Biomedicine*. 
 - *2023.05*: 🏆 Awarded 1st prize for Outstanding Young Scholar Paper at BME2023, Suzhou, China.
 - *2023.01*: 🏆 Awarded the Agilent Scholarship for Excellence in Life Science. Grateful to Agilent for their support!
 - *2022.06*: 🎓 Graduated from SJTU with highest honors (Best Thesis, Honor Degree, and Outstanding Graduate of Shanghai)!
