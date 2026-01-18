@@ -66,6 +66,11 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 
 <br/>
 # 🧑‍💻 Experiences
+- *2025.08 - present*, RA, WISER Lab, UIUC.
+  - Advisor: Prof. [Siyi Xu](https://scholar.google.com/citations?user=XSY9SCIAAAAJ&hl=en)
+
+<br/>  
+
 - *2023.09 - 2025.03*, RA, Simpson Querrey Institute for Bioelectronics, Evanston.
   - Advisor: Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate)
 <!--   - Mentors: Dr. Kyoungho Ha, Prof. [Matthew T. Flavin](https://flavinlab.io/people/), Dr. Wooyoul Maeng -->
