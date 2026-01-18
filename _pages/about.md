@@ -42,7 +42,8 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br>
 <br>
 # 🔥 News
-- *2025.08*: Excited to begin my PhD journey at UIUC.
+- *2026.01*: 🎉 Our paper "Robust non-rigid image-to-patient registration for contactless dynamic thoracic tumor localization using recursive deformable diffusion models*" has been published on *Medical Image Analysis*! 
+- *2025.08*: Excited to begin my PhD journey at UIUC!
 - *2025.06*: 🎉 Our paper "*DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking*" has been accepted by *IROS 2025*! 
 - *2025.03*: 🎉🎉 Our paper "*[Full freedom-of-motion actuators as advanced haptic interfaces](https://www.science.org/doi/10.1126/science.adt2481)*" has been published by ***Science***! 
 - *2025.01*: Awarded "Excellent Master Dissertation of School".
