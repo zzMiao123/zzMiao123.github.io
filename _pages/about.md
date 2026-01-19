@@ -119,14 +119,14 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 
 ## Journals
 - [J1] [**A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation**](https://www.sciencedirect.com/science/article/abs/pii/S0169260723006612)
-
-  D. Li\*, <u>Y. Mao</u>\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. *Computer Methods and Programs in Biomedicine*, Jan. 2024
+  *Computer Methods and Programs in Biomedicine*, Jan. 2024
+  D. Li\*, <u>Y. Mao</u>\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. 
 
 <br/>
 
 - [J2] [**Bioelastic State Recovery for Haptic Sensory Substitution**](https://www.nature.com/articles/s41586-024-08155-9)
-
-  M. Flavin\*, K.-H. Ha\*, Z. Guo\*, S. Li\*, J.-T. Kim\*, T. Saxena, D. Simatos, F. Al-Najjar, <u>Y. Mao</u>, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers. ***Nature***, Nov. 2024
+  ***Nature***, Nov. 2024
+  M. Flavin\*, K.-H. Ha\*, Z. Guo\*, S. Li\*, J.-T. Kim\*, T. Saxena, D. Simatos, F. Al-Najjar, <u>Y. Mao</u>, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers. 
 <div style="text-align: center;">
     <img src='../images/Screenshot 2024-11-06 115717.png' alt="sym" width="70%">
 </div>
