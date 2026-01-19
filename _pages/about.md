@@ -69,7 +69,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 - *2025.08 - present*, RA, Wearable and Implantable Soft Electronics & Robotics (WISER) Lab, UIUC.
   - Advisor: Prof. [Siyi Xu](https://scholar.google.com/citations?user=XSY9SCIAAAAJ&hl=en)
 
-<br/>  
+<br/>
 
 - *2023.09 - 2025.03*, RA, Simpson Querrey Institute for Bioelectronics, Evanston.
   - Advisor: Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate)
@@ -78,6 +78,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
       - Bioelastic haptic actuator
       - Multi-modal haptic actuator
       - Soft robot for organoid interface
+        
 <br/>     
 
 - *2021.09 - 2023.09*, RA, Institute of Biomedical Manufacturing and Life Quality Engineering, Shanghai.
@@ -86,16 +87,19 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
       - Robot-assisted thoracic puncture system
       - Fiber-optic respiration sensor
       - Temporal medical image generation
+
 <br/>   
 
 - *2022.01 - 2022.10*, Embedded Development Intern, [Espressif](https://www.espressif.com/), Shanghai.
   - Mentors: Zhaocheng Zhan, Li Zhou
   - Project: Mini Pupper (colabrate with Mangdang)
+
 <br/>   
  
 - *2021.06 - 2021.09*, RA, Institute of Medical Robotics, Shanghai.
   - Advisor: Prof. [Anzhu Gao](https://imr.sjtu.edu.cn/en/po_facultyv/530.html)
   - Project: redundant robot design and manipulation
+
 <br/>   
 
 - *2020.02 - 2021.02*, RA, Institute of Robotics, Shanghai.
@@ -127,6 +131,8 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
     <img src='../images/Screenshot 2024-11-06 115717.png' alt="sym" width="70%">
 </div>
 
+<br/>
+
 - [J3] [**Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**](https://www.science.org/doi/10.1126/science.adt2481)
 
   K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science***, Mar. 2025
@@ -155,6 +161,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <div style="text-align: center;">
     <img src='../images/ROBIO.png' alt="sym" width="70%">
 </div>
+
 <br/>
 
 - [C2] [**DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking**](https://ieeexplore.ieee.org/abstract/document/11247123)
