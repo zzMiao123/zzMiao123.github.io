@@ -119,12 +119,14 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 
 ## Journals
 - [J1] [**A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation**](https://www.sciencedirect.com/science/article/abs/pii/S0169260723006612)
+  
   *Computer Methods and Programs in Biomedicine*, Jan. 2024
   D. Li\*, <u>Y. Mao</u>\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. 
 
 <br/>
 
 - [J2] [**Bioelastic State Recovery for Haptic Sensory Substitution**](https://www.nature.com/articles/s41586-024-08155-9)
+  
   ***Nature***, Nov. 2024
   M. Flavin\*, K.-H. Ha\*, Z. Guo\*, S. Li\*, J.-T. Kim\*, T. Saxena, D. Simatos, F. Al-Najjar, <u>Y. Mao</u>, S. Bandapalli, C. Fan, D. Bai, Z. Zhang, J. Yoo, M. Park, J. Shin, A. Huang, H. Shin, Y. Huang, Z. Xie, H. Jiang, J. A. Rogers. 
 <div style="text-align: center;">
@@ -134,6 +136,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br/>
 
 - [J3] [**Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**](https://www.science.org/doi/10.1126/science.adt2481)
+  
   ***Science***, Mar. 2025
   K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. 
 <div style="text-align: center;">
@@ -143,18 +146,21 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br/>
 
 - [J4] [**Information Analysis System of Human Respiratory Motion for PET/CT Scanning**](https://link.springer.com/article/10.1007/s12204-025-2833-5)
+  
   *Journal of Shanghai Jiaotong University (Science)*, Jul. 2025
   <u>Y. Mao</u>\*, W. Liu, X. Chen. 
 
 <br/>
 
 - [J5] [**Robust non-rigid image-to-patient registration for contactless dynamic thoracic tumor localization using recursive deformable diffusion models**](https://www.sciencedirect.com/science/article/pii/S1361841526000174)
+  
   *Medical Image Analysis*, Jan. 2026
   D. Li, Y. Shan, <u>Y. Mao</u>\, P. Tu, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen. 
 
 <br/>
 ## Conferences
 - [C1] [**A Cable-Driven Hyper-Redundant Robot with Angular Sensing**](https://ieeexplore.ieee.org/document/9739505)
+  
   Oral, *IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Nov. 2021.
   <u>Y. Mao</u>, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao. 
 
@@ -165,6 +171,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br/>
 
 - [C2] [**DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking**](https://ieeexplore.ieee.org/abstract/document/11247123)
+  
   *IEEE IROS*, Oct. 2025.
   D. Li, Y. Shan, <u>Y. Mao</u>, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen. 
 
