@@ -42,17 +42,17 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br>
 <br>
 # 🔥 News
-- *2026.01*: 🎉 Our paper "Robust non-rigid image-to-patient registration for contactless dynamic thoracic tumor localization using recursive deformable diffusion models*" has been published on *Medical Image Analysis*! 
-- *2025.08*: Excited to begin my PhD journey at UIUC!
-- *2025.06*: 🎉 Our paper "*DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking*" has been accepted by *IROS 2025*! 
+- *2026.01*: 🎉 Our paper "[*Robust non-rigid image-to-patient registration for contactless dynamic thoracic tumor localization using recursive deformable diffusion models*](https://www.sciencedirect.com/science/article/pii/S1361841526000174)" has been published on *Medical Image Analysis*! 
+- *2025.08*: Excited to begin my PhD journey at Prof. Siyi Xu's group, UIUC!
+- *2025.06*: 🎉 Our paper "[*DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking*](https://ieeexplore.ieee.org/abstract/document/11247123)" has been accepted by *IROS 2025*! 
 - *2025.03*: 🎉🎉 Our paper "*[Full freedom-of-motion actuators as advanced haptic interfaces](https://www.science.org/doi/10.1126/science.adt2481)*" has been published by ***Science***! 
-- *2025.01*: Awarded "Excellent Master Dissertation of School".
-- *2024.12*: 🎓 Successfully passed the Master's dissertation defense, titled "*Full Freedom-of-Motion Haptic Actuator for Efficient Information Transfer in XR*". Many thanks to my advisor, Prof. John Rogers, committee member, Prof. Edward Colgate, and best mentor ever, Dr. Kyoungho Ha! 
+- *2025.01*: 🏆 Awarded "Excellent Master Dissertation of School".
+- *2024.12*: 🎓 Successfully passed the Master's dissertation defense, titled "*Full Freedom-of-Motion Haptic Actuator for Efficient Information Transfer in XR*". Many thanks to my advisor, Prof. John Rogers, Prof. Edward Colgate, and Dr. Kyoungho Ha! 
 - *2024.10*: 🎉🎉 Our paper "*[Bioelastic state recovery for haptic sensory substitution](https://www.nature.com/articles/s41586-024-08155-9)*" has been accepted by ***Nature***! 
 - *2024.01*: 🎉 Our paper "*[A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation](https://www.sciencedirect.com/science/article/pii/S0169260723006612)*" has been accepted by *Computer Methods and Programs in Biomedicine*. 
 - *2023.05*: 🏆 Awarded 1st prize for Outstanding Young Scholar Paper at BME2023, Suzhou, China.
 - *2023.01*: 🏆 Awarded the Agilent Scholarship for Excellence in Life Science. Grateful to Agilent for their support!
-- *2022.06*: 🎓 Graduated from SJTU with highest honors (Best Thesis, Honor Degree, and Outstanding Graduate of Shanghai)!
+- *2022.06*: 🎓 Graduated from SJTU with highest honors (*Best Thesis*, *Honours Degree*, and *Outstanding Graduate of Shanghai*)!
 
 <br/>
 <br/>
@@ -66,7 +66,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 
 <br/>
 # 🧑‍💻 Experiences
-- *2025.08 - present*, RA, WISER Lab, UIUC.
+- *2025.08 - present*, RA, Wearable and Implantable Soft Electronics & Robotics (WISER) Lab, UIUC.
   - Advisor: Prof. [Siyi Xu](https://scholar.google.com/citations?user=XSY9SCIAAAAJ&hl=en)
 
 <br/>  
@@ -109,17 +109,14 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 ## Ongoing Works
 - [1] **Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces**
 
-  W. Maeng, Z. Lyu, K. Kim, K.-H. Ha, <u>Y. Mao</u>, S. Xu, L. Praba, Y. Hwang, J. A. Rogers. Submission planned Apr. 2025
+  W. Maeng, Z. Lyu, K. Kim, K.-H. Ha, <u>Y. Mao</u>, S. Xu, L. Praba, Y. Hwang, J. A. Rogers. Submission planned Feb. 2026
 
 <br/>  
 
 ## Journals
-- [J1] [**Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**](https://www.science.org/doi/10.1126/science.adt2481)
+- [J1] [**A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation**](https://www.sciencedirect.com/science/article/abs/pii/S0169260723006612)
 
-  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science***, Mar. 2025
-<div style="text-align: center;">
-    <img src='../images/science.adt2481-f1.jpg' alt="sym" width="70%">
-</div>
+  D. Li\*, <u>Y. Mao</u>\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. *Computer Methods and Programs in Biomedicine*, Jan. 2024
 
 <br/>
 
@@ -129,38 +126,40 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <div style="text-align: center;">
     <img src='../images/Screenshot 2024-11-06 115717.png' alt="sym" width="70%">
 </div>
-  
-<br/>
-- [J3] [**A Robotic System For Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation**](https://www.sciencedirect.com/science/article/abs/pii/S0169260723006612)
 
-  D. Li\*, <u>Y. Mao</u>\*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen. *Computer Methods and Programs in Biomedicine*, Jan. 2024
+- [J3] [**Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**](https://www.science.org/doi/10.1126/science.adt2481)
 
+  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science***, Mar. 2025
 <div style="text-align: center;">
-    <img src='../images/cmpb.png' alt="sym" width="70%">
+    <img src='../images/science.adt2481-f1.jpg' alt="sym" width="70%">
 </div>
+
+<br/>
+
+- [J4] [**Information Analysis System of Human Respiratory Motion for PET/CT Scanning**](https://link.springer.com/article/10.1007/s12204-025-2833-5)
+
+  <u>Y. Mao</u>\*, W. Liu, X. Chen. *Journal of Shanghai Jiaotong University (Science)*, Jul. 2025
+
+<br/>
+
+- [J5] [**Robust non-rigid image-to-patient registration for contactless dynamic thoracic tumor localization using recursive deformable diffusion models**](https://www.sciencedirect.com/science/article/pii/S1361841526000174)
+
+  D. Li, Y. Shan, <u>Y. Mao</u>\, P. Tu, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen. *Medical Image Analysis*, Jan. 2026
 
 <br/>
 ## Conferences
-- [C1] **DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking**
-
-  D. Li, Y. Shan, <u>Y. Mao</u>, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen. IEEE IROS, Oct. 2025.
-
-- [C2] **A Real-Time Respiratory Analysis System for PET-CT Based on Fiber-Optic Pressure Sensors**
-
-  <u>Y. Mao</u>, P. Tu, W. Liu, Z. Liu, X. Chen. Oral, *China Biomedical Engineering Conference*, May. 2023.
-
-<div style="text-align: center;">
-    <img src='../images/Graphical abstract.jpg' alt="sym" width="70%">
-</div>
-
-<br/>
-- [C3] [**A Cable-Driven Hyper-Redundant Robot with Angular Sensing**](https://ieeexplore.ieee.org/document/9739505)
+- [C1] [**A Cable-Driven Hyper-Redundant Robot with Angular Sensing**](https://ieeexplore.ieee.org/document/9739505)
 
   <u>Y. Mao</u>, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao. Oral, *IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Nov. 2021.
 
 <div style="text-align: center;">
     <img src='../images/ROBIO.png' alt="sym" width="70%">
 </div>
+<br/>
+
+- [C2] [**DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking**](https://ieeexplore.ieee.org/abstract/document/11247123)
+
+  D. Li, Y. Shan, <u>Y. Mao</u>, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen. *IEEE IROS*, Oct. 2025.
 
 <br/>
   (\* Equal Authorship)
