@@ -112,8 +112,8 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 
 ## Ongoing Works
 - [1] **Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces**
-
-  W. Maeng, Z. Lyu, K. Kim, K.-H. Ha, <u>Y. Mao</u>, S. Xu, L. Praba, Y. Hwang, J. A. Rogers. Submission planned Feb. 2026
+  Submission planned Feb. 2026
+  W. Maeng, Z. Lyu, K. Kim, K.-H. Ha, <u>Y. Mao</u>, S. Xu, L. Praba, Y. Hwang, J. A. Rogers. 
 
 <br/>  
 
@@ -134,8 +134,8 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br/>
 
 - [J3] [**Full Freedom-of-Motion Actuators as Advanced Haptic Interfaces**](https://www.science.org/doi/10.1126/science.adt2481)
-
-  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. ***Science***, Mar. 2025
+  ***Science***, Mar. 2025
+  K.-H. Ha\*, J. Yoo\*, S. Li\*, <u>Y. Mao</u>, S. Xu, H. Qi, H. Wu, C. Fan, H. Yuan, J.-T. Kim, M. Flavin, S. Yoo, P. Shahir, S. Kim, H.-Y. Ahn, E. Colgate, Y. Huang, J. A. Rogers. 
 <div style="text-align: center;">
     <img src='../images/science.adt2481-f1.jpg' alt="sym" width="70%">
 </div>
@@ -143,20 +143,20 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br/>
 
 - [J4] [**Information Analysis System of Human Respiratory Motion for PET/CT Scanning**](https://link.springer.com/article/10.1007/s12204-025-2833-5)
-
-  <u>Y. Mao</u>\*, W. Liu, X. Chen. *Journal of Shanghai Jiaotong University (Science)*, Jul. 2025
+  *Journal of Shanghai Jiaotong University (Science)*, Jul. 2025
+  <u>Y. Mao</u>\*, W. Liu, X. Chen. 
 
 <br/>
 
 - [J5] [**Robust non-rigid image-to-patient registration for contactless dynamic thoracic tumor localization using recursive deformable diffusion models**](https://www.sciencedirect.com/science/article/pii/S1361841526000174)
-
-  D. Li, Y. Shan, <u>Y. Mao</u>\, P. Tu, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen. *Medical Image Analysis*, Jan. 2026
+  *Medical Image Analysis*, Jan. 2026
+  D. Li, Y. Shan, <u>Y. Mao</u>\, P. Tu, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen. 
 
 <br/>
 ## Conferences
 - [C1] [**A Cable-Driven Hyper-Redundant Robot with Angular Sensing**](https://ieeexplore.ieee.org/document/9739505)
-
-  <u>Y. Mao</u>, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao. Oral, *IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Nov. 2021.
+  Oral, *IEEE International Conference on Robotics and Biomimetics (ROBIO)*, Nov. 2021.
+  <u>Y. Mao</u>, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao. 
 
 <div style="text-align: center;">
     <img src='../images/ROBIO.png' alt="sym" width="70%">
@@ -165,8 +165,8 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br/>
 
 - [C2] [**DRTT : A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking**](https://ieeexplore.ieee.org/abstract/document/11247123)
-
-  D. Li, Y. Shan, <u>Y. Mao</u>, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen. *IEEE IROS*, Oct. 2025.
+  *IEEE IROS*, Oct. 2025.
+  D. Li, Y. Shan, <u>Y. Mao</u>, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen. 
 
 <br/>
   (\* Equal Authorship)
