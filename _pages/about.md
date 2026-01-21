@@ -162,7 +162,7 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
   
   *Medical Image Analysis*, Jan. 2026
   
-  D. Li, Y. Shan, <u>Y. Mao</u>\, P. Tu, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen. 
+  D. Li, Y. Shan, <u>Y. Mao</u>, P. Tu, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen. 
 
 <br/>
 ## Conferences
