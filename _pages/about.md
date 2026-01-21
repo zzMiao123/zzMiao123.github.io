@@ -58,11 +58,11 @@ Research Interests: Haptics, Soft Robotics, Surgical Robotics.
 <br/>
 # 📖 Educations
 
-- *2025.08 - present*, Ph.D. in MechE, University of Illinois at Urbana-Champaign
+- *2025.08 - present*, Ph.D., University of Illinois at Urbana-Champaign
 <br/>  
-- *2022.09 - 2025.03*, M.S. in MechE, Northwestern University & M.Eng. in MechE, Shanghai Jiao Tong University
+- *2022.09 - 2025.03*, M.S., Northwestern University & Shanghai Jiao Tong University
 <br/>  
-- *2018.09 - 2022.06*, B.S. (<b>Hons.</b>) in MechE, Shanghai Jiao Tong University 
+- *2018.09 - 2022.06*, B.S. (<b>Hons.</b>), Shanghai Jiao Tong University 
 
 <br/>
 # 🧑‍💻 Experiences
