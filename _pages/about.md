@@ -31,7 +31,7 @@ Beyond research, I am passionate about transforming concepts from textbooks into
 
 Research Interests: Haptics, Soft Robotics, Surgical Robotics. 
 * 5+ yrs of research experiences on robotics
-* lead/core author of 7 papers including ***Nature*** and ***Science***. <a href='https://scholar.google.com/citations?user=SCHOLAR_ID&user=EIWmxl8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+* lead/core author of 7 papers including ***Nature*** and ***Science***. <a href='https://scholar.google.com/citations?user=EIWmxl8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 * Skillset ranging from rapid prototyping, mechatronics system, machine learning and bio-signal monitoring...
 
 <div style="text-align: center;">
