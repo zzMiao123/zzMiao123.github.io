@@ -2,6 +2,7 @@ name: Get Citation Data
 
 on: 
  page_build: 
+ workflow_dispatch: 
  schedule:
   - cron:  '0 8 * * *'
 
@@ -9,15 +10,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
     - name: Run
       run: |
         cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
+        pip install -r requirements.txt
+        python main.py
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
