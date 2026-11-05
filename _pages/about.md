@@ -48,6 +48,7 @@ Before UIUC, I received my M.S. from **Northwestern University** and **Shanghai 
 </figure>
 
 # 🔥 News
+- *2026.09*: 📜 Granted a Chinese invention patent (CN117283527B) on inverse kinematics of the 3-RRR spherical parallel robot behind our wrist rehabilitation device.
 - *2026.01*: 🎉 Our paper "[*Robust non-rigid image-to-patient registration for contactless dynamic thoracic tumor localization using recursive deformable diffusion models*](https://doi.org/10.1016/j.media.2026.103948)" has been published in *Medical Image Analysis*!
 - *2025.08*: 🎓 Started my Ph.D. in Prof. Siyi Xu's group at UIUC!
 - *2025.06*: 🎉 Our paper "[*DRTT: A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking*](https://doi.org/10.1109/IROS60139.2025.11247123)" has been accepted to *IROS 2025*!
@@ -147,7 +148,7 @@ Beyond research, I enjoy designing robots and AI systems inspired by nature and 
 
 ## Robots and Mechanisms
 
-<div class='paper-box'><div class='paper-box-image'><div><video src='/images/web/rrr-bot.mp4' width="80%" autoplay loop muted playsinline preload="metadata"></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Patent Granted</div><video src='/images/web/rrr-bot.mp4' width="80%" autoplay loop muted playsinline preload="metadata"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Wrist Rehabilitation Assistive Device Based on a 3-RRR Mechanism**
@@ -157,6 +158,7 @@ Beyond research, I enjoy designing robots and AI systems inspired by nature and 
 - A 3-RRR spherical parallel mechanism provides independent rotation in three degrees of freedom (DoF), covering the full range of wrist motion.
 - Force sensors and an IMU enable accurate trajectory reproduction with controlled resistance, letting patients with wrist injuries train muscles across 3 DoF with adaptive damping.
 - **Excellence in Technology Award**, 2023 Mechatronics Fair, School of Mechanical Engineering, SJTU.
+- Granted invention patent (CN117283527B), 2026.
 
 </div>
 </div>
