@@ -34,7 +34,7 @@ Beyond research, I am passionate about transforming concepts from textbooks into
 
 Hi! I'm Yuxuan (Ethan) Mao, a Ph.D. student in Mechanical Engineering at the **University of Illinois Urbana-Champaign (UIUC)**, advised by Prof. [Siyi Xu](https://scholar.google.com/citations?user=XSY9SCIAAAAJ&hl=en) in the [WISER Lab](https://publish.illinois.edu/wiserlaboratory/). My research focuses on **soft, stretchable sensors and actuators** for **wearable haptics** and **human–robot interaction**, spanning device design, fabrication, modeling, and system integration.
 
-Before UIUC, I received my M.S. from **Northwestern University** and **Shanghai Jiao Tong University**, where I worked with Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate) on haptic actuators, and my B.S. (Hons.) in Mechanical Engineering from **Shanghai Jiao Tong University**, where I worked on surgical robotics and medical sensing.
+Before UIUC, I received my M.S. from **Northwestern University** and **Shanghai Jiao Tong University**, where I worked with Prof. [John A. Rogers](https://scholar.google.com/citations?hl=en&user=VLxoLPsAAAAJ&view_op=list_works&sortby=pubdate) on haptic actuators, and my B.S. (Hons.) in Mechanical Engineering from **Shanghai Jiao Tong University**, where I worked with Prof. [Xiaojun Chen](https://scholar.google.com/citations?hl=en&user=NpzvK0kAAAAJ&view_op=list_works&sortby=pubdate) on surgical robotics and medical sensing.
 
 **Research Interests:** Wearable Haptics · Soft Sensors & Actuators · Human–Robot Interaction · Surgical Robotics
 
