@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuxuan Mao"
-description              : "25'@Northwestern 22'@Shanghai JiaoTong Univ."
+description              : "Wearable haptics & soft robotics. Ph.D. @UIUC · M.S. @Northwestern · B.S. @SJTU"
 repository               : "zzMiao123/zzMiao123.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuxuan (Ethan) Mao"
-  avatar           : "images/yuxuan_mao-sjtu.jpg"
-  bio              : "UIUC MechE PhD Student, Robotics Engineer"
-  location         : "Champaign, IL"
+  avatar           : "images/web/avatar.jpg"
+  bio              : "Ph.D. Student, Mechanical Engineering, UIUC"
+  location         : "Urbana-Champaign, IL"
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=EIWmxl8AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=EIWmxl8AAAAJ"
   email            : "yuxuanm5@illinois.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
