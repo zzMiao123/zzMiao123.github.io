@@ -114,7 +114,7 @@ Beyond research, I am passionate about transforming concepts from textbooks into
 </div>
 
 <div class="card">
-  <div class="card-media"><span class="tag">MedIA 2026</span><div class="tile">Medical Image<br>Analysis</div></div>
+  <div class="card-media"><img src="/images/web/media-2026.jpg" alt="Contactless image-to-patient registration" loading="lazy"></div>
   <div class="card-body">
     <a class="title" href="https://doi.org/10.1016/j.media.2026.103948">Robust Non-Rigid Image-to-Patient Registration for Contactless Dynamic Thoracic Tumor Localization Using Recursive Deformable Diffusion Models</a>
     <span class="authors">D. Li, Y. Shan, <u>Y. Mao</u>, P. Tu, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen</span>
@@ -123,7 +123,7 @@ Beyond research, I am passionate about transforming concepts from textbooks into
 </div>
 
 <div class="card">
-  <div class="card-media"><span class="tag">IROS 2025</span><div class="tile">IEEE/RSJ<br>IROS</div></div>
+  <div class="card-media"><img src="/images/web/iros-2025.jpg" alt="Tumor deformation and error maps" loading="lazy"></div>
   <div class="card-body">
     <a class="title" href="https://doi.org/10.1109/IROS60139.2025.11247123">DRTT: A Diffusion-Based Framework for 4DCT Generation, Robust Thoracic Registration and Tumor Deformation Tracking</a>
     <span class="authors">D. Li, Y. Shan, <u>Y. Mao</u>, H. Shi, S. Huang, W. Sun, C. Chen, X. Chen</span>
@@ -132,16 +132,7 @@ Beyond research, I am passionate about transforming concepts from textbooks into
 </div>
 
 <div class="card">
-  <div class="card-media"><span class="tag">JSJTU 2025</span><img src="/images/web/jsjtu-2025.jpg" alt="Respiratory motion analysis system" loading="lazy"></div>
-  <div class="card-body">
-    <a class="title" href="https://doi.org/10.1007/s12204-025-2833-5">Information Analysis System of Human Respiratory Motion for PET/CT Scanning</a>
-    <span class="authors"><u>Y. Mao</u>*, W. Liu, X. Chen</span>
-    <span class="venue">Journal of Shanghai Jiao Tong University (Science), 2025</span>
-  </div>
-</div>
-
-<div class="card">
-  <div class="card-media"><span class="tag">CMPB 2024</span><img src="/images/web/cmpb-2024.jpg" alt="Robotic thoracic puncture system" loading="lazy"></div>
+  <div class="card-media"><img src="/images/web/cmpb-2024.jpg" alt="Robotic thoracic puncture system" loading="lazy"></div>
   <div class="card-body">
     <a class="title" href="https://doi.org/10.1016/j.cmpb.2023.107995">A Robotic System for Transthoracic Puncture of Pulmonary Nodules Based on Gated Respiratory Compensation</a>
     <span class="authors">D. Li*, <u>Y. Mao</u>*, P. Tu, H. Shi, W. Sun, D. Zhao, C. Chen, X. Chen</span>
@@ -150,11 +141,11 @@ Beyond research, I am passionate about transforming concepts from textbooks into
 </div>
 
 <div class="card">
-  <div class="card-media"><span class="tag">ROBIO 2021 · Oral</span><img src="/images/web/robio-2021.jpg" alt="Cable-driven hyper-redundant robot" loading="lazy"></div>
+  <div class="card-media"><img src="/images/web/robio-2021.jpg" alt="Cable-driven hyper-redundant robot" loading="lazy"></div>
   <div class="card-body">
     <a class="title" href="https://doi.org/10.1109/ROBIO54168.2021.9739505">A Cable-Driven Hyper-Redundant Robot with Angular Sensing</a>
     <span class="authors"><u>Y. Mao</u>, J. Yu, L. Wang, Y. Zou, Z. Lin, W. Chen, A. Gao</span>
-    <span class="venue">IEEE International Conference on Robotics and Biomimetics (ROBIO), 2021</span>
+    <span class="venue">IEEE International Conference on Robotics and Biomimetics (ROBIO), 2021 · Oral</span>
   </div>
 </div>
 
@@ -186,7 +177,7 @@ Beyond research, I am passionate about transforming concepts from textbooks into
     <span class="title">Mini Pupper: A Lightweight, Modular 12-DoF Quadruped Robot Based on ESP32</span>
     <span class="authors">MangDang Tech, <u>Y. Mao</u>, Z. Zhang</span>
     <span class="links"><a href="https://www.kickstarter.com/projects/mdrobotkits/mini-pupper-2-open-source-ros2-robot-kit-for-dreamers">Project</a> · <a href="https://youtu.be/KGVOi1Mrjb0?t=138">Video</a></span>
-    <p>A lightweight, modular quadruped developed across the full stack; validated micro-ROS on ESP32.</p>
+    <p>Developed the ESP32 firmware and the inverse-kinematics (IK) locomotion algorithm.</p>
   </div>
 </div>
 
