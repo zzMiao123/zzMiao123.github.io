@@ -1,30 +1,42 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- workflow_dispatch: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+
+concurrency:
+  group: citation-data
+  cancel-in-progress: true
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-python@v5
       with:
         python-version: '3.12'
-    - name: Run
+    - name: Fetch citations
+      working-directory: ./google_scholar_crawler
+      env:
+        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
       run: |
-        cd ./google_scholar_crawler
         pip install -r requirements.txt
         python main.py
-        cd ./results
-        git init
+    - name: Push to google-scholar-stats branch
+      working-directory: ./google_scholar_crawler/results
+      run: |
+        git init -q
         git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+        git config --local user.email "${GITHUB_ACTOR}@users.noreply.github.com"
         git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        git commit -q -m "Updated Citation Data"
+        git push -q "https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git" HEAD:google-scholar-stats --force
+    - name: Purge jsDelivr cache
+      run: |
+        for f in gs_data.json gs_data_shieldsio.json; do
+          curl -fsS "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@google-scholar-stats/$f" || true
+        done
