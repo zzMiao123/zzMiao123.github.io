@@ -245,3 +245,18 @@ ul.timeline .meta { display: block; color: $muted; font-size: .88em; }
     .card { flex-direction: column; gap: .8em; }
     .card-media { flex-basis: auto; width: 100%; max-width: 380px; }
 }
+
+/* ---- Footer: visit counter ---- */
+.site-footer {
+    @include container;
+    clear: both;
+    margin-top: 2.5em;
+    padding: 1.4em 1em 2em;
+    border-top: 1px solid #eaeaea;
+    text-align: center;
+    font-size: .78em;
+    color: $muted;
+    @include breakpoint($x-large) { max-width: $x-large; }
+    b { color: #555; font-weight: 600; font-variant-numeric: tabular-nums; }
+    .copyright { margin-top: .4em; font-size: .92em; }
+}
