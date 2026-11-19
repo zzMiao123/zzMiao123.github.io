@@ -149,11 +149,16 @@ Beyond research, I am passionate about transforming concepts from textbooks into
   </div>
 </div>
 
-## In Preparation
+## Preprints
 
-<ul class="timeline">
-  <li><span class="what"><b>Multimodal Microscaled Soft Robotic Actuator for Human Organoids Interfaces</b><span class="meta">W. Maeng, Z. Lyu, K. Kim, K.-H. Ha, <u>Y. Mao</u>, S. Xu, L. Praba, Y. Hwang, J. A. Rogers</span></span></li>
-</ul>
+<div class="card">
+  <div class="card-media"><img src="/images/web/biorxiv-2026.jpg" alt="Soft robotic gripper compressing and stretching organoids" loading="lazy"></div>
+  <div class="card-body">
+    <a class="title" href="https://doi.org/10.64898/2026.10.28.762586">Mesoscale Soft Robotics for Mechanically Perturbing and Functionally Monitoring Responses in Human Organoids</a>
+    <span class="authors">W. Maeng, Z. Lv, Y. Samei, K. Ha, K. S. Kim, L. P. Prabakar, I. A. Chychula, V. Iyer, B. Li, <u>Y. Mao</u>, S. Xu, T. W. Park, S. Li, C. W. Holgren, Y. J. Jo, H. Ahn, N. Liu, S. Yoo, S. Oh, J. Koo, E. M. McNally, I. R. Efimov, D. E. Fullenkamp, Y. Huang, J. D. Finan, J. A. Rogers</span>
+    <span class="venue">bioRxiv, 2026</span>
+  </div>
+</div>
 
 <span class='anchor' id='projects'></span>
 
